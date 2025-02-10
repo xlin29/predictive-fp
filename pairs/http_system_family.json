@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:40827f1cd37df896ba2a22f57a442e376937d088aea012cb62c00cffd708ba9c
-size 949
+{"Android--Linux": 4525}
+{"iOS--Mac OS X": 3338}
+{"Mac OS X--iOS": 2086}
+{"Linux--Android": 1622}
+{"Windows--Linux": 211}
+{"Linux--Windows": 208}
+{"Android--Windows": 180}
+{"Windows--Android": 150}
+{"iOS--Windows": 90}
+{"Mac OS X--Windows": 86}
+{"Windows--Other": 72}
+{"Windows--Mac OS X": 63}
+{"Other--Windows": 60}
+{"Linux--Ubuntu": 56}
+{"Ubuntu--Linux": 49}
+{"Windows--iOS": 44}
+{"Mac OS X--Linux": 31}
+{"Linux--Mac OS X": 29}
+{"Other--iOS": 15}
+{"Linux--Other": 8}
+{"Other--Linux": 7}
+{"Mac OS X--Other": 6}
+{"Android--Mac OS X": 5}
+{"Other--Mac OS X": 5}
+{"Chrome OS--Android": 4}
+{"Android--Chrome OS": 4}
+{"Windows--Ubuntu": 3}
+{"Mac OS X--Android": 2}
+{"Android--Other": 2}
+{"Chrome OS--Mac OS X": 1}
+{"Mac OS X--Chrome OS": 1}
+{"Ubuntu--Windows": 1}
+{"iOS--Android": 1}
+{"Mac OS X--Ubuntu": 1}
+{"Ubuntu--Mac OS X": 1}
+{"Windows--Chromecast": 1}
+{"Chromecast--Android": 1}
+{"Chromecast--Windows": 1}
+{"Android--iOS": 1}
+{"Fedora--Linux": 1}

@@ -1,3 +1,100 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a148aea31667fed19880b62393923680bb8bf1a941af948db4d2bac8ff9892b4
-size 2905
+{"Linux armv8l--Linux armv81": 7000}
+{"iPhone--MacIntel": 3789}
+{"Linux aarch64--Linux armv8l": 2706}
+{"Linux armv8l--Linux aarch64": 2687}
+{"MacIntel--iPhone": 2479}
+{"Linux aarch64--Linux armv81": 1808}
+{"iPhone--Win32": 1017}
+{"MacIntel--Win32": 1002}
+{"Win32--MacIntel": 956}
+{"iPad--MacIntel": 940}
+{"Linux armv7l--Linux armv81": 869}
+{"MacIntel--iPad": 805}
+{"Win32--iPhone": 781}
+{"Linux armv81--Linux armv8l": 599}
+{"Linux armv81--Linux aarch64": 573}
+{"iPhone--iPad": 484}
+{"Linux aarch64--Win32": 467}
+{"iPad--iPhone": 430}
+{"Linux aarch64--Linux armv7l": 428}
+{"Win32--Linux x86_64": 427}
+{"Linux x86_64--Win32": 414}
+{"Win32--Linux aarch64": 395}
+{"Linux armv8l--Win32": 380}
+{"iPhone--Linux aarch64": 364}
+{"Linux armv7l--Linux aarch64": 361}
+{"Linux armv8l--Linux armv7l": 359}
+{"Linux armv7l--Linux armv8l": 350}
+{"Linux aarch64--iPhone": 350}
+{"Linux armv81--Win32": 314}
+{"Win32--Linux armv8l": 299}
+{"Win32--Linux armv81": 288}
+{"iPhone--Linux armv81": 264}
+{"iPhone--Linux armv8l": 258}
+{"Linux armv8l--iPhone": 249}
+{"Linux aarch64--MacIntel": 240}
+{"MacIntel--Linux aarch64": 204}
+{"Linux armv81--iPhone": 193}
+{"Linux armv8l--MacIntel": 166}
+{"MacIntel--Linux armv8l": 148}
+{"Linux armv81--MacIntel": 120}
+{"MacIntel--Linux armv81": 118}
+{"Linux armv81--Linux armv7l": 91}
+{"Linux x86_64--MacIntel": 88}
+{"MacIntel--Linux x86_64": 80}
+{"Linux aarch64--Linux x86_64": 63}
+{"Win32--Linux armv7l": 49}
+{"Linux armv7l--Win32": 41}
+{"iPhone--Linux armv7l": 24}
+{"iPad--Win32": 23}
+{"Win32--iPad": 19}
+{"Linux armv81--Linux x86_64": 19}
+{"Linux x86_64--Linux armv81": 17}
+{"Linux x86_64--Linux armv8l": 16}
+{"iPhone--Linux x86_64": 16}
+{"Linux armv7l--MacIntel": 15}
+{"Linux armv7l--iPhone": 15}
+{"MacIntel--Linux armv7l": 14}
+{"Win32--Windows": 12}
+{"Linux armv8l--Linux x86_64": 11}
+{"Linux x86_64--Linux aarch64": 11}
+{"Linux x86_64--iPhone": 10}
+{"Linux i686--Linux armv8l": 9}
+{"Windows--Win32": 8}
+{"Linux aarch64--iPad": 8}
+{"iPod touch--iPhone": 7}
+{"Linux armv8l--Linux i686": 6}
+{"iPhone--iPod touch": 6}
+{"iPad--Linux aarch64": 5}
+{"Linux armv81--iPad": 5}
+{"Linux aarch64--Linux i686": 4}
+{"Win32--iOS": 3}
+{"MacIntel--Windows": 3}
+{"iPad--Linux x86_64": 3}
+{"Linux x86_64--Windows": 3}
+{"iPad--Linux armv8l": 3}
+{"iOS--Win32": 3}
+{"iPad--Linux armv81": 3}
+{"Win32--Linux i686": 3}
+{"Win64--Win32": 3}
+{"Linux i686--Linux aarch64": 2}
+{"Windows--Linux x86_64": 2}
+{"Linux armv8l--iPad": 2}
+{"Android--Win32": 2}
+{"Linux armv7l--iPad": 2}
+{"Linux i686--Win32": 2}
+{"Win32--Win64": 2}
+{"Linux armv81--Linux i686": 2}
+{"iOS--Windows": 1}
+{"Windows--Linux": 1}
+{"Linux i686--Linux armv81": 1}
+{"Windows--Android": 1}
+{"Linux x86_64--Linux i686": 1}
+{"Linux i686--Linux x86_64": 1}
+{"Linux x86_64--Linux armv7l": 1}
+{"Win32--Android": 1}
+{"iPhone--Linux i686": 1}
+{"general Mobile Device--Win32": 1}
+{"Windows--MacIntel": 1}
+{"Linux aarch64--Windows": 1}
+{"Linux x86_64--Linux": 1}

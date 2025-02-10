@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3e298d7605dd37e82127b388242732d39956d80cb0182c4daeb43b2a5cf495d
-size 572
+{
+    "id_analysis": {
+        "consistent_baseline_id": {
+            "count": 1229,
+            "ratio": "28.32%"
+        },
+        "consistent_predictive_id": {
+            "count": 4123,
+            "ratio": "95.00%"
+        },
+        "unique_id": {
+            "count": 1070,
+            "ratio": "24.65%"
+        },
+        "unique_predictive_id": {
+            "count": 3087,
+            "ratio": "71.13%"
+        },
+        "all_id": 11976,
+        "all_predictive_id": 3860
+    },
+    "user_analysis": {
+        "avg_visit": 14.58,
+        "users": 4340
+    }
+}

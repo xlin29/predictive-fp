@@ -1,3 +1,1918 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8495df0888e5264dbcb1329cfffcc2a12464fc3345c6f2a7537c1ae5c90b6931
-size 55856
+{"iPhone--Generic Smartphone": 8699}
+{"iPhone--PC": 8641}
+{"Generic Smartphone--iPhone": 7238}
+{"PC--iPhone": 7195}
+{"K--PC": 3889}
+{"PC--Generic Smartphone": 2042}
+{"Generic Smartphone--PC": 2015}
+{"PC--K": 1329}
+{"iPad--PC": 947}
+{"PC--iPad": 820}
+{"K--Generic Smartphone": 708}
+{"Generic Smartphone--K": 695}
+{"iPhone--Other": 585}
+{"Samsung SM-A146U--K": 534}
+{"Other--iPhone": 522}
+{"iPhone--iPad": 415}
+{"iPad--iPhone": 401}
+{"Other--PC": 338}
+{"PC--Other": 322}
+{"Samsung SM-S901U--K": 267}
+{"Samsung SM-S908U--K": 252}
+{"K--iPhone": 249}
+{"Samsung SM-A037U--K": 199}
+{"Samsung SM-A546U--K": 155}
+{"Samsung SM-S908U--iPhone": 147}
+{"Generic Smartphone--Other": 137}
+{"Nexus 5--PC": 135}
+{"TMAF025G--K": 123}
+{"PC--Nexus 5": 123}
+{"Other--Generic Smartphone": 112}
+{"Samsung SM-S918U--K": 111}
+{"Motorola g pure--K": 106}
+{"Motorola g play - 2023--K": 101}
+{"Samsung SM-S911U--K": 97}
+{"Samsung SM-S906U--K": 97}
+{"Samsung SM-A326U--K": 89}
+{"iPad--Generic Smartphone": 88}
+{"Samsung SM-S918U--iPhone": 88}
+{"Samsung SM-G998U--iPhone": 87}
+{"Motorola g 5G (2022)--K": 87}
+{"Samsung SM-G991U--K": 86}
+{"Samsung SM-A136U--K": 85}
+{"Samsung SM-F721U--K": 82}
+{"Samsung SM-S134DL--K": 76}
+{"Samsung SM-G991U--iPhone": 75}
+{"TMAF035G--K": 74}
+{"Motorola g 5G - 2023--K": 70}
+{"Samsung SM-S908U--PC": 70}
+{"Samsung SM-G998U--K": 67}
+{"Samsung SM-A125U--K": 65}
+{"Generic Smartphone--iPad": 63}
+{"Motorola g stylus 5G (2022)--K": 62}
+{"Samsung SM-S901U--iPhone": 62}
+{"Samsung SM-A236U--K": 60}
+{"Pixel 7--K": 60}
+{"Motorola g stylus 5G--K": 60}
+{"Pixel 6a--K": 60}
+{"Samsung SM-S916U--K": 58}
+{"Samsung SM-A146U--iPhone": 57}
+{"Samsung SM-G781U--K": 57}
+{"Samsung SM-G990U2--K": 53}
+{"Motorola g power (2022)--K": 52}
+{"U616AT--K": 51}
+{"Samsung SM-S908U--Generic Smartphone": 50}
+{"Samsung SM-G960U--K": 49}
+{"Samsung SM-G970U--K": 49}
+{"Samsung SM-S906U--iPhone": 48}
+{"Pixel 7 Pro--K": 47}
+{"Samsung SM-S918U--PC": 46}
+{"Samsung SM-A135U--K": 45}
+{"Samsung SM-N986U--K": 45}
+{"Samsung SM-G996U--K": 44}
+{"Samsung SM-N960U--K": 43}
+{"Samsung SM-S911U--iPhone": 43}
+{"Samsung SM-G781V--K": 42}
+{"Motorolarola edge 5G UW (2021)--K": 41}
+{"Samsung SM-G996U--iPhone": 41}
+{"Samsung SM-G998U--PC": 40}
+{"Samsung SM-G973U--K": 40}
+{"Samsung SM-S146VL--K": 40}
+{"Samsung SM-G975U--K": 39}
+{"Samsung SM-A136U--iPhone": 39}
+{"OnePlus DE2118--K": 39}
+{"Samsung SM-G991U--PC": 38}
+{"PC--Kindle": 36}
+{"Motorolarola edge (2022)--K": 35}
+{"Samsung SM-S908U1--iPhone": 35}
+{"Samsung SM-A536U--K": 35}
+{"iPhone--K": 34}
+{"Samsung SM-N986U--iPhone": 34}
+{"Pixel 7a--K": 34}
+{"Samsung SM-F936U--K": 33}
+{"Samsung SM-A146U--PC": 32}
+{"Pixel 6--iPhone": 32}
+{"Pixel 7--iPhone": 31}
+{"Samsung SM-G998U--Generic Smartphone": 31}
+{"T430W--K": 31}
+{"Oppo CPH2515--K": 31}
+{"Samsung SM-S916U--iPhone": 31}
+{"Kindle--PC": 30}
+{"T602DL--K": 30}
+{"Samsung SM-A205U--K": 30}
+{"Samsung SM-A146U--Generic Smartphone": 30}
+{"Samsung SM-A037U--iPhone": 30}
+{"Samsung SM-S901U--PC": 30}
+{"Samsung SM-G981U--K": 28}
+{"iPhone--Nokia G4005GBuild": 28}
+{"Samsung SM-G990U--iPhone": 28}
+{"Motorola g stylus (2023)--K": 28}
+{"Samsung SM-G991U--Generic Smartphone": 28}
+{"Samsung SM-F711U--K": 28}
+{"Samsung SM-S918U--Generic Smartphone": 27}
+{"Samsung SM-G965U--K": 27}
+{"Samsung SM-A526U--K": 27}
+{"Samsung SM-G998U1--K": 27}
+{"Samsung SM-A326U--iPhone": 27}
+{"Samsung SM-A546V--K": 27}
+{"Samsung SM-S901U--Generic Smartphone": 27}
+{"PC--Samsung SM-S908U": 26}
+{"Samsung SM-F936U--iPhone": 26}
+{"Samsung SM-N960U--iPhone": 26}
+{"Samsung SM-A146U1--K": 26}
+{"Samsung SM-N981U--K": 26}
+{"Samsung SM-G990U--K": 25}
+{"Samsung SM-N950U--K": 25}
+{"Samsung SM-G781U--iPhone": 24}
+{"Nokia G4005GBuild--iPhone": 24}
+{"Motorola g power (2021)--K": 24}
+{"Motorola g stylus (2022)--K": 23}
+{"Samsung SM-F926U--K": 23}
+{"Samsung SM-N981U--iPhone": 23}
+{"Samsung SM-A025U--K": 23}
+{"Samsung SM-N975U--K": 23}
+{"REVVL V+ 5G--K": 23}
+{"iPhone--Nokia X100Build": 23}
+{"Samsung SM-A326U--PC": 22}
+{"Pixel 7 Pro--iPhone": 22}
+{"B131DL--K": 22}
+{"Samsung SM-G986U--K": 21}
+{"Samsung SM-A426U--K": 21}
+{"Motorola g power 5G - 2023--K": 21}
+{"Samsung SM-S236DL--K": 21}
+{"Motorola g 5G (2022) Build--iPhone": 21}
+{"Samsung SM-N975U--iPhone": 20}
+{"Samsung SM-A536U--iPhone": 19}
+{"Motorola g power (2022) Build--iPhone": 19}
+{"iPhone--Samsung SM-G998U": 19}
+{"Samsung SM-G950U--K": 19}
+{"Samsung SM-S918U1--K": 19}
+{"Samsung SM-F926U--iPhone": 19}
+{"Motorola g stylus 5G - 2023--K": 19}
+{"Samsung SM-A716U--K": 18}
+{"Samsung SM-A037U1--K": 18}
+{"Samsung SM-A546U1--K": 18}
+{"Samsung SM-S136DL--K": 18}
+{"Samsung SM-A102U--K": 17}
+{"Motorola g play (2021)--K": 17}
+{"Samsung SM-G975U--iPhone": 17}
+{"LM-K500--K": 17}
+{"Samsung SM-S906U--PC": 17}
+{"Samsung SM-G996U--PC": 17}
+{"OnePlus DE2118--iPhone": 16}
+{"Samsung SM-A136U--PC": 16}
+{"Samsung SM-G960U--iPhone": 16}
+{"Samsung SM-A326U--Generic Smartphone": 16}
+{"Samsung SM-N986U--PC": 16}
+{"Samsung SM-S918U1--PC": 16}
+{"Samsung SM-N960U--PC": 16}
+{"PC--Samsung SM-G998U": 16}
+{"Samsung SM-A037U--PC": 16}
+{"Pixel 6a--iPhone": 16}
+{"Samsung SM-S918U1--iPhone": 16}
+{"SM-X200--K": 16}
+{"PC--Samsung SM-S918U": 16}
+{"Motorolarola edge plus 5G UW (2022)--K": 16}
+{"Motorolarola one 5G UW ace--K": 16}
+{"Samsung SM-T227U--K": 15}
+{"Pixel 6 Pro--iPhone": 15}
+{"Samsung SM-F711U--iPhone": 15}
+{"Samsung SM-S906U--Generic Smartphone": 15}
+{"Samsung SM-S908U1--PC": 15}
+{"N156DL--K": 15}
+{"Oppo CPH2389--K": 15}
+{"Nokia X100Build--iPhone": 15}
+{"Samsung SM-G973U--PC": 15}
+{"Samsung SM-N986U--Generic Smartphone": 14}
+{"Motorola g pure Build--iPhone": 14}
+{"Samsung SM-A215U--K": 14}
+{"Samsung SM-A136U--Generic Smartphone": 14}
+{"Samsung SM-G965U--iPhone": 14}
+{"Samsung SM-A236U--iPhone": 14}
+{"Schok Volt SV55--K": 14}
+{"Samsung SM-F936U--PC": 14}
+{"Samsung SM-G986U--iPhone": 13}
+{"Samsung SM-G955U--K": 13}
+{"Samsung SM-A515U--K": 13}
+{"Samsung SM-G990U2--iPhone": 13}
+{"Motorolarola one 5G ace Build--iPhone": 13}
+{"Motorola g stylus--K": 13}
+{"Pixel 6--K": 13}
+{"Samsung SM-G930V--K": 13}
+{"T767W--K": 13}
+{"Samsung SM-N975U--PC": 13}
+{"Samsung SM-G988U--iPhone": 13}
+{"Samsung SM-S916U--PC": 13}
+{"Samsung SM-N981U--PC": 13}
+{"Samsung SM-N970U--K": 12}
+{"Samsung SM-A716U--PC": 12}
+{"5087Z--K": 12}
+{"Motorola e--K": 12}
+{"N1374DL--K": 12}
+{"LM-Q730--K": 12}
+{"Samsung SM-A236V--K": 12}
+{"Motorola g stylus 5G (2022)--iPhone": 12}
+{"SM-T580--K": 12}
+{"Samsung SM-A037U--Generic Smartphone": 12}
+{"Samsung SM-G781V--iPhone": 12}
+{"Samsung SM-A716U--iPhone": 12}
+{"Samsung SM-G973U--iPhone": 12}
+{"Samsung SM-G988U--PC": 12}
+{"Samsung SM-S911U--Generic Smartphone": 12}
+{"Samsung SM-G781U--PC": 12}
+{"Samsung SM-G965U--PC": 12}
+{"Samsung SM-A115U--K": 12}
+{"9137W--K": 11}
+{"Samsung SM-A125U1--K": 11}
+{"LM-Q720--K": 11}
+{"T779W--K": 11}
+{"Nokia X100--K": 11}
+{"SL101AE--K": 11}
+{"Samsung SM-A505U--K": 11}
+{"Samsung SM-G988U--K": 11}
+{"PC--Samsung SM-G996U": 11}
+{"LM-X320--K": 11}
+{"Samsung SM-G970U--Generic Smartphone": 11}
+{"Motorolarola edge 5G UW (2021)--iPhone": 11}
+{"Samsung SM-G960U--PC": 11}
+{"Samsung SM-S911U--PC": 11}
+{"Samsung SM-G973U--Generic Smartphone": 11}
+{"Samsung SM-A546U--iPhone": 11}
+{"SM-T510--K": 10}
+{"PC--Samsung SM-T510": 10}
+{"iPhone--Generic Tablet": 10}
+{"Samsung SM-G981U--PC": 10}
+{"Samsung SM-G996U--Generic Smartphone": 10}
+{"PC--Samsung SM-N986U": 10}
+{"TMRVL4G--K": 10}
+{"Motorola g stylus 5G Build--iPhone": 10}
+{"LM-K300--K": 10}
+{"PC--Samsung SM-A136U": 10}
+{"iPhone--Samsung SM-S908U": 10}
+{"Samsung SM-G998U1--iPhone": 10}
+{"Samsung SM-T500--PC": 10}
+{"Nokia G400--K": 10}
+{"PC--Samsung SM-G991U": 10}
+{"PC--Samsung SM-S908U1": 10}
+{"PC--Samsung SM-N975U": 10}
+{"Samsung SM-G970U--iPhone": 10}
+{"Motorola g(7) power--K": 10}
+{"Gionee GN2200--K": 10}
+{"iOS-Device--PC": 10}
+{"Samsung SM-A526U--iPhone": 10}
+{"Pixel 7 Pro--Generic Smartphone": 10}
+{"Samsung SM-S901U1--iPhone": 10}
+{"Samsung SM-S546VL--K": 10}
+{"TMAF025G--iPhone": 9}
+{"Samsung SM-S908U1--K": 9}
+{"HD65--K": 9}
+{"PC--Samsung SM-S918U1": 9}
+{"Samsung SM-G981U--iPhone": 9}
+{"Motorola g pure Build--Generic Smartphone": 9}
+{"Pixel 6--Generic Smartphone": 9}
+{"Samsung SM-S901U1--K": 9}
+{"Samsung SM-F721U--iPhone": 9}
+{"Samsung SM-G973U1--iPhone": 9}
+{"Samsung SM-G990U--Generic Smartphone": 9}
+{"Samsung SM-S134DL--iPhone": 9}
+{"iPhone--Samsung SM-S918U": 9}
+{"iPhone--Samsung SM-A146U": 9}
+{"Samsung SM-S916U--Generic Smartphone": 9}
+{"4188C--K": 9}
+{"OnePlus IN2017--K": 9}
+{"LM-X420--K": 9}
+{"PC--Samsung SM-S901U": 9}
+{"Motorolarola one 5G ace--K": 9}
+{"Generic Smartphone--Samsung SM-G998U": 9}
+{"Samsung SM-G986U1--iPhone": 9}
+{"Samsung SM-S134DL--PC": 9}
+{"Samsung SM-A135U--iPhone": 8}
+{"Samsung SM-G960U--Generic Smartphone": 8}
+{"SM-P613--K": 8}
+{"Motorola g 5G (2022) Build--Generic Smartphone": 8}
+{"Samsung SM-G781V--PC": 8}
+{"Samsung SM-T510--PC": 8}
+{"TMAF035G--iPhone": 8}
+{"Samsung SM-T738U--K": 8}
+{"Motorola g stylus 5G Build--Generic Smartphone": 8}
+{"Samsung SM-A536V--K": 8}
+{"Samsung SM-S908U1--Generic Smartphone": 8}
+{"PC--Samsung SM-T500": 8}
+{"EC211002--K": 8}
+{"Samsung SM-G991U1--iPhone": 8}
+{"iPhone--Nokia G100Build": 8}
+{"Samsung SM-A426U--iPhone": 8}
+{"Samsung SM-G986U--PC": 8}
+{"Samsung SM-A135U--PC": 8}
+{"Samsung SM-N960U--Generic Smartphone": 8}
+{"Motorola g stylus Build--iPhone": 8}
+{"Samsung SM-A716U--Generic Smartphone": 8}
+{"Samsung SM-A326U1--K": 8}
+{"PC--Samsung SM-S906U": 7}
+{"Samsung SM-G990U2--PC": 7}
+{"OnePlus BE2025--K": 7}
+{"Samsung SM-A025V--K": 7}
+{"PC--Nokia G4005GBuild": 7}
+{"Samsung SM-A516U--K": 7}
+{"Samsung SM-G975U1--PC": 7}
+{"Samsung SM-G996U1--iPhone": 7}
+{"PC--Samsung SM-A037U": 7}
+{"Stratus_C7--K": 7}
+{"Samsung SM-G781U--Generic Smartphone": 7}
+{"SM-T220--K": 7}
+{"Generic Smartphone--Nokia G4005GBuild": 7}
+{"SL201D--K": 7}
+{"4188R--K": 7}
+{"PC--Samsung SM-A146U": 7}
+{"Motorola z4--K": 7}
+{"Samsung SM-F936U1--PC": 7}
+{"Samsung SM-G991U1--K": 7}
+{"Samsung SM-S906U1--K": 7}
+{"SM-P610--K": 7}
+{"Samsung SM-F936U1--K": 7}
+{"iPhone--Samsung SM-F936U": 7}
+{"Samsung SM-F936U--Generic Smartphone": 7}
+{"Samsung SM-J737T1--K": 7}
+{"U328AA--K": 7}
+{"Motorola g pure Build--PC": 7}
+{"Pixel 2 XL--K": 7}
+{"WTCELERO5G--K": 7}
+{"Pixel 7--Generic Smartphone": 7}
+{"Pixel 6 Pro--K": 7}
+{"Samsung SM-A125U--iPhone": 7}
+{"Oppo CPH2389--iPhone": 7}
+{"Samsung SM-A015V--K": 7}
+{"Samsung SM-G781U1--iPhone": 7}
+{"Samsung SM-S906U1--iPhone": 7}
+{"U668AC--K": 7}
+{"PC--Samsung SM-G960U": 7}
+{"EC1002--K": 7}
+{"Motorola g power (2022) Build--Generic Smartphone": 7}
+{"Samsung SM-N975U--Generic Smartphone": 7}
+{"Samsung SM-N986U1--K": 6}
+{"LM-G820--K": 6}
+{"T767W--iPhone": 6}
+{"Samsung SM-J337V--K": 6}
+{"Nokia G4005GBuild--Generic Smartphone": 6}
+{"T601DL--K": 6}
+{"Samsung SM-F926U--PC": 6}
+{"SN304AE--K": 6}
+{"Samsung SM-S215DL--K": 6}
+{"OnePlus KB2007--K": 6}
+{"Samsung SM-S127DL--K": 6}
+{"Samsung SM-G998U1--PC": 6}
+{"Samsung SM-G975U--Generic Smartphone": 6}
+{"Samsung SM-G975U--PC": 6}
+{"Samsung SM-A516U--iPhone": 6}
+{"Samsung SM-A536U--PC": 6}
+{"Samsung SM-F711U--PC": 6}
+{"Pixel 3--K": 6}
+{"Samsung SM-A205U--iPhone": 6}
+{"Samsung SM-G970U--PC": 6}
+{"Samsung SM-G975U1--K": 6}
+{"PC--iOS-Device": 6}
+{"PC--Samsung SM-G970U": 6}
+{"Nokia G100Build--iPhone": 6}
+{"B140DL--K": 6}
+{"Samsung SM-G981V--iPhone": 6}
+{"Nokia C110--K": 6}
+{"Samsung SM-T560NU--K": 6}
+{"Samsung SM-F936U1--iPhone": 6}
+{"Motorola g fast--K": 6}
+{"PC--Samsung SM-G781U": 6}
+{"Samsung SM-S536DL--K": 6}
+{"Samsung SM-A102U--iPhone": 6}
+{"Samsung SM-A135U1--K": 6}
+{"Samsung SM-X200--PC": 6}
+{"A509DL--K": 6}
+{"Samsung SM-G975U1--iPhone": 6}
+{"PC--Samsung SM-G965U": 6}
+{"iPhone--Samsung SM-G991U": 6}
+{"PC--Samsung SM-N960U": 6}
+{"PC--Samsung SM-G981U": 6}
+{"Samsung SM-F936U1--Generic Smartphone": 6}
+{"Samsung SM-N986U1--iPhone": 6}
+{"P63L--K": 6}
+{"PC--Samsung SM-N981U": 6}
+{"Samsung SM-G981V--K": 6}
+{"Samsung SM-N976U--K": 6}
+{"PC--Samsung SM-S134DL": 6}
+{"Samsung SM-J737T--K": 6}
+{"Samsung SM-N986U1--PC": 6}
+{"Samsung SM-A125U--PC": 6}
+{"Samsung SM-A236U--PC": 6}
+{"WTCKT01--K": 5}
+{"Samsung SM-J260A--K": 5}
+{"Pixel 5--iPhone": 5}
+{"Samsung SM-F711U--Generic Smartphone": 5}
+{"Pixel 4a (5G)--K": 5}
+{"Samsung SM-F926U1--K": 5}
+{"Pixel 3a--K": 5}
+{"Samsung SM-S136DL--iPhone": 5}
+{"Motorolarola edge (2022) Build--iPhone": 5}
+{"PC--Samsung SM-F926U": 5}
+{"K--Other": 5}
+{"Generic Smartphone--Samsung SM-A146U": 5}
+{"LM-X410(FG)--K": 5}
+{"Celero5G--K": 5}
+{"X8ULTRA--K": 5}
+{"Samsung SM-F926U--Generic Smartphone": 5}
+{"PC--Samsung SM-A326U": 5}
+{"Samsung SM-A115A--K": 5}
+{"Pixel 4a (5G)--iPhone": 5}
+{"Samsung SM-G990U--PC": 5}
+{"iPhone--Samsung SM-N986U": 5}
+{"Motorola g stylus 5G (2022)--Generic Smartphone": 5}
+{"PC--Samsung SM-G975U": 5}
+{"SL100EA--K": 5}
+{"Motorolarola one 5G UW--K": 5}
+{"Samsung SM-A546U--PC": 5}
+{"PC--Samsung SM-F711U": 5}
+{"Samsung SM-G996U1--K": 5}
+{"Motorola g power (2021) Build--iPhone": 5}
+{"Samsung SM-G990U3--K": 5}
+{"Samsung SM-A236U1--K": 5}
+{"PC--Nokia X100Build": 5}
+{"Samsung SM-G986U--Generic Smartphone": 5}
+{"Samsung SM-N950U--iPhone": 5}
+{"LG-TP260--K": 5}
+{"Motorola e6--K": 5}
+{"PC--Samsung SM-N950U": 5}
+{"iPhone--LG-TP450": 5}
+{"Samsung SM-G950U--PC": 5}
+{"OnePlus DE2118--PC": 5}
+{"Pixel 5a--K": 5}
+{"E6910--K": 5}
+{"Nokia 5--iPhone": 5}
+{"Samsung SM-T307U--K": 5}
+{"Samsung SM-S916U1--iPhone": 5}
+{"Gionee GN2200--Generic Smartphone": 5}
+{"SM-T500--K": 5}
+{"U616AT--iPhone": 5}
+{"Samsung SM-G981U1--iPhone": 5}
+{"U319AA--K": 5}
+{"Pixel 4a--iPhone": 5}
+{"Pixel Fold--K": 5}
+{"5007Z--K": 5}
+{"SM-T290--K": 5}
+{"iPhone--Samsung SM-G996U": 5}
+{"PC--Samsung SM-T580": 5}
+{"Samsung SM-S515DL--K": 5}
+{"Samsung SM-G973U1--K": 5}
+{"Samsung SM-A536U1--K": 5}
+{"Samsung SM-A526U--PC": 5}
+{"PC--Samsung SM-A526U": 5}
+{"LML212VL--K": 5}
+{"Motorola g pure--PC": 5}
+{"PC--Samsung SM-S916U": 5}
+{"Generic Tablet--iPhone": 5}
+{"LGL722DL--K": 5}
+{"LGL322DL--K": 5}
+{"Motorola g stylus 5G (2022) Build--iPhone": 5}
+{"Samsung SM-A102U--PC": 5}
+{"Samsung SM-A536U--Generic Smartphone": 5}
+{"Motorola g(7) play--K": 5}
+{"Samsung SM-S918U1--Generic Smartphone": 5}
+{"Nokia G4005GBuild--PC": 5}
+{"Samsung SM-A546U--Generic Smartphone": 5}
+{"Generic Smartphone--Kindle": 5}
+{"PC--Samsung SM-G988U": 5}
+{"LM-G710VM--K": 5}
+{"Samsung SM-N981U--Generic Smartphone": 5}
+{"Pixel 6 Pro--Generic Smartphone": 4}
+{"Samsung SM-G991U1--Generic Smartphone": 4}
+{"E7110--K": 4}
+{"Pixel 6a--PC": 4}
+{"Pixel 3 XL--K": 4}
+{"Pixel 4 XL--K": 4}
+{"Samsung SM-A516V--K": 4}
+{"EC211001--K": 4}
+{"Samsung SM-G981U--Generic Smartphone": 4}
+{"Samsung SM-G781V--Generic Smartphone": 4}
+{"LM-G710--K": 4}
+{"LM-V405--K": 4}
+{"Samsung SM-F926U1--iPhone": 4}
+{"Generic Smartphone--Samsung SM-S908U": 4}
+{"Samsung SM-S911U1--K": 4}
+{"Samsung SM-T970--PC": 4}
+{"Samsung SM-J737V--K": 4}
+{"Samsung SM-G781U1--K": 4}
+{"iPhone--Samsung SM-G975U": 4}
+{"PC--Samsung SM-A536U": 4}
+{"Samsung SM-G965U1--iPhone": 4}
+{"PC--Samsung SM-F936U": 4}
+{"Generic Smartphone--Samsung SM-N986U": 4}
+{"Samsung SM-N975U1--PC": 4}
+{"PC--Samsung SM-F926U1": 4}
+{"iPhone--Samsung SM-N981U": 4}
+{"Samsung SM-N950U--PC": 4}
+{"Motorola g stylus (XT2115DL)--K": 4}
+{"LG-TP450--iPhone": 4}
+{"PC--Samsung SM-F936U1": 4}
+{"Samsung SM-T870--PC": 4}
+{"LGL555DL--K": 4}
+{"Pixel 7a--iPhone": 4}
+{"PC--Samsung SM-P610": 4}
+{"5007S--K": 4}
+{"Samsung SM-G930A--Samsung SAMSUNG-SM-G930A": 4}
+{"LM-X220--K": 4}
+{"Motorola g play - 2023 Build--iPhone": 4}
+{"Samsung SM-A526U--Generic Smartphone": 4}
+{"LGMP260--K": 4}
+{"NITRO N62--K": 4}
+{"Nokia X100--iPhone": 4}
+{"Samsung SM-G950U1--K": 4}
+{"Samsung SM-N960U1--K": 4}
+{"Generic Smartphone--Samsung SM-S918U": 4}
+{"Generic Smartphone--Nokia X100Build": 4}
+{"Gionee GN2200--iPhone": 4}
+{"Motorolarola edge plus (2022)--K": 4}
+{"Motorola g stylus (2021)--K": 4}
+{"Samsung SM-N976U--iPhone": 4}
+{"Samsung SM-A515U--iPhone": 4}
+{"Nokia X100Build--PC": 4}
+{"K--iPad": 4}
+{"OnePlus BE2028--K": 4}
+{"Samsung SM-G988U--Generic Smartphone": 4}
+{"Generic Smartphone--Samsung SM-G991U": 4}
+{"Motorola g power (2021) Build--Generic Smartphone": 4}
+{"iPhone--Samsung SM-N960U": 4}
+{"PC--Samsung SM-N986U1": 4}
+{"Samsung SM-T580--PC": 4}
+{"Generic Smartphone--Samsung SM-S906U": 4}
+{"Samsung SM-G990U2--Generic Smartphone": 4}
+{"PC--Samsung SM-G950F": 4}
+{"Samsung SM-J737A--K": 4}
+{"Samsung SM-G965U1--PC": 4}
+{"G40--K": 4}
+{"iPhone--Samsung SM-A037U": 4}
+{"Samsung SM-G955U--iPhone": 4}
+{"Samsung SM-S146VL--iPhone": 4}
+{"Samsung SM-T727V--K": 4}
+{"Samsung SM-N981U1--PC": 4}
+{"OnePlus DE2118--Generic Smartphone": 4}
+{"iPhone--Samsung SM-A716U": 4}
+{"LM-X210APM--K": 4}
+{"Samsung SM-J727A--Samsung SAMSUNG-SM-J727A": 4}
+{"EA211002--K": 4}
+{"Samsung SM-J700T--K": 4}
+{"Samsung SM-A426U--PC": 4}
+{"Samsung SM-A125U--Generic Smartphone": 4}
+{"Samsung SM-A146U1--iPhone": 4}
+{"Pixel 6a--Generic Smartphone": 4}
+{"OnePlus LE2117--iPhone": 4}
+{"Samsung SM-A236U--Generic Smartphone": 4}
+{"PC--Samsung SM-G973U": 4}
+{"Samsung SM-S901U1--PC": 4}
+{"Motorola e5 play--K": 4}
+{"LM-Q710(FGN)--K": 3}
+{"WTCELERO5G--iPhone": 3}
+{"Samsung SM-S146VL--PC": 3}
+{"iPhone--Samsung SM-N920ABuild": 3}
+{"Pixel 7a--Generic Smartphone": 3}
+{"Motorola g stylus (2022) Build--iPhone": 3}
+{"T671G--K": 3}
+{"Samsung SM-N970U1--iPhone": 3}
+{"TMAF035G--Generic Smartphone": 3}
+{"Samsung SM-A516U--PC": 3}
+{"iPhone--Samsung SM-N986U1": 3}
+{"LM-K500--iPhone": 3}
+{"Samsung SM-S102DL--K": 3}
+{"TMAF025G--PC": 3}
+{"Z982--K": 3}
+{"MX-A10R--K": 3}
+{"Samsung SM-T387V--K": 3}
+{"Motorola g stylus Build--PC": 3}
+{"Samsung SM-G955U--Generic Smartphone": 3}
+{"Samsung SM-A205U--Generic Smartphone": 3}
+{"Samsung SM-G970U1--Generic Smartphone": 3}
+{"T430W--iPhone": 3}
+{"VS501--K": 3}
+{"Gionee GN2200--PC": 3}
+{"RC608L--K": 3}
+{"Generic Smartphone--Samsung SM-G781U": 3}
+{"Studio Mini 2023--K": 3}
+{"Samsung SM-F711U1--PC": 3}
+{"PC--OnePlus DE2118": 3}
+{"Samsung SM-N976V--iPhone": 3}
+{"OnePlus DE2117--K": 3}
+{"EABF22206A--K": 3}
+{"Samsung SM-P610--PC": 3}
+{"Samsung SM-G960U1--K": 3}
+{"Samsung SM-G955U--PC": 3}
+{"Samsung SM-J327T--K": 3}
+{"Pixel 5--Generic Smartphone": 3}
+{"Pixel 7--PC": 3}
+{"LM-V600--K": 3}
+{"Samsung SM-G981V--PC": 3}
+{"Samsung SM-G988U1--K": 3}
+{"TMAF025G--Generic Smartphone": 3}
+{"Samsung SM-F926U1--PC": 3}
+{"Samsung SM-G965U1--K": 3}
+{"Samsung SM-A526U1--K": 3}
+{"Motorolarola edge plus 2023--K": 3}
+{"PC--Samsung SM-T870": 3}
+{"Samsung SM-X808U--K": 3}
+{"N152DL--K": 3}
+{"Samsung SM-N970U--PC": 3}
+{"PC--Samsung SM-G950U": 3}
+{"Samsung SM-A015AZ--K": 3}
+{"Samsung SM-S908U--iPad": 3}
+{"Samsung SM-T878U--K": 3}
+{"Samsung SM-F916U--K": 3}
+{"Nokia 8V5GUWBuild--iPhone": 3}
+{"Samsung SM-S916U1--K": 3}
+{"5062Z--K": 3}
+{"9198S--K": 3}
+{"Samsung SM-A505U--iPhone": 3}
+{"PC--Samsung SM-N981U1": 3}
+{"A600DL--K": 3}
+{"Samsung SM-N981U1--iPhone": 3}
+{"E6810--K": 3}
+{"PC--Samsung SM-G986U": 3}
+{"Pixel 7 Pro--PC": 3}
+{"Samsung SM-T727V--PC": 3}
+{"PC--Samsung SM-T727V": 3}
+{"LM-X210(G)--K": 3}
+{"Motorola g power--K": 3}
+{"iPhone--Samsung SM-N970U": 3}
+{"Samsung SM-A505U1--K": 3}
+{"OnePlus BE2012--K": 3}
+{"PC--Samsung SM-G975U1": 3}
+{"T501C--K": 3}
+{"iPhone--Samsung SM-F926U": 3}
+{"Samsung SM-G891A--Samsung SAMSUNG-SM-G891A": 3}
+{"Samsung SM-G965U--Generic Smartphone": 3}
+{"Samsung SM-F946U--K": 3}
+{"iPhone--Samsung SM-G996U1": 3}
+{"C5L--K": 3}
+{"PC--Samsung SM-G781V": 3}
+{"Samsung SM-G970U1--K": 3}
+{"T602DL--Generic Smartphone": 3}
+{"iPhone--Nokia 8V5GUWBuild": 3}
+{"Samsung SM-A115U--iPhone": 3}
+{"iPhone--Samsung SM-S906U": 3}
+{"Samsung SM-A716V--K": 3}
+{"Samsung SM-S906U1--Generic Smartphone": 3}
+{"iPhone--Samsung SM-A326U": 3}
+{"TMAF035G--PC": 3}
+{"Samsung SM-N981U1--K": 3}
+{"Samsung SM-S136DL--PC": 3}
+{"Samsung SM-A536V--iPhone": 3}
+{"Samsung SM-G973U1--PC": 3}
+{"PC--Samsung SM-G973U1": 3}
+{"SM-T350--K": 3}
+{"Motorola z3--K": 3}
+{"Samsung SM-A015T1--K": 3}
+{"Samsung SM-A215U--iPhone": 3}
+{"Samsung SM-G950U--iPhone": 3}
+{"PC--Samsung SM-A236U": 3}
+{"Samsung SM-S326DL--K": 3}
+{"Samsung SM-J727AZ--Samsung SAMSUNG-SM-J727AZ": 3}
+{"Samsung SM-A515U1--K": 3}
+{"U318AA--K": 3}
+{"Motorola g stylus 5G (2022) Build--PC": 3}
+{"Samsung SM-F721U1--K": 3}
+{"SM-T550--K": 3}
+{"Samsung SM-S906U1--PC": 3}
+{"SKY PAD8--K": 3}
+{"LM-V600--Generic Smartphone": 3}
+{"iPhone--Samsung SM-G955U": 3}
+{"Oppo CPH2389--Generic Smartphone": 3}
+{"Pixel 3 XL--iPhone": 3}
+{"LM-V600--iPhone": 3}
+{"VS996--iPhone": 3}
+{"Samsung SM-S236DL--iPhone": 3}
+{"Samsung SM-G965U1--Generic Smartphone": 3}
+{"4188S--K": 3}
+{"OnePlus IN2017--iPhone": 3}
+{"PC--Samsung SM-T720": 3}
+{"Samsung SM-T720--PC": 3}
+{"Samsung SM-G981U1--K": 3}
+{"Samsung SM-S911U1--iPhone": 3}
+{"PC--Samsung SM-A102U": 3}
+{"SM-T733--K": 3}
+{"Samsung SM-G986U1--PC": 3}
+{"5007W--K": 3}
+{"5062W--K": 3}
+{"Samsung SM-S908E--iPhone": 3}
+{"SKY B63--K": 3}
+{"Motorolarola one 5G UW ace Build--iPhone": 3}
+{"Samsung SM-G892A--iPhone": 3}
+{"Samsung SM-S367VL--K": 3}
+{"Samsung SM-N975U1--K": 3}
+{"Samsung SM-G988U1--iPhone": 3}
+{"Generic Smartphone--Samsung SM-S901U": 3}
+{"Samsung SM-A546U1--iPhone": 3}
+{"iPhone--Nokia 5": 3}
+{"iPhone--Samsung SM-G981U1": 3}
+{"Samsung SM-A716U1--K": 3}
+{"C5L Max--K": 3}
+{"Samsung SM-G975U1--Generic Smartphone": 3}
+{"Samsung SM-S127DL--PC": 3}
+{"Motorola g play - 2023 Build--Generic Smartphone": 3}
+{"Samsung SM-S111DL--K": 3}
+{"Samsung SM-F731U--iPhone": 3}
+{"LM-Q730--iPhone": 3}
+{"cp3705AS--K": 3}
+{"Samsung SM-J260T1--K": 3}
+{"Pixel 6--PC": 3}
+{"OnePlus LE2117--K": 3}
+{"Pixel 2 XL--iPhone": 3}
+{"Samsung SM-G970U1--iPhone": 3}
+{"OnePlus IN2019--K": 3}
+{"Nokia C2--K": 3}
+{"Samsung SM-F946U1--iPhone": 3}
+{"LM-G900TM--K": 3}
+{"OnePlus KB2005--Generic Smartphone": 2}
+{"LGL322DL--PC": 2}
+{"Samsung SM-S136DL--Generic Smartphone": 2}
+{"PC--Nokia X100": 2}
+{"Pixel 3--iPhone": 2}
+{"Generic Smartphone--Motorolarola one 5G ace Build": 2}
+{"EA211001--Generic Smartphone": 2}
+{"Samsung SM-G930A--K": 2}
+{"Nokia G400 5G--iPhone": 2}
+{"9032Z--K": 2}
+{"XP8800--K": 2}
+{"Samsung SM-N970U1--K": 2}
+{"LM-Q610(FGN)--K": 2}
+{"5087Z--PC": 2}
+{"MH-T6000--K": 2}
+{"EA211001--K": 2}
+{"Samsung SM-G950U1--PC": 2}
+{"Samsung SM-A146U--Other": 2}
+{"Samsung SM-A045F--K": 2}
+{"Samsung SM-S918B--PC": 2}
+{"Motorola e5 cruise--K": 2}
+{"iPhone--Asus I005DCBuild": 2}
+{"Samsung SM-S536DL--iPhone": 2}
+{"Samsung SM-F711U1--iPhone": 2}
+{"Samsung SM-G736U--K": 2}
+{"Samsung SM-S102DL--iPhone": 2}
+{"U693CL--K": 2}
+{"100071481--K": 2}
+{"Samsung SM-A146U1--Generic Smartphone": 2}
+{"Pixel 2 XL--Generic Smartphone": 2}
+{"SM-J737VPP--K": 2}
+{"iPhone--Lenovo TB-X304F": 2}
+{"Pixel 6 Pro--PC": 2}
+{"Samsung SM-A217M--K": 2}
+{"PC--Samsung SM-G955U": 2}
+{"Samsung SM-T377V--K": 2}
+{"iPhone--Samsung SM-G986U": 2}
+{"Generic Smartphone--Samsung SM-S911U": 2}
+{"iPhone--Asus I001DBuild": 2}
+{"Asus I001DBuild--iPhone": 2}
+{"Samsung SM-A716V--PC": 2}
+{"LM-G710--Generic Smartphone": 2}
+{"TAB-8US2--K": 2}
+{"XT1710-02--K": 2}
+{"Oppo CPH2513--K": 2}
+{"Stratus_C5_Elite--K": 2}
+{"PC--Samsung SM-X808U": 2}
+{"Samsung SM-X808U--PC": 2}
+{"Generic Smartphone--Samsung SM-G781V": 2}
+{"Generic Smartphone--Samsung SM-S908U1": 2}
+{"Motorolarola one 5G UW Build--Generic Smartphone": 2}
+{"Samsung SM-A115U--Generic Smartphone": 2}
+{"OnePlus IN2017--Generic Smartphone": 2}
+{"iPhone--Samsung SM-A426U": 2}
+{"Motorola g play (2021) Build--iPhone": 2}
+{"LG-M150--K": 2}
+{"Samsung SM-A146U--iPad": 2}
+{"LM-X210CM--K": 2}
+{"LGMS210--K": 2}
+{"SKY Pad10--PC": 2}
+{"PC--SKY Pad10": 2}
+{"iPod--iPhone": 2}
+{"PC--Motorola g stylus (2022)": 2}
+{"Motorolarola edge plus (2022) Build--iPhone": 2}
+{"PC--Samsung SM-A205U": 2}
+{"Motorola g stylus (2022)--PC": 2}
+{"LM-G820--PC": 2}
+{"iPad--Other": 2}
+{"PC--Samsung SM-N950U1": 2}
+{"Samsung SM-G990U1--iPhone": 2}
+{"Samsung SM-A136U1--K": 2}
+{"OnePlus IN2019--iPhone": 2}
+{"Alcatel_5004R--K": 2}
+{"PC--Samsung SM-T227U": 2}
+{"Samsung SM-T227U--PC": 2}
+{"PC--Samsung SM-A516U": 2}
+{"Motorola e (XT2052DL)--K": 2}
+{"JR-J71--K": 2}
+{"Samsung SM-A325F--iPhone": 2}
+{"Samsung SM-S115DL--iPhone": 2}
+{"Samsung SM-F711U1--K": 2}
+{"Samsung SM-N976U--Generic Smartphone": 2}
+{"Samsung SM-F721U--Generic Smartphone": 2}
+{"Surface Duo--K": 2}
+{"5062Z--PC": 2}
+{"WTCELERO5G--Generic Smartphone": 2}
+{"Oppo CPH2515--Generic Smartphone": 2}
+{"Oppo CPH2419--K": 2}
+{"Samsung SM-A516U--Generic Smartphone": 2}
+{"Samsung SM-N960U1--iPhone": 2}
+{"Generic Smartphone--Motorola g stylus 5G Build": 2}
+{"N150DL--K": 2}
+{"Samsung SM-A125U1--iPhone": 2}
+{"PC--Samsung SM-N975U1": 2}
+{"Generic Smartphone--Samsung SM-G975U": 2}
+{"Samsung SM-G996U1--PC": 2}
+{"PC--Samsung SM-G996U1": 2}
+{"Motorola g(7) power Build--iPhone": 2}
+{"PC--Samsung SM-F711U1": 2}
+{"Samsung SM-S918U--Other": 2}
+{"Samsung SM-J737T1--PC": 2}
+{"Samsung SM-T517P--K": 2}
+{"B131DL--PC": 2}
+{"PC--B131DL": 2}
+{"iPhone--Samsung SM-A236U": 2}
+{"Pixel 5a--iPhone": 2}
+{"iPhone--Samsung SM-G981V": 2}
+{"Samsung SM-A426U1--K": 2}
+{"Samsung SM-P613--PC": 2}
+{"U626AA--K": 2}
+{"PC--Motorola g pure": 2}
+{"U705AA--K": 2}
+{"OnePlus LE2127--K": 2}
+{"Samsung SM-S515DL--iPhone": 2}
+{"Samsung SM-S767VL--K": 2}
+{"iPhone--LG-G710": 2}
+{"Generic Smartphone--Samsung SM-A326U": 2}
+{"iPhone--Samsung SM-G981U": 2}
+{"ACK2326--K": 2}
+{"Samsung SM-J700T1--K": 2}
+{"9024W--K": 2}
+{"E7200--K": 2}
+{"Samsung SM-A145M--K": 2}
+{"Samsung SM-A215U--PC": 2}
+{"PC--Samsung SM-A215U": 2}
+{"PC--Samsung SM-S767VL": 2}
+{"iPhone--Samsung SM-A135U": 2}
+{"Samsung SM-J727V--K": 2}
+{"Motorola g stylus 5G (2022)--PC": 2}
+{"iPhone--VS988": 2}
+{"NITRO N62--Generic Smartphone": 2}
+{"Nokia C300--K": 2}
+{"Generic Smartphone--Samsung SM-N960U": 2}
+{"Asus I006DBuild--iPhone": 2}
+{"iPhone--Samsung SM-N975U": 2}
+{"Samsung SM-S124DL--K": 2}
+{"Samsung SM-T860--PC": 2}
+{"Samsung SM-G960U1--Generic Smartphone": 2}
+{"Nokia G400 5G--Generic Smartphone": 2}
+{"Generic Smartphone--Samsung SM-F936U": 2}
+{"Samsung SM-N970U--iPhone": 2}
+{"Samsung SM-A716V--iPhone": 2}
+{"Samsung SM-A042M--K": 2}
+{"Generic Smartphone--Samsung SM-A426U": 2}
+{"Samsung SM-A426U--Generic Smartphone": 2}
+{"EA1002--K": 2}
+{"Samsung SM-S236DL--Generic Smartphone": 2}
+{"PC--Samsung SM-A716U": 2}
+{"Samsung SM-F926U--Other": 2}
+{"Spider--iPhone": 2}
+{"Samsung SM-S326DL--PC": 2}
+{"PC--Samsung SM-A426U": 2}
+{"PC--Samsung SM-N960U1": 2}
+{"Pixel 5--PC": 2}
+{"Motorolarola edge plus 5G UW (2022)--iPhone": 2}
+{"Generic Smartphone--Samsung SM-N960U1": 2}
+{"Motorola g power (2022)--PC": 2}
+{"Samsung SM-G950U--Generic Smartphone": 2}
+{"Samsung SM-G973U1--Generic Smartphone": 2}
+{"Samsung SM-T500--Generic Smartphone": 2}
+{"G51 Plus--K": 2}
+{"Premier5Max--K": 2}
+{"Samsung SM-G950F--PC": 2}
+{"Samsung SM-G981U1--Generic Smartphone": 2}
+{"Generic Smartphone--Samsung SM-G965U1": 2}
+{"Samsung SM-A125M--K": 2}
+{"Samsung SM-A125U1--PC": 2}
+{"Samsung SM-A025M--K": 2}
+{"Pixel 3--PC": 2}
+{"SM-T870--K": 2}
+{"Samsung SM-S134DL--Generic Smartphone": 2}
+{"Samsung SM-A025U1--K": 2}
+{"PC--Samsung SM-X900": 2}
+{"Pixel 4a--K": 2}
+{"iPhone--Samsung SM-S901U": 2}
+{"Nokia X100Build--Generic Smartphone": 2}
+{"OnePlus GM1915--K": 2}
+{"Samsung SM-G781U1--PC": 2}
+{"Samsung SM-N976V--PC": 2}
+{"Celero5G+--K": 2}
+{"PC--Samsung SM-T307U": 2}
+{"iPhone--Samsung SM-A136U": 2}
+{"iPhone--Samsung SM-G990U2": 2}
+{"LG-V520--K": 2}
+{"PC--Samsung SM-N970U": 2}
+{"Generic Smartphone--Motorola g pure Build": 2}
+{"Generic Smartphone--Generic Tablet": 2}
+{"VS988--iPhone": 2}
+{"Samsung SM-A526U1--Generic Smartphone": 2}
+{"Generic Tablet--Generic Smartphone": 2}
+{"Samsung SM-A536U1--PC": 2}
+{"2209116AG--K": 2}
+{"iPhone--Samsung SM-J327T1": 2}
+{"Motorolarola razr plus 2023--K": 2}
+{"Generic Smartphone--Samsung SM-F711U": 2}
+{"Pixel 3a--iPhone": 2}
+{"Samsung SM-S515DL--PC": 2}
+{"LM-G900--K": 2}
+{"Motorola g power (2022) Build--PC": 2}
+{"PC--Samsung SM-G991U1": 2}
+{"Samsung SM-A217M--PC": 2}
+{"Motorola g play (XT2093DL)--K": 2}
+{"REVVL V+ 5G--iPhone": 2}
+{"iPhone--Samsung SM-A125U": 2}
+{"9137W--PC": 2}
+{"Generic Smartphone--Samsung SM-A716U": 2}
+{"Samsung SM-G998U1--Generic Smartphone": 2}
+{"Samsung SM-G986U1--K": 2}
+{"Samsung SM-A217M--iPhone": 2}
+{"Samsung SM-G935A--Samsung SAMSUNG-SM-G935A": 2}
+{"Samsung SM-A205U--PC": 2}
+{"LGL455DL--K": 2}
+{"LM-G820--iPhone": 2}
+{"PC--Samsung SM-S911U": 2}
+{"Samsung SM-G981U1--PC": 2}
+{"MZR08--K": 2}
+{"Samsung SM-G991U1--PC": 2}
+{"Samsung SM-N970U1--PC": 2}
+{"OnePlus BE2028--iPhone": 2}
+{"Generic Smartphone--Samsung SM-G990U": 2}
+{"Samsung SM-T733--PC": 2}
+{"PC--Samsung SM-T733": 2}
+{"Samsung SM-T738U--PC": 2}
+{"5004S--K": 2}
+{"Samsung SM-A115AZ--K": 2}
+{"iPhone--Lenovo K13_Note": 2}
+{"Lenovo K13_Note--iPhone": 2}
+{"Oppo CPH2417--iPhone": 2}
+{"Samsung SM-A045M--K": 2}
+{"Generic Smartphone--Nokia 5": 2}
+{"Samsung SM-T900--PC": 2}
+{"PC--Samsung SM-T900": 2}
+{"Generic Smartphone--Samsung SM-A136U": 2}
+{"LM-K500--Generic Smartphone": 2}
+{"Generic Smartphone--Motorola g power (2022) Build": 2}
+{"N155DL--K": 2}
+{"Samsung SM-J327T1--PC": 2}
+{"Samsung SM-S908U--Samsung SM-G998U": 1}
+{"Generic Smartphone--Motorolarola edge (2021) Build": 1}
+{"Samsung SM-G781U--iPad": 1}
+{"Motorola g power Build--iPhone": 1}
+{"Motorola g power Build--PC": 1}
+{"BV4900Pro--K": 1}
+{"U705AC--iPhone": 1}
+{"PC--Pixel 5": 1}
+{"OnePlus ONEPLUS A6013--Generic Smartphone": 1}
+{"PC--Samsung SM-S146VL": 1}
+{"TAB-8US2--Generic Smartphone": 1}
+{"Samsung SM-N920ABuild--iPhone": 1}
+{"Samsung SM-F916U--Generic Smartphone": 1}
+{"Studio J8 LTE--K": 1}
+{"Generic Smartphone--Asus AI2201": 1}
+{"Asus AI2201--iPhone": 1}
+{"Generic Tablet--iPad": 1}
+{"TMAF035G--Samsung SM-N920ABuild": 1}
+{"Samsung SM-A135U1--iPhone": 1}
+{"Asus Z01KD--K": 1}
+{"A502DL--K": 1}
+{"Samsung SM-N970U1--Generic Smartphone": 1}
+{"M2010J19SY--K": 1}
+{"Samsung SM-T867V--PC": 1}
+{"Samsung SM-T813--Generic Smartphone": 1}
+{"Generic Smartphone--Samsung SM-T813": 1}
+{"PC--SM-P355": 1}
+{"SM-P355--PC": 1}
+{"LG-H932--K": 1}
+{"Motorola g 5G (2022) Build--PC": 1}
+{"Samsung SM-N986U1--Generic Smartphone": 1}
+{"Pixel 6 Pro--Other": 1}
+{"Samsung SM-F711U1--Other": 1}
+{"LM-Q730--PC": 1}
+{"Samsung SM-F731U1--K": 1}
+{"Samsung SM-G770F--PC": 1}
+{"PC--Samsung SM-G770F": 1}
+{"K118--K": 1}
+{"K110--K": 1}
+{"OnePlus LE2115--iPhone": 1}
+{"Celero5G--iPhone": 1}
+{"5102L--K": 1}
+{"OnePlus GM1917--iPhone": 1}
+{"Samsung SM-F916U--iPhone": 1}
+{"Motorolarola one 5G UW ace Build--PC": 1}
+{"SM-X700--K": 1}
+{"Generic Smartphone--Nokia G400 5G": 1}
+{"LG-H872--K": 1}
+{"Samsung SM-T380--PC": 1}
+{"Samsung SM-A035M--PC": 1}
+{"PC--Samsung SM-A035M": 1}
+{"SM-T830--K": 1}
+{"PC--Samsung SM-T970": 1}
+{"LG-H931--K": 1}
+{"Z5156CC--K": 1}
+{"Nitro 8--K": 1}
+{"Samsung SM-A013M--K": 1}
+{"iPhone--Samsung SM-G965U": 1}
+{"Generic Smartphone--U693CL": 1}
+{"Samsung SM-A525M--K": 1}
+{"PC--5087Z": 1}
+{"Motorola g stylus 5G--PC": 1}
+{"KB2001--Generic Smartphone": 1}
+{"Generic Smartphone--Samsung SM-A236U": 1}
+{"U328AA--Generic Smartphone": 1}
+{"B110DL--K": 1}
+{"Lenovo TB-J616F--iPhone": 1}
+{"Samsung SM-T530NU--PC": 1}
+{"Samsung SM-A025U--PC": 1}
+{"PC--Samsung SM-A025U": 1}
+{"Asus I005DCBuild--iPhone": 1}
+{"T28--K": 1}
+{"Motorolarola edge 5G UW (2021)--Generic Smartphone": 1}
+{"Samsung SM-S901U--Other": 1}
+{"SM-J327VPP--K": 1}
+{"N150DL--iPhone": 1}
+{"Samsung SM-A536U1--Generic Smartphone": 1}
+{"Oppo CPH2417--K": 1}
+{"PC--Samsung SM-P619": 1}
+{"OnePlus KB2007--PC": 1}
+{"Generic Smartphone--Samsung SM-G996U": 1}
+{"4188C--iPhone": 1}
+{"PC--Samsung SM-S367VL": 1}
+{"Samsung SM-S367VL--PC": 1}
+{"Samsung SM-A600AZ--K": 1}
+{"Samsung SM-A125U1--Generic Smartphone": 1}
+{"Motorolarola edge Build--iPhone": 1}
+{"Samsung SM-G780G--iPhone": 1}
+{"SM-T820--K": 1}
+{"Samsung SM-A042F--K": 1}
+{"Huawei CMA-LX3--K": 1}
+{"Nokia X100--Generic Smartphone": 1}
+{"Samsung SM-A315G--K": 1}
+{"Asus P00J--K": 1}
+{"Samsung SM-X800--iPhone": 1}
+{"Nokia G100--K": 1}
+{"B131DL--iPhone": 1}
+{"Generic Smartphone--Nokia G100Build": 1}
+{"Samsung SM-S124DL--PC": 1}
+{"PC--Samsung SM-S124DL": 1}
+{"Samsung SM-T378V--K": 1}
+{"Motorolarola one 5G UW Build--iPhone": 1}
+{"iPhone--Samsung SM-A515U1": 1}
+{"Samsung SM-A515U1--Generic Smartphone": 1}
+{"A503DL--K": 1}
+{"A507DL--K": 1}
+{"N1374DL--Generic Smartphone": 1}
+{"iPhone--TMAF025G": 1}
+{"KINGKONG 5 Pro--K": 1}
+{"Samsung SM-A215U1--K": 1}
+{"Motorolarola one 5G UW Build--PC": 1}
+{"Lenovo TB-X104F--K": 1}
+{"RC555L--PC": 1}
+{"PC--LG-TP450": 1}
+{"Samsung SM-A505F--K": 1}
+{"Generic Smartphone--Samsung SM-G990U3": 1}
+{"9132S--K": 1}
+{"K--Samsung SM-G991U": 1}
+{"Samsung SM-N971N--PC": 1}
+{"wv--Samsung SM-G960U1": 1}
+{"Samsung SM-N975U1--iPhone": 1}
+{"Samsung SM-N970U--Generic Smartphone": 1}
+{"T790W--K": 1}
+{"KYOCERA-E6920--Generic Smartphone": 1}
+{"Samsung SM-A516V--PC": 1}
+{"PC--Samsung SM-A516V": 1}
+{"Generic Smartphone--OnePlus IN2017": 1}
+{"TMAF035G--Other": 1}
+{"Pixel 3 XL--Generic Smartphone": 1}
+{"SM-T380--K": 1}
+{"Generic Smartphone--Motorola g stylus 5G (2022) Build": 1}
+{"PC--Pixel 7": 1}
+{"XiaoMi MI 8 SE--PC": 1}
+{"100110027--K": 1}
+{"Samsung SM-A015A--K": 1}
+{"iPhone--Samsung SM-G781U": 1}
+{"Motorola e Build--iPhone": 1}
+{"LM-K300--Generic Smartphone": 1}
+{"iPhone--Motorolarola one 5G ace": 1}
+{"Motorolarola one 5G ace--iPhone": 1}
+{"Huawei JAT-L29--K": 1}
+{"Z6103--K": 1}
+{"SL004T--K": 1}
+{"Samsung SM-S536DL--Generic Smartphone": 1}
+{"Samsung SM-N981U--Other": 1}
+{"Motorola g 5G - 2023 Build--Generic Smartphone": 1}
+{"Samsung SM-S536DL--PC": 1}
+{"iPhone--iPod": 1}
+{"iPhone--Samsung SM-S146VL": 1}
+{"Samsung SM-S146VL--Generic Smartphone": 1}
+{"PC--Nokia G100Build": 1}
+{"LG-K425--K": 1}
+{"XQ-CT62--PC": 1}
+{"N156DL--iPhone": 1}
+{"MP01--K": 1}
+{"Samsung SM-A025AZ--iPhone": 1}
+{"Armor 11T 5G--Generic Smartphone": 1}
+{"LM-K920--K": 1}
+{"OnePlus LE2121--K": 1}
+{"Samsung SM-A516V--iPhone": 1}
+{"PC--Samsung SM-G981V": 1}
+{"PC--Elite E55": 1}
+{"Lenovo TB-X306F--K": 1}
+{"iPhone--Samsung SM-S916U": 1}
+{"Generic Smartphone--OnePlus LE2117": 1}
+{"Oppo PCLM10--PC": 1}
+{"PC--Oppo PCLM10": 1}
+{"Samsung SM-S901W--K": 1}
+{"PC--Samsung SAMSUNG-SM-J320A": 1}
+{"Samsung SM-J337U--K": 1}
+{"Samsung SM-T377T--K": 1}
+{"Pixel 7a--PC": 1}
+{"iPhone--Samsung SM-G970U": 1}
+{"Samsung SM-G991N--iPhone": 1}
+{"RC608L2--K": 1}
+{"Samsung SM-N976V--K": 1}
+{"PC--Samsung SM-S111DL": 1}
+{"Lenovo TB-X306F--PC": 1}
+{"PC--Gionee GN2200": 1}
+{"NE2217--Generic Smartphone": 1}
+{"S99--K": 1}
+{"RT2--K": 1}
+{"LGL722DL--PC": 1}
+{"EC211001--iPhone": 1}
+{"PC--Oppo RMX3085": 1}
+{"Samsung SM-G781U--Samsung SM-F936U": 1}
+{"Elite OctaMax--iPhone": 1}
+{"Samsung SM-A105FN--K": 1}
+{"Samsung SM-A536E--iPhone": 1}
+{"Samsung SM-G930U--K": 1}
+{"Samsung SM-A215U--Generic Smartphone": 1}
+{"Samsung SM-A325N--K": 1}
+{"Samsung SM-S506DL--iPhone": 1}
+{"Samsung SM-G981U1--Other": 1}
+{"iPhone--Samsung SM-S908U1": 1}
+{"Samsung SM-N950U1--PC": 1}
+{"SM-X800--K": 1}
+{"LM-X212(G)--K": 1}
+{"Samsung SM-S205DL--K": 1}
+{"Samsung SM-F731U1--iPhone": 1}
+{"Generic Smartphone--Samsung SM-G965U": 1}
+{"G71L--K": 1}
+{"G71 PLUS--K": 1}
+{"LE2101--iPhone": 1}
+{"iPhone--Samsung SM-A326U1": 1}
+{"Samsung SM-A047M--K": 1}
+{"Samsung SM-G973U--Nokia X100Build": 1}
+{"PC--5062Z": 1}
+{"Note 16 Pro--K": 1}
+{"iPhone--Nokia G50Build": 1}
+{"LG-M327--K": 1}
+{"U668AA--PC": 1}
+{"Pixel 4a--Generic Smartphone": 1}
+{"Pixel 4 XL--iPhone": 1}
+{"5102O--Generic Smartphone": 1}
+{"Motorolarola razr plus 2023 Build--iPhone": 1}
+{"SM-T860--K": 1}
+{"Generic Smartphone--Oppo CPH2515": 1}
+{"Stratus_C7--PC": 1}
+{"Motorola g stylus 5G - 2023 Build--iPhone": 1}
+{"Samsung SM-A716U1--iPhone": 1}
+{"Samsung SM-F721U--PC": 1}
+{"4188R--iPhone": 1}
+{"Motorola e6--PC": 1}
+{"Z7540--K": 1}
+{"MAR-LX3A--K": 1}
+{"LG-TP450--K": 1}
+{"U696CL--iPhone": 1}
+{"Samsung SM-N950U--iPad": 1}
+{"Samsung SM-N950U--Other": 1}
+{"Sunshine_T1_Elite--K": 1}
+{"V350C--K": 1}
+{"T781SPP--K": 1}
+{"Moto Z (2)--iPhone": 1}
+{"LGL355DL--K": 1}
+{"Schok Volt SV55--PC": 1}
+{"Samsung SM-S918U--iPad": 1}
+{"X55--Generic Smartphone": 1}
+{"Generic Smartphone--Nokia C5EndiBuild": 1}
+{"Nokia C5EndiBuild--iPhone": 1}
+{"PC--Samsung SM-F946U": 1}
+{"Nokia G400 5G--PC": 1}
+{"Samsung SM-G781V--iPad": 1}
+{"9048S--K": 1}
+{"OnePlus LE2125--Generic Smartphone": 1}
+{"Generic Smartphone--OnePlus LE2125": 1}
+{"iPhone--Samsung SM-A546V": 1}
+{"Samsung SM-A546V--iPhone": 1}
+{"LM-V350--K": 1}
+{"TB310FU--K": 1}
+{"TW102--iPhone": 1}
+{"Nokia 2--K": 1}
+{"PC--LG-H740": 1}
+{"LG-H740--PC": 1}
+{"Samsung SM-G986U1--Generic Smartphone": 1}
+{"Samsung SM-A025A--K": 1}
+{"Generic Smartphone--M8L 2022": 1}
+{"M2103K19PG--K": 1}
+{"Samsung SM-A207M--K": 1}
+{"Samsung SM-J337A--K": 1}
+{"G53--K": 1}
+{"Motorolarola edge plus 5G UW (2022) Build--PC": 1}
+{"OnePlus DE2117--iPhone": 1}
+{"Samsung SM-T295--PC": 1}
+{"PC--Samsung SM-T295": 1}
+{"SL201D--PC": 1}
+{"Other--Nokia G4005GBuild": 1}
+{"Generic Smartphone--TMAF035G": 1}
+{"T501L--K": 1}
+{"LM-T600--K": 1}
+{"PC--Samsung SM-G990U": 1}
+{"PC--Motorola g stylus 5G (2022)": 1}
+{"Motorola g stylus (2021) Build--Generic Smartphone": 1}
+{"Motorola g stylus (2021) Build--PC": 1}
+{"Asus I003D--iPhone": 1}
+{"Samsung SM-T377V--PC": 1}
+{"Z5158--K": 1}
+{"Samsung SM-G955F--K": 1}
+{"OnePlus BE2012--PC": 1}
+{"PC--OnePlus BE2012": 1}
+{"Samsung SM-N770F--K": 1}
+{"Samsung SM-A115U1--PC": 1}
+{"PC--Samsung SM-A115U1": 1}
+{"PC--Samsung SM-P613": 1}
+{"PC--Samsung SM-A135F": 1}
+{"Samsung SM-A135F--PC": 1}
+{"RP01--Generic Smartphone": 1}
+{"Asus AI2202--K": 1}
+{"PC--EABF22206A": 1}
+{"Motorola g power (2021)--PC": 1}
+{"Samsung SM-F700U1--iPhone": 1}
+{"T790S--K": 1}
+{"Samsung SM-G960U1--PC": 1}
+{"Generic Smartphone--BBB100-1": 1}
+{"Nokia G21--K": 1}
+{"Motorolarola edge plus (2022) Build--Generic Smartphone": 1}
+{"Samsung SM-J327T1--K": 1}
+{"S62--iPhone": 1}
+{"S62--PC": 1}
+{"Generic Smartphone--Motorola g stylus 5G (2022)": 1}
+{"Samsung SM-A505U1--iPhone": 1}
+{"PC--OnePlus ONE A2003": 1}
+{"T10--K": 1}
+{"PC--Samsung SM-T677A": 1}
+{"Samsung SM-T677A--PC": 1}
+{"Samsung SM-A105M--PC": 1}
+{"LG-G710--Generic Smartphone": 1}
+{"REVVL 2--K": 1}
+{"Generic Smartphone--Samsung SM-G986U1": 1}
+{"Pixel 4--iPhone": 1}
+{"PC--LM-Q730": 1}
+{"Motorola g stylus (2023) Build--Generic Smartphone": 1}
+{"LM-G710--PC": 1}
+{"Samsung SM-A325M--K": 1}
+{"K--Samsung SM-A205U": 1}
+{"Motorola g(7) supra Build--iPhone": 1}
+{"Motorola g(8) power--K": 1}
+{"LG-G710--iPhone": 1}
+{"T608M--K": 1}
+{"B130DL--K": 1}
+{"Oppo CPH2381--Generic Smartphone": 1}
+{"Oppo CPH2381--iPhone": 1}
+{"Motorolarola edge (2022) Build--Generic Smartphone": 1}
+{"iPhone--Samsung SM-G980F": 1}
+{"Generic Smartphone--TMAF025G": 1}
+{"VRD-AL09--K": 1}
+{"T779W--iPhone": 1}
+{"OnePlus NE2215--PC": 1}
+{"Samsung SM-G975N--PC": 1}
+{"OnePlus BE2025--Generic Smartphone": 1}
+{"OnePlus BE2025--iPhone": 1}
+{"Alcatel_5008R--K": 1}
+{"Samsung SM-S111DL--iPhone": 1}
+{"Samsung SM-N9750--Generic Smartphone": 1}
+{"U616AT--PC": 1}
+{"Saga--iPhone": 1}
+{"SL104D--K": 1}
+{"G61--K": 1}
+{"RP03--K": 1}
+{"T790W--Generic Smartphone": 1}
+{"LML713DL--K": 1}
+{"iPhone--Samsung SM-F711U": 1}
+{"Samsung SM-J737V--PC": 1}
+{"PC--Samsung SM-J737V": 1}
+{"Motorola g 5G - 2023 Build--iPhone": 1}
+{"Samsung SM-A528B--K": 1}
+{"9027W--K": 1}
+{"Nokia 6--Generic Smartphone": 1}
+{"M2101K7BI--K": 1}
+{"Generic Smartphone--B131DL": 1}
+{"NITRO N62--PC": 1}
+{"TMRV06P5G--K": 1}
+{"iPhone--Asus I006DBuild": 1}
+{"Surface Duo 2--K": 1}
+{"Samsung SM-G965F--PC": 1}
+{"Samsung SM-A526U--Samsung SM-A037U": 1}
+{"PC--Samsung SM-S136DL": 1}
+{"Samsung SM-G981V--Generic Smartphone": 1}
+{"Oppo CPH2417--PC": 1}
+{"PC--SM-P613": 1}
+{"Samsung SM-G977U--K": 1}
+{"Samsung SM-F946U--PC": 1}
+{"Samsung SM-A715F--Generic Smartphone": 1}
+{"LM-X210CMR--K": 1}
+{"Samsung SM-A025A--PC": 1}
+{"PC--Samsung SM-T860": 1}
+{"Motorola g(6)--K": 1}
+{"Samsung SM-N975F--iPhone": 1}
+{"Motorola z3 Build--PC": 1}
+{"T779W--PC": 1}
+{"4188C--Generic Smartphone": 1}
+{"Nokia 8--K": 1}
+{"Samsung SM-J327A--K": 1}
+{"V350U--K": 1}
+{"V2120--K": 1}
+{"OnePlus BE2025--PC": 1}
+{"Samsung SM-G988N--iPhone": 1}
+{"Samsung SM-T510--iPhone": 1}
+{"Puya--K": 1}
+{"Samsung SM-S115DL--K": 1}
+{"Nokia 3--K": 1}
+{"iPhone--Samsung SM-G988U": 1}
+{"PC--VS996": 1}
+{"A065--iPhone": 1}
+{"Samsung SM-A226B--PC": 1}
+{"Motorola g stylus (2022) Build--PC": 1}
+{"iPhone--Samsung SM-S134DL": 1}
+{"Samsung SM-T227U--iPhone": 1}
+{"iPhone--Samsung SM-G973U": 1}
+{"Oppo RMX3660--Generic Smartphone": 1}
+{"Motorola g play (XT2093DL) Build--iPhone": 1}
+{"iPhone--Samsung SM-A146U1": 1}
+{"A55--K": 1}
+{"Lenovo TB-8505F--PC": 1}
+{"Samsung SM-A042M--Generic Smartphone": 1}
+{"Motorolarola razr--K": 1}
+{"SL201D--Generic Smartphone": 1}
+{"LG-V410--PC": 1}
+{"Samsung SM-G965F--K": 1}
+{"K--Motorola g 5G (2022)": 1}
+{"Oppo CPH2389--PC": 1}
+{"BYYBUO_SmartPad_T10--K": 1}
+{"Motorola z4 Build--Generic Smartphone": 1}
+{"Generic Smartphone--Motorola z4 Build": 1}
+{"Lenovo K13_Note--Generic Smartphone": 1}
+{"OnePlus IN2017--PC": 1}
+{"T790S--Generic Smartphone": 1}
+{"LM-V450--iPhone": 1}
+{"OnePlus ONEPLUS A5010--K": 1}
+{"Samsung SM-A205U1--K": 1}
+{"Samsung SM-S918U1--iPad": 1}
+{"Generic Smartphone--Samsung SM-A037U": 1}
+{"Samsung SM-A715F--K": 1}
+{"PC--Astro 8R": 1}
+{"Samsung SM-G715U1--K": 1}
+{"6062W--K": 1}
+{"Samsung SM-T976N--PC": 1}
+{"Samsung SM-J727V--PC": 1}
+{"PC--Samsung SM-J727V": 1}
+{"Oppo CPH2461--PC": 1}
+{"Oppo CPH2461--Generic Smartphone": 1}
+{"C6930--K": 1}
+{"G70--PC": 1}
+{"Generic Smartphone--OnePlus DE2118": 1}
+{"Samsung SM-A515F--K": 1}
+{"Samsung SM-A526U--Other": 1}
+{"Samsung SM-N960U1--Generic Smartphone": 1}
+{"Samsung SM-A135U--Generic Smartphone": 1}
+{"Samsung SM-A135U--Other": 1}
+{"Generic Smartphone--Samsung SM-S111DL": 1}
+{"Samsung SM-S111DL--Generic Smartphone": 1}
+{"V2183A--iPhone": 1}
+{"Oppo RMX3031--iPhone": 1}
+{"T701DL--K": 1}
+{"Generic Smartphone--Samsung SM-G973U": 1}
+{"Samsung SM-A515U1--PC": 1}
+{"Z6251--K": 1}
+{"Note 9P--K": 1}
+{"Celero5G+--iPhone": 1}
+{"M2003J15SC--iPhone": 1}
+{"LG-H700--K": 1}
+{"T767W--PC": 1}
+{"Samsung SM-G988U1--PC": 1}
+{"PC--Samsung SM-G988U1": 1}
+{"STTM21VAPP--Generic Smartphone": 1}
+{"PC--Samsung SM-T837V": 1}
+{"MP26--K": 1}
+{"m2303--K": 1}
+{"Generic Smartphone--Motorola g fast Build": 1}
+{"Motorola e5 play Build--K": 1}
+{"Samsung SM-G935V--K": 1}
+{"T790Z--K": 1}
+{"PC--Samsung SM-J737T1": 1}
+{"VS990--PC": 1}
+{"PC--VS990": 1}
+{"Samsung SM-S102DL--PC": 1}
+{"Pixel 6a--iPad": 1}
+{"PC--Pixel 3": 1}
+{"Samsung SM-A505F--iPhone": 1}
+{"LM-K920--iPhone": 1}
+{"Samsung SM-G781W--K": 1}
+{"Samsung SM-A305G--K": 1}
+{"Samsung SM-A515U1--iPhone": 1}
+{"Infinix X6515--K": 1}
+{"PC--Samsung SM-G870A": 1}
+{"Samsung SM-G870A--iPhone": 1}
+{"2107113SG--iPhone": 1}
+{"2107113SG--PC": 1}
+{"LM-Q730--Generic Smartphone": 1}
+{"Samsung SM-F700U1--K": 1}
+{"iPhone--Samsung SM-A215U": 1}
+{"Motorola g play (2021)--PC": 1}
+{"Samsung SM-T290--PC": 1}
+{"PC--Samsung SM-T290": 1}
+{"Samsung SM-A705U--iPhone": 1}
+{"Samsung SM-A705U--PC": 1}
+{"Moto Z (2)--K": 1}
+{"Samsung SM-S908E--Generic Smartphone": 1}
+{"Samsung SM-A546E--K": 1}
+{"Samsung SM-S918U--Samsung SM-G998U": 1}
+{"Alcatel_5004R--iPhone": 1}
+{"M2003J15SC--K": 1}
+{"N152DL--iPhone": 1}
+{"K92--K": 1}
+{"Samsung SM-G990U1--K": 1}
+{"Samsung SM-N960N--PC": 1}
+{"A509DL--iPhone": 1}
+{"PC--Nokia 8V5GUWBuild": 1}
+{"Oppo CPH2487--iPhone": 1}
+{"T602DL--iPhone": 1}
+{"KFTRPWI--PC": 1}
+{"PC--KFTRPWI": 1}
+{"LML414DL--iPhone": 1}
+{"REVVLPLUS C3701A--K": 1}
+{"PC--Samsung SM-G781U1": 1}
+{"9029W--K": 1}
+{"Samsung SM-J727T1--K": 1}
+{"BLA-A09--iPhone": 1}
+{"PC--LGL322DL": 1}
+{"Samsung SM-A225M--PC": 1}
+{"PC--Samsung SM-A225M": 1}
+{"Samsung SM-G935T--K": 1}
+{"Samsung SM-A032M--K": 1}
+{"Generic Smartphone--Samsung SM-J337V": 1}
+{"Samsung SM-A015T1--PC": 1}
+{"Samsung SM-T307U--PC": 1}
+{"Nokia G100--iPhone": 1}
+{"Generic Smartphone--Nokia G100": 1}
+{"Z22--Generic Smartphone": 1}
+{"Motorolarola edge (2021)--K": 1}
+{"M8L--K": 1}
+{"Lenovo TB-X606F--K": 1}
+{"Elite OctaMax--K": 1}
+{"KFONWI--Generic Smartphone": 1}
+{"Generic Smartphone--LM-Q720": 1}
+{"LM-Q720--Generic Smartphone": 1}
+{"Samsung SM-G988U1--Generic Smartphone": 1}
+{"Samsung SM-G930VL--K": 1}
+{"Samsung SM-A536U1--Other": 1}
+{"Samsung SM-S911U--iPad": 1}
+{"Motorola g pure--iPhone": 1}
+{"TMRVL4G--iPhone": 1}
+{"Generic Smartphone--TMRVL4G": 1}
+{"TMRVL4G--Generic Smartphone": 1}
+{"Samsung SM-J727T1--PC": 1}
+{"PC--Asus I001DEBuild": 1}
+{"Asus I001DEBuild--iPhone": 1}
+{"iPhone--Samsung SM-A526U1": 1}
+{"100011885--K": 1}
+{"Generic Smartphone--N152DL": 1}
+{"N152DL--Generic Smartphone": 1}
+{"Samsung SM-A236B--K": 1}
+{"Nokia G400 5G--Other": 1}
+{"SM-T720--K": 1}
+{"Motorola g(7) power Build--PC": 1}
+{"RC608L--Generic Smartphone": 1}
+{"Samsung SM-J727AZ--K": 1}
+{"Samsung SM-J327T1--iPhone": 1}
+{"Samsung SM-J727T1--Generic Smartphone": 1}
+{"T671G--iPhone": 1}
+{"PC--Samsung SM-G610M": 1}
+{"PC--Motorola g power (2022)": 1}
+{"LM-F100--K": 1}
+{"Samsung SM-S901U1--Generic Smartphone": 1}
+{"Samsung SM-A115AP--K": 1}
+{"PC--Samsung SM-X200": 1}
+{"PC--S2720": 1}
+{"Samsung SM-J337V--iPhone": 1}
+{"U668AA--iPhone": 1}
+{"Lenovo TB-8506F--K": 1}
+{"iPad--Nokia G100Build": 1}
+{"iPhone--Samsung SM-A115U": 1}
+{"100043279--K": 1}
+{"Elite A63--K": 1}
+{"Motorola g71 5G--K": 1}
+{"Samsung SM-A047M--Generic Smartphone": 1}
+{"OnePlus ONEPLUS A6013--K": 1}
+{"CP20_Gold--K": 1}
+{"REVVL V+ 5G--Generic Smartphone": 1}
+{"Samsung SM-A325M--Generic Smartphone": 1}
+{"Samsung SM-T500--iPhone": 1}
+{"TECNO KI7--K": 1}
+{"M8L 2022--K": 1}
+{"Samsung SM-A516V--Generic Smartphone": 1}
+{"Samsung SM-A536V--Generic Smartphone": 1}
+{"Generic Smartphone--Samsung SM-F721U1": 1}
+{"Samsung SM-F721U1--Generic Smartphone": 1}
+{"iPhone--Samsung SM-A217F": 1}
+{"Samsung SM-A217F--iPhone": 1}
+{"LM-G850--PC": 1}
+{"PC--LM-G850": 1}
+{"Samsung SM-G892A--PC": 1}
+{"Huawei JNY-LX2--PC": 1}
+{"PC--Huawei JNY-LX2": 1}
+{"PC--Samsung SM-A515U": 1}
+{"WP13--K": 1}
+{"iPhone--Nokia 3": 1}
+{"Nokia 3--iPhone": 1}
+{"LM-X410.FGN--K": 1}
+{"OnePlus LE2117--Generic Smartphone": 1}
+{"EA211005--K": 1}
+{"OnePlus BE2015--K": 1}
+{"Samsung SM-T560NU--PC": 1}
+{"PC--Samsung SM-T560NU": 1}
+{"SN304AE--iPhone": 1}
+{"REVVLRY--K": 1}
+{"Pixel 6--Other": 1}
+{"SM-J737VPP--PC": 1}
+{"PC--SM-J737VPP": 1}
+{"Samsung SM-G900A--PC": 1}
+{"HPP-L55B--PC": 1}
+{"PC--HPP-L55B": 1}
+{"U668AA--K": 1}
+{"4188L--iPhone": 1}
+{"Alcatel_6060C--K": 1}
+{"U696CL--K": 1}
+{"Generic Smartphone--Pixel 6": 1}
+{"Samsung SM-G960U1--iPhone": 1}
+{"Oppo RMX3360--K": 1}
+{"Samsung SM-A546U1--PC": 1}
+{"Elite E55--K": 1}
+{"E7110--iPhone": 1}
+{"Nokia 5--Generic Smartphone": 1}
+{"Samsung SM-N986N--iPhone": 1}
+{"iPhone--Nokia X100": 1}
+{"Kindle--iPhone": 1}
+{"PC--LM-G820": 1}
+{"LG-LS997--K": 1}
+{"XQ-BT52--PC": 1}
+{"100110603--K": 1}
+{"Samsung SM-A037U1--PC": 1}
+{"Samsung SM-A047M--PC": 1}
+{"K--XQCC54C0B.EEAC": 1}
+{"Samsung SM-N976U--PC": 1}
+{"PC--Samsung SM-S515DL": 1}
+{"M2004J19C--K": 1}
+{"Motorola g stylus 5G Build--PC": 1}
+{"LG-M210--PC": 1}
+{"PC--LG-M210": 1}
+{"Samsung SM-A515U--Generic Smartphone": 1}
+{"Motorola e6 (XT2005DL)--K": 1}
+{"Samsung SM-G998U--iPad": 1}
+{"Samsung SM-A346E--iPhone": 1}
+{"Samsung SM-G781B--iPhone": 1}
+{"RCT6513W87DK5e--K": 1}
+{"Samsung SM-A315G--iPhone": 1}
+{"ZTE Blade A5 2020--K": 1}
+{"iPhone--Samsung SM-F711U1": 1}
+{"Samsung SM-A145M--iPhone": 1}
+{"Samsung SM-T817V--K": 1}
+{"Motorola g stylus 5G - 2023--Motorola g stylus 5G - 2023 Build": 1}
+{"PC--Samsung SM-S127DL": 1}
+{"G73--K": 1}
+{"Samsung SM-A546V--PC": 1}
+{"Motorolarola edge plus--K": 1}
+{"SM-X200--PC": 1}
+{"Samsung SM-A536U1--iPhone": 1}
+{"VS995--K": 1}
+{"iPhone--Samsung SM-G990E": 1}
+{"Samsung SM-G990E--Generic Smartphone": 1}
+{"Infinix X6833B--K": 1}
+{"Samsung SM-A125U--Other": 1}
+{"Samsung SM-A245M--K": 1}
+{"LM-G900TM--iPhone": 1}
+{"LM-X420--Generic Smartphone": 1}
+{"PC--Samsung SM-G986U1": 1}
+{"Generic Smartphone--Samsung SM-F926U1": 1}
+{"M2103K19G--K": 1}
+{"SM-T970--K": 1}
+{"Motorola g stylus 5G (2022) Build--Generic Smartphone": 1}
+{"PC--Samsung SM-S906U1": 1}
+{"LG-H871S--K": 1}
+{"Surface Duo--PC": 1}
+{"PC--Surface Duo": 1}
+{"Z6250CC--K": 1}
+{"MP24--K": 1}
+{"iPhone--Nokia XR20Build": 1}
+{"Nokia G100Build--Generic Smartphone": 1}
+{"Samsung SM-T515--PC": 1}
+{"PC--Samsung SM-T515": 1}
+{"Samsung SM-G781V--Other": 1}
+{"Pixel 2 XL--PC": 1}
+{"Motorola g pure Build--Other": 1}
+{"Samsung SM-A526U1--iPhone": 1}
+{"Moto G (5) Plus--K": 1}
+{"iPhone--Samsung SM-G960U": 1}
+{"MX-N55E--PC": 1}
+{"PC--MX-N55E": 1}
+{"SM-T350--PC": 1}
+{"Samsung SM-T377A--PC": 1}
+{"PC--Samsung SM-T377A": 1}
+{"Samsung SM-A136U--Other": 1}
+{"POCO X2--K": 1}
+{"Samsung SM-G996U--Other": 1}
+{"OnePlus HD1913--Generic Smartphone": 1}
+{"OnePlus HD1913--PC": 1}
+{"OnePlus HD1913--iPhone": 1}
+{"Generic Smartphone--Samsung SM-A205U1": 1}
+{"Pixel 3a XL--K": 1}
+{"SL101AE--iPhone": 1}
+{"NE2217--iPhone": 1}
+{"T779W--Generic Smartphone": 1}
+{"XiaoMi Mi A3--K": 1}
+{"PC--Samsung SM-A135U": 1}
+{"Samsung SM-N920ABuild--Generic Smartphone": 1}
+{"Samsung SM-N970U--Other": 1}
+{"Pixel 3--Generic Smartphone": 1}
+{"POCOPHONE F1--K": 1}
+{"Samsung SM-A037U--iPad": 1}
+{"Infinix X689B--iPhone": 1}
+{"Samsung SM-A145P--K": 1}
+{"Motorola g play - 2023 Build--PC": 1}
+{"iPhone--Samsung SM-N950U1": 1}
+{"Samsung SM-G770F--K": 1}
+{"K--OnePlus DE2118": 1}
+{"22120RN86G--K": 1}
+{"OnePlus ONEPLUS A6013--PC": 1}
+{"XQ-BC62--K": 1}
+{"LM-Q710(FGN)--iPhone": 1}
+{"LGL455DL--PC": 1}
+{"LGL455DL--iPhone": 1}
+{"Samsung SM-G890A--K": 1}
+{"WP21--K": 1}
+{"TECNO CF8--PC": 1}
+{"PC--Samsung SM-N970U1": 1}
+{"Samsung SM-T510--Generic Smartphone": 1}
+{"Samsung SM-G973F--K": 1}
+{"Typhoon_C6--K": 1}
+{"Samsung SM-S918B--Generic Smartphone": 1}
+{"2210132G--K": 1}
+{"T602DL--PC": 1}
+{"Astro 55R--K": 1}
+{"iPhone--Motorola g pure Build": 1}
+{"Motorolarola razr (2020)--K": 1}
+{"RC609L--K": 1}
+{"Motorola g(50) 5G--K": 1}
+{"Asus A009--K": 1}
+{"Samsung SM-A705MN--K": 1}
+{"OnePlus KB2007--iPhone": 1}
+{"Samsung SM-A315G--Generic Smartphone": 1}
+{"Generic Smartphone--Z558VL": 1}
+{"LG-TP450--PC": 1}
+{"SM-P580--K": 1}
+{"Samsung SM-S911U--Samsung SM-A135U": 1}
+{"Samsung SM-G973F--Generic Smartphone": 1}
+{"PC--Samsung SM-A125U": 1}
+{"Samsung SM-M105G--K": 1}
+{"Studio Mini 2023--PC": 1}
+{"iPhone--Samsung SM-G965U1": 1}
+{"Generic Smartphone--OnePlus HD1907": 1}
+{"S91--K": 1}
+{"Samsung SM-F916U--PC": 1}
+{"PC--Samsung SM-F916U": 1}
+{"Motorola g 5G (2022)--iPhone": 1}
+{"Pixel 4--Generic Smartphone": 1}
+{"Samsung SM-F926U1--Generic Smartphone": 1}
+{"K--Samsung SM-T567V": 1}
+{"Samsung SM-T567V--K": 1}
+{"Samsung SM-S115DL--PC": 1}
+{"Generic Smartphone--Samsung SM-A526U1": 1}
+{"N1374DL--iPhone": 1}
+{"COOLPAD C202--K": 1}
+{"Huawei STK-LX3--K": 1}
+{"Samsung SM-X200--iPhone": 1}
+{"Generic Smartphone--Samsung SM-G991U1": 1}
+{"Nokia X100Build--Asus I001DABuild": 1}
+{"Asus I001DABuild--iPhone": 1}
+{"220333QAG--PC": 1}
+{"Motorola g(100)--PC": 1}
+{"iPhone--VS996": 1}
+{"Samsung SM-G928T--K": 1}
+{"Samsung SM-A525F--iPhone": 1}
+{"Samsung SM-J700T--PC": 1}
+{"Pixel Fold--iPhone": 1}
+{"Generic Smartphone--T602DL": 1}
+{"SL004T--PC": 1}
+{"Generic Smartphone--Pixel 3": 1}
+{"Generic Smartphone--TAB-8US2": 1}
+{"OnePlus ONEPLUS A6000--K": 1}
+{"iPad--K": 1}
+{"U307AS--K": 1}
+{"Samsung SM-A035M--K": 1}
+{"S6003L--K": 1}
+{"Motorolarola one 5G UW ace--iPhone": 1}
+{"PC--Samsung SM-N976U": 1}
+{"Power Armor14 Pro--iPhone": 1}
+{"iPhone--Samsung SM-G891ABuild": 1}
+{"Samsung SM-G891ABuild--iPhone": 1}
+{"LM-X210VPP--PC": 1}
+{"PC--LM-X210VPP": 1}
+{"Generic Smartphone--Samsung SM-G960U": 1}
+{"Generic Smartphone--Samsung SM-S906U1": 1}
+{"NE2217--PC": 1}
+{"U325AC--K": 1}
+{"Generic Smartphone--Samsung SM-N981U": 1}
+{"Samsung SM-S908U--Other": 1}
+{"Samsung SM-E135F--K": 1}
+{"Samsung SM-G960W--PC": 1}
+{"Moto E (4) Plus--K": 1}
+{"Lenovo TB-J616F--K": 1}
+{"23028RA60L--K": 1}
+{"Samsung SM-J337VPP--Generic Smartphone": 1}
+{"Samsung SM-A236V--iPhone": 1}
+{"5032W--Generic Smartphone": 1}
+{"iPhone--Samsung SM-M205FN": 1}
+{"Samsung SM-M205FN--iPhone": 1}
+{"Motorolarola one 5G ace Build--Generic Smartphone": 1}
+{"SKY Pad10--K": 1}
+{"Samsung SM-N920T--K": 1}
+{"Elite D5Max--K": 1}
+{"XiaoMi Redmi Note 8 Pro--PC": 1}
+{"Generic Smartphone--Samsung SM-G981U": 1}
+{"Samsung SM-N900T--PC": 1}
+{"Huawei Browser--PC": 1}
+{"Samsung SM-S506DL--PC": 1}
+{"PC--Samsung SM-S506DL": 1}
+{"iPhone--Samsung SM-S911U": 1}
+{"KFSUWI--PC": 1}
+{"Samsung SM-A426U1--iPhone": 1}
+{"Samsung SM-S9080--PC": 1}
+{"Sunshine_T1_Elite--Generic Smartphone": 1}
+{"UnionTV--Other": 1}
+{"Samsung SM-S326DL--iPhone": 1}
+{"Samsung SM-S260DL--PC": 1}
+{"PC--Samsung SM-S260DL": 1}
+{"PC--Z971": 1}
+{"Samsung SM-J327A--Samsung SAMSUNG-SM-J327A": 1}
+{"Samsung SM-J337T--iPhone": 1}
+{"LM-Q720--PC": 1}
+{"K--Motorola g stylus 5G (2022)": 1}
+{"Samsung SM-T727R4--PC": 1}
+{"Samsung SM-T865--PC": 1}
+{"Oppo RMX1921--iPhone": 1}
+{"MAR-LX3A--iPhone": 1}
+{"LM-K500--PC": 1}
+{"Samsung SM-A225M--K": 1}
+{"T603DL--K": 1}
+{"Samsung SM-G990U3--PC": 1}
+{"Samsung SM-A536E--K": 1}
+{"Pixel 3a XL--Generic Smartphone": 1}
+{"Pixel 3a XL--iPhone": 1}
+{"LG-H820--K": 1}
+{"T770B--K": 1}
+{"S6701L--K": 1}
+{"LM-X210VPP--K": 1}
+{"Samsung SM-G973U--Other": 1}
+{"PC--Z982": 1}
+{"A509DL--Generic Smartphone": 1}
+{"Samsung SM-F711B--iPhone": 1}
+{"Samsung SM-F946U1--Generic Smartphone": 1}
+{"Motorolarola edge 5G UW (2021)--PC": 1}
+{"Samsung SM-A600A--K": 1}
+{"Samsung SM-A326U1--PC": 1}
+{"PC--Samsung SM-A326U1": 1}
+{"RC609L--iPhone": 1}
+{"Mac--PC": 1}
+{"Samsung SM-F946U--iPhone": 1}
+{"Samsung SM-T878U--PC": 1}
+{"PC--Samsung SM-T878U": 1}
+{"PC--Samsung SM-G981B": 1}
+{"Samsung SM-G981B--PC": 1}
+{"iPhone--Samsung SM-G950U": 1}
+{"Samsung SM-S918B--K": 1}
+{"Samsung SM-G9650--K": 1}
+{"OnePlus LE2125--iPhone": 1}
+{"QTAXIA1--K": 1}
+{"OnePlus KB2005--K": 1}
+{"PC--TB132FU": 1}
+{"Huawei VOG-L29--K": 1}
+{"Asus I005DCBuild--PC": 1}
+{"Samsung SM-N950U1--K": 1}
+{"Motorola g go--K": 1}
+{"TECNO KI5k--K": 1}
+{"PC--Nokia 8": 1}
+{"Pixel 5--K": 1}
+{"OnePlus IN2019--Generic Smartphone": 1}
+{"Generic Smartphone--OnePlus IN2019": 1}
+{"Generic Smartphone--S62": 1}
+{"iPhone--Pixel 6": 1}
+{"Generic Tablet--PC": 1}
+{"Generic Smartphone--LM-G820": 1}
+{"Samsung SM-A715F--iPhone": 1}
+{"Motorola g82 5G--K": 1}
+{"Samsung SM-S124DL--iPhone": 1}
+{"LGL84VL--K": 1}
+{"CP3706AS--PC": 1}
+{"PC--CP3706AS": 1}
+{"22041216UC--PC": 1}
+{"LM-Q620--K": 1}
+{"iPhone--Samsung SM-G781V": 1}
+{"Generic Smartphone--LM-V600": 1}
+{"Samsung SM-A115U--PC": 1}
+{"Generic Smartphone--B140DL": 1}
+{"Generic Smartphone--Samsung SM-A037U1": 1}
+{"EA211002--Other": 1}
+{"SM-T813--K": 1}
+{"2109119DI--iPhone": 1}
+{"T671O--PC": 1}
+{"MS5424G--K": 1}
+{"Samsung SM-F916U1--iPhone": 1}
+{"CP20--Generic Smartphone": 1}
+{"Samsung SM-A135M--K": 1}
+{"Motorola g(7) optimo maxx(XT1955DL)--K": 1}
+{"Nokia XR20--iPhone": 1}
+{"Nokia XR20--PC": 1}
+{"Samsung SM-A025M--iPhone": 1}
+{"Oppo CPH2515--iPhone": 1}
+{"Generic Smartphone--HTC U11life": 1}
+{"OnePlus KB2005--iPhone": 1}
+{"Samsung SM-G892U--K": 1}
+{"XiaoMi Redmi Note 9 Pro--iPhone": 1}
+{"Nokia G100--Generic Smartphone": 1}
+{"Samsung SM-S506DL--K": 1}
+{"Alcatel_5005R--K": 1}
+{"TECNO BF7--iPhone": 1}
+{"SKY PAD10--K": 1}
+{"PGU110--K": 1}
+{"PC--Pixel 6 Pro": 1}
+{"TMAF035G--Samsung SM-G990U2": 1}
+{"Samsung SM-F936U1--iPad": 1}
+{"Motorola g 5G (2022)--PC": 1}
+{"XiaoMi Redmi Note 9 Pro--Generic Smartphone": 1}
+{"QS5509A--K": 1}
+{"100044018G--K": 1}
+{"LM-G850--K": 1}
+{"Generic Smartphone--Samsung SM-F926U": 1}
+{"P25_T_EEA--K": 1}
+{"A53--K": 1}
+{"SM-T580--PC": 1}
+{"PC--SM-T580": 1}
+{"Other--Samsung SM-G960U": 1}
+{"TB350FU--K": 1}
+{"HiPadX--K": 1}
+{"Samsung SM-A505U--Generic Smartphone": 1}
+{"9032Z--PC": 1}
+{"PC--9032Z": 1}
+{"Nokia XR20Build--iPhone": 1}
+{"V2242--K": 1}
+{"Generic Smartphone--Samsung SM-A125U": 1}
+{"G61S--K": 1}
+{"OnePlus BE2011--K": 1}
+{"Samsung SM-A127F--K": 1}
+{"Samsung SM-G930R4--K": 1}
+{"Generic Smartphone--Samsung SM-G986U": 1}
+{"EC211003--K": 1}
+{"HD60--K": 1}
+{"Samsung SM-A346M--K": 1}
+{"iPhone--Samsung SM-G990U": 1}
+{"PC--Samsung SM-J327T1": 1}
+{"Motorola g power (2021) Build--PC": 1}
+{"Stratus_C7--Samsung SM-S906U": 1}
+{"Samsung SM-G991U--Other": 1}
+{"ACK2326--iPhone": 1}
+{"Generic Smartphone--Samsung SM-A536U": 1}
+{"Samsung SM-A546U1--Generic Smartphone": 1}
+{"Samsung SM-G990U--iPad": 1}
+{"Samsung SM-A135F--K": 1}
+{"Motorola g stylus 5G - 2023 Build--Generic Smartphone": 1}
+{"Samsung SM-G991U--iPad": 1}
+{"Samsung SM-G970U--Samsung SM-A146U": 1}
+{"T810S--iPhone": 1}
+{"Motorolarola edge plus 5G UW (2022)--PC": 1}
+{"LG-M210--K": 1}
+{"Generic Smartphone--Motorola g play - 2023 Build": 1}
+{"Motorola g stylus Build--Generic Smartphone": 1}
+{"LGL83BL--K": 1}
+{"PC--Samsung SM-A536U1": 1}
+{"Samsung SM-A207M--iPhone": 1}
+{"Samsung SM-A025U1--iPhone": 1}
+{"Samsung SM-G950U1--iPhone": 1}
+{"iPad--LG-H932": 1}
+{"LG-H932--Generic Smartphone": 1}
+{"Samsung SM-A025U--iPhone": 1}
+{"Samsung SM-A136U1--PC": 1}
+{"Samsung SM-A136U1--iPhone": 1}

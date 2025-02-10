@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c3bb73b5ae07747727fa3b489673ac2a35b6c1274b7348f49c29e8a430a8ec7
-size 1231
+{"Android--iOS": 8963}
+{"iOS--Android": 8894}
+{"Other--Mac OS X": 8087}
+{"Mac OS X--Other": 7461}
+{"Android--Linux": 4910}
+{"iOS--Windows": 4421}
+{"Windows--iOS": 4182}
+{"iOS--Mac OS X": 3456}
+{"iOS--Other": 2855}
+{"Other--iOS": 2466}
+{"Mac OS X--iOS": 2444}
+{"Linux--Android": 2153}
+{"Android--Windows": 1588}
+{"Windows--Android": 1296}
+{"Android--Other": 790}
+{"Other--Android": 636}
+{"Windows--Other": 351}
+{"Other--Windows": 334}
+{"Windows--Linux": 216}
+{"Linux--Windows": 213}
+{"Mac OS X--Windows": 117}
+{"Mac OS X--Android": 100}
+{"Windows--Mac OS X": 61}
+{"Linux--Ubuntu": 55}
+{"Ubuntu--Linux": 49}
+{"Linux--iOS": 37}
+{"iOS--Linux": 37}
+{"Mac OS X--Linux": 30}
+{"Linux--Mac OS X": 30}
+{"Chrome OS--iOS": 15}
+{"Linux--Other": 12}
+{"Other--Linux": 10}
+{"Android--Mac OS X": 6}
+{"iOS--Ubuntu": 6}
+{"Ubuntu--iOS": 5}
+{"Chrome OS--Other": 5}
+{"Other--Chrome OS": 4}
+{"Windows--Ubuntu": 4}
+{"Chrome OS--Android": 3}
+{"Ubuntu--Windows": 3}
+{"Ubuntu--Android": 2}
+{"Chrome OS--Windows": 2}
+{"Android--Ubuntu": 2}
+{"Android--Chrome OS": 1}
+{"FreeBSD--Other": 1}
+{"Mac OS X--Ubuntu": 1}
+{"Other--Ubuntu": 1}
+{"Ubuntu--Mac OS X": 1}
+{"Windows--Chromecast": 1}
+{"Chromecast--Android": 1}
+{"Chromecast--Windows": 1}
+{"Fedora--Linux": 1}

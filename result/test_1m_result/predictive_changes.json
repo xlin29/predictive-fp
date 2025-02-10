@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:936ea9dd9c254f50a0f1a5040b9a719f7f11f7f14e3a0ca48b961fa6f28c63e5
-size 246
+{"avail_resolution": 69}
+{"font": 32}
+{"pluginFeature": 18}
+{"resolution": 12}
+{"webgl_renderer": 5}
+{"devicePixelRatio": 4}
+{"dateFeature": 3}
+{"webgl_parameters": 2}
+{"browser_family_system_family": 2}
+{"browser_family": 2}
+{"webgl_vendor": 1}

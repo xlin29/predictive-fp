@@ -1,3 +1,1718 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fb5805576f69525ae136e3ff79b74770d68a91efc0b9a6840ca4564d9c75d82
-size 57108
+{"Intel Open Source Technology Center--Google Inc. (Intel Open Source Technology Center)": 14723}
+{"Google Inc. (Intel)--Google Inc. (Google)": 12169}
+{"Google Inc. (Google)--Google Inc. (Intel)": 10151}
+{"Google Inc. (Intel Inc.)--Google Inc. (ATI Technologies Inc.)": 8208}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Intel Inc.)": 7931}
+{"Google Inc. (NVIDIA)--Google Inc. (Google)": 7536}
+{"Google Inc. (Intel)--Google Inc. (NVIDIA)": 5686}
+{"Intel--Google Inc. (Intel)": 5475}
+{"Google Inc. (Google)--Google Inc. (NVIDIA)": 5421}
+{"Google Inc. (NVIDIA)--Google Inc. (Intel)": 5407}
+{"Qualcomm--Google Inc. (Qualcomm)": 5297}
+{"Google Inc. (AMD)--Google Inc. (Google)": 4867}
+{"ARM--Google Inc. (ARM)": 3927}
+{"Google Inc. (Google)--Google Inc. (AMD)": 3671}
+{"Imagination Technologies--Google Inc. (Imagination Technologies)": 2535}
+{"Qualcomm--ARM": 2474}
+{"ARM--Qualcomm": 2289}
+{"AMD--Google Inc. (AMD)": 1711}
+{"Qualcomm--Imagination Technologies": 1289}
+{"Imagination Technologies--Qualcomm": 1165}
+{"Intel Inc.--ATI Technologies Inc.": 1134}
+{"ATI Technologies Inc.--Intel Inc.": 1097}
+{"Google Inc. (AMD)--Google Inc. (Intel)": 866}
+{"Google Inc. (Intel)--Google Inc. (AMD)": 864}
+{"Apple Inc.--Google Inc. (Intel)": 838}
+{"Google Inc. (NVIDIA)--Google Inc. (AMD)": 732}
+{"Google Inc. (Intel)--Apple Inc.": 685}
+{"Google Inc. (AMD)--Google Inc. (NVIDIA)": 674}
+{"ARM--Imagination Technologies": 673}
+{"Imagination Technologies--ARM": 602}
+{"Apple Inc.--Qualcomm": 569}
+{"Qualcomm--Apple Inc.": 567}
+{"Google Inc. (Intel Inc.)--Google Inc. (Apple)": 488}
+{"Qualcomm--Google Inc. (Intel)": 426}
+{"Google Inc. (Qualcomm)--Google Inc. (ARM)": 327}
+{"Google Inc. (Intel)--Qualcomm": 320}
+{"Google Inc. (ARM)--Google Inc. (Qualcomm)": 313}
+{"Google Inc. (Qualcomm)--Qualcomm": 256}
+{"Google Inc. (Intel Inc.)--Google Inc. (Intel)": 255}
+{"Google Inc. (Google)--Google Inc. (Intel Inc.)": 252}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Intel Inc.)": 249}
+{"Google Inc. (Intel Inc.)--Google Inc. (Google)": 241}
+{"Google Inc. (Intel Inc.)--Google Inc. (NVIDIA Corporation)": 240}
+{"Apple Inc.--ARM": 236}
+{"Google Inc. (Intel)--Google Inc. (Apple)": 230}
+{"Intel Inc.--NVIDIA Corporation": 227}
+{"freedreno--Google Inc. (freedreno)": 222}
+{"ARM--Apple Inc.": 221}
+{"NVIDIA Corporation--Intel Inc.": 220}
+{"Google Inc. (Intel)--Google Inc. (Intel Inc.)": 220}
+{"Google Inc. (Apple)--Google Inc. (Intel)": 218}
+{"Intel Inc.--Apple Inc.": 215}
+{"Google Inc. (Qualcomm)--Google Inc. (Imagination Technologies)": 214}
+{"Apple Inc.--Google Inc. (AMD)": 194}
+{"Apple Inc.--Google Inc. (NVIDIA)": 188}
+{"Google Inc. (Imagination Technologies)--Google Inc. (Qualcomm)": 185}
+{"Google Inc.--Google Inc. (Intel)": 173}
+{"Google Inc. (NVIDIA)--Apple Inc.": 166}
+{"Google Inc. (Intel)--ARM": 162}
+{"ARM--Google Inc. (Intel)": 158}
+{"Apple Inc.--Google Inc. (Qualcomm)": 156}
+{"Google Inc. (AMD)--Apple Inc.": 144}
+{"Google Inc. (Intel)--Google Inc. (Microsoft)": 144}
+{"Google Inc. (Qualcomm)--Apple Inc.": 140}
+{"Google Inc. (Apple)--Google Inc. (Intel Inc.)": 135}
+{"Google Inc. (Intel Open Source Technology Center)--Intel Open Source Technology Center": 132}
+{"Google Inc. (Microsoft)--Google Inc. (Intel)": 131}
+{"Google Inc. (Qualcomm)--Google Inc. (Intel)": 111}
+{"Qualcomm--Google Inc. (ARM)": 109}
+{"Apple Inc.--Imagination Technologies": 105}
+{"ARM--Google Inc. (Qualcomm)": 102}
+{"Google Inc. (Intel)--Google Inc. (Qualcomm)": 100}
+{"Google Inc. (Qualcomm)--ARM": 97}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Google)": 96}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Apple)": 96}
+{"Intel Inc.--Apple": 95}
+{"Google Inc. (ARM)--Qualcomm": 94}
+{"Google Inc. (Imagination Technologies)--Google Inc. (ARM)": 89}
+{"Google Inc. (Google)--Google Inc. (NVIDIA Corporation)": 88}
+{"Qualcomm--Google Inc. (NVIDIA)": 87}
+{"Apple Inc.--Intel Inc.": 87}
+{"Google Inc. (ARM)--Google Inc. (Imagination Technologies)": 82}
+{"Intel Open Source Technology Center--Google Inc. (Intel)": 82}
+{"Imagination Technologies--Apple Inc.": 80}
+{"Qualcomm--Google Inc. (AMD)": 79}
+{"Imagination Technologies--Google Inc. (Intel)": 76}
+{"Google Inc. (Intel)--Imagination Technologies": 76}
+{"Google Inc. (NVIDIA)--Google Inc. (Microsoft)": 76}
+{"Google Inc. (NVIDIA)--Qualcomm": 74}
+{"Imagination Technologies--Google Inc. (Qualcomm)": 73}
+{"Google Inc. (Intel)--Intel": 73}
+{"Apple Inc.--Google Inc. (Intel Inc.)": 73}
+{"Google Inc. (Microsoft)--Google Inc. (NVIDIA)": 72}
+{"Google Inc. (ARM)--ARM": 72}
+{"Qualcomm--Google Inc. (Apple)": 71}
+{"Google Inc. (Qualcomm)--Imagination Technologies": 70}
+{"Google Inc. (Google)--Apple Inc.": 70}
+{"Apple Inc.--Google Inc. (Google)": 68}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Intel)": 68}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Google)": 66}
+{"Google Inc. (NVIDIA)--Google Inc. (Apple)": 65}
+{"Intel Open Source Technology Center--Intel": 64}
+{"Google Inc. (AMD)--Qualcomm": 62}
+{"Google Inc. (Google)--Google Inc. (ATI Technologies Inc.)": 61}
+{"Google Inc. (Intel)--Google Inc.": 60}
+{"Google Inc. (NVIDIA)--Google Inc. (Intel Inc.)": 60}
+{"Apple Inc.--Google Inc. (ARM)": 59}
+{"Google Inc. (Apple)--Qualcomm": 59}
+{"Google Inc. (Intel)--Google Inc. (ATI Technologies Inc.)": 58}
+{"Google Inc. (Intel Inc.)--Google Inc. (NVIDIA)": 57}
+{"Google Inc. (Intel)--Intel Open Source Technology Center": 55}
+{"Google Inc. (Intel Inc.)--Google Inc. (AMD)": 54}
+{"Google Inc. (Microsoft)--Google Inc. (AMD)": 52}
+{"Google Inc. (Apple)--Google Inc. (NVIDIA)": 52}
+{"Qualcomm--Google Inc. (Intel Inc.)": 52}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (Intel)": 51}
+{"Google Inc. (Apple)--Google Inc. (AMD)": 50}
+{"Apple Inc.--Google Inc. (Apple)": 50}
+{"Google Inc. (AMD)--Google Inc. (Microsoft)": 49}
+{"Google Inc. (Intel Inc.)--Qualcomm": 49}
+{"Google Inc. (Microsoft)--Google Inc. (Google)": 48}
+{"ARM--Google Inc. (AMD)": 47}
+{"Qualcomm--Google Inc. (Google)": 47}
+{"Google Inc. (Intel Inc.)--Apple Inc.": 47}
+{"ATI Technologies Inc.--Apple Inc.": 46}
+{"Google Inc. (AMD)--Google Inc. (Intel Inc.)": 45}
+{"Google Inc. (AMD)--Google Inc. (Apple)": 44}
+{"Google Inc. (Google)--Qualcomm": 42}
+{"ARM--Google Inc. (NVIDIA)": 42}
+{"Google Inc. (ARM)--Apple Inc.": 41}
+{"Google Inc. (Intel)--Google Inc. (ARM)": 40}
+{"Google Inc. (Apple)--Google Inc. (ATI Technologies Inc.)": 40}
+{"Google Inc. (NVIDIA)--ARM": 40}
+{"Google Inc. (Google)--Google Inc. (Microsoft)": 38}
+{"Google Inc. (AMD)--ARM": 37}
+{"Google Inc. (Imagination Technologies)--Imagination Technologies": 37}
+{"Google Inc. (Imagination Technologies)--Qualcomm": 37}
+{"Google Inc.--Google Inc. (Google)": 37}
+{"Google Inc. (Apple)--Apple Inc.": 37}
+{"Qualcomm--Google Inc. (Imagination Technologies)": 36}
+{"Google Inc. (Google)--Google Inc. (Mesa)": 36}
+{"Apple Inc.--Google Inc. (Microsoft)": 36}
+{"Intel Inc.--Google Inc. (Intel Inc.)": 36}
+{"Google Inc. (Intel)--Google Inc. (Intel Open Source Technology Center)": 35}
+{"Google Inc. (ARM)--Google Inc. (Intel)": 35}
+{"Google Inc. (Google)--Google Inc. (Apple)": 35}
+{"Google Inc. (Apple)--Google Inc. (Google)": 34}
+{"Intel Inc.--Google Inc. (Intel)": 34}
+{"ATI Technologies Inc.--Apple": 33}
+{"Google Inc. (ARM)--Imagination Technologies": 30}
+{"Apple--Intel Inc.": 30}
+{"Google Inc. (Qualcomm)--Google Inc. (NVIDIA)": 29}
+{"Apple Inc.--ATI Technologies Inc.": 28}
+{"Google Inc. (Imagination Technologies)--Apple Inc.": 28}
+{"Google Inc.--Google Inc. (AMD)": 26}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (NVIDIA)": 26}
+{"Google Inc.--Google Inc. (NVIDIA)": 25}
+{"Apple Inc.--Google Inc. (Imagination Technologies)": 25}
+{"Google Inc. (Intel)--Google Inc. (NVIDIA Corporation)": 25}
+{"Google Inc. (Unknown)--Google Inc. (Google)": 24}
+{"NVIDIA Corporation--Apple Inc.": 24}
+{"Google Inc. (Intel Inc.)--ARM": 24}
+{"Google Inc. (NULL)--Google Inc. (Intel)": 23}
+{"Google Inc. (NVIDIA)--Imagination Technologies": 23}
+{"Apple--Google Inc. (Apple)": 23}
+{"Google Inc. (Imagination Technologies)--Google Inc. (Intel)": 23}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Intel)": 23}
+{"Google Inc. (Qualcomm)--Google Inc. (AMD)": 23}
+{"Google Inc. (Intel)--Intel Inc.": 22}
+{"ARM--Google Inc. (Apple)": 22}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (AMD)": 22}
+{"Apple Inc.--NVIDIA Corporation": 22}
+{"Google Inc. (Apple)--ARM": 22}
+{"ARM--Google Inc. (Google)": 22}
+{"ARM--Google Inc. (Intel Inc.)": 20}
+{"Google Inc. (AMD)--Google Inc. (Qualcomm)": 20}
+{"nouveau--Mesa": 20}
+{"Google Inc. (NVIDIA)--Google Inc. (ATI Technologies Inc.)": 19}
+{"Google Inc. (Apple)--Google Inc. (Qualcomm)": 19}
+{"Imagination Technologies--Google Inc. (ARM)": 19}
+{"X.Org--Mesa": 19}
+{"Apple Inc.--Apple": 18}
+{"Google Inc. (NVIDIA)--Google Inc. (Qualcomm)": 18}
+{"Google Inc. (Intel)--Google Inc. (Imagination Technologies)": 18}
+{"Apple--ATI Technologies Inc.": 18}
+{"Google Inc. (NVIDIA)--Google Inc. (NULL)": 18}
+{"Google Inc. (Qualcomm)--Google Inc. (Google)": 18}
+{"Apple Inc.--Google Inc. (ATI Technologies Inc.)": 17}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Apple)": 17}
+{"Google Inc. (X.Org)--Google Inc. (Mesa)": 17}
+{"Google Inc. (Intel)--Apple": 17}
+{"Apple--Apple Inc.": 17}
+{"Google Inc. (Qualcomm)--Google Inc. (Apple)": 16}
+{"ARM--Google Inc. (Imagination Technologies)": 16}
+{"Google Inc. (Imagination Technologies)--ARM": 16}
+{"Imagination Technologies--Google Inc. (NVIDIA)": 16}
+{"Google Inc. (Google)--Google Inc. (Unknown)": 16}
+{"Qualcomm--Google Inc. (ATI Technologies Inc.)": 15}
+{"Google Inc. (Intel Inc.)--Google Inc. (Qualcomm)": 15}
+{"Google Inc. (NULL)--Google Inc. (NVIDIA)": 15}
+{"Google Inc. (Unknown)--Google Inc. (Microsoft)": 15}
+{"Imagination Technologies--Google Inc. (AMD)": 14}
+{"Google Inc. (Google)--ARM": 14}
+{"Intel Open Source Technology Center--Google Inc. (NVIDIA)": 14}
+{"Google Inc. (AMD)--Google Inc. (ATI Technologies Inc.)": 14}
+{"Apple--Google Inc. (Intel)": 14}
+{"Google Inc. (AMD)--Intel Open Source Technology Center": 14}
+{"Google Inc. (ATI Technologies Inc.)--Qualcomm": 13}
+{"Google Inc. (Intel)--Google Inc. (Unknown)": 13}
+{"ATI Technologies Inc.--Google Inc. (ATI Technologies Inc.)": 13}
+{"Google Inc. (AMD)--AMD": 13}
+{"Google Inc. (Qualcomm)--Google Inc. (Intel Inc.)": 12}
+{"Apple--Google Inc. (NVIDIA)": 12}
+{"Imagination Technologies--Google Inc. (Apple)": 12}
+{"Intel Open Source Technology Center--Google Inc. (Intel Inc.)": 11}
+{"Imagination Technologies--Google Inc. (Google)": 11}
+{"Google Inc. (NVIDIA)--Google Inc.": 11}
+{"Google Inc. (Apple)--Imagination Technologies": 11}
+{"Imagination Technologies--Google Inc. (Intel Inc.)": 11}
+{"Google Inc. (Google)--Google Inc. (VMware)": 11}
+{"Google Inc. (NVIDIA)--Intel Open Source Technology Center": 11}
+{"Google Inc. (Google)--Google Inc. (Qualcomm)": 11}
+{"Google Inc. (Unknown)--Google Inc. (Intel)": 10}
+{"Google Inc. (Intel)--Google Inc. (NULL)": 10}
+{"Google Inc. (ARM)--Google Inc. (Apple)": 10}
+{"Intel Open Source Technology Center--Google Inc. (Google)": 10}
+{"Google Inc. (Intel Inc.)--Imagination Technologies": 10}
+{"Google Inc. (AMD)--Intel Inc.": 10}
+{"ARM--Intel Open Source Technology Center": 9}
+{"Intel Open Source Technology Center--Google Inc. (Apple)": 9}
+{"Google Inc. (AMD)--Google Inc. (ARM)": 9}
+{"Intel Inc.--Google Inc. (AMD)": 9}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (NVIDIA)": 9}
+{"Google Inc. (AMD)--Imagination Technologies": 9}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (NVIDIA)": 9}
+{"Google Inc. (NVIDIA)--Google Inc. (NVIDIA Corporation)": 9}
+{"Google Inc. (Google)--Google Inc. (Intel Open Source Technology Center)": 9}
+{"Google Inc. (ATI Technologies Inc.)--Apple Inc.": 8}
+{"Google Inc. (NVIDIA)--Intel Inc.": 8}
+{"Google Inc. (Google)--Imagination Technologies": 8}
+{"Qualcomm--Google Inc. (Intel Open Source Technology Center)": 8}
+{"Google Inc. (NVIDIA)--Apple": 8}
+{"ARM--Google Inc. (ATI Technologies Inc.)": 8}
+{"NVIDIA Corporation--Apple": 8}
+{"Intel Open Source Technology Center--Google Inc. (AMD)": 8}
+{"Google Inc. (Apple)--Intel Open Source Technology Center": 8}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (Intel Inc.)": 8}
+{"Google Inc. (Apple)--Google Inc. (ARM)": 7}
+{"Google Inc. (ARM)--Google Inc. (AMD)": 7}
+{"Mesa/X.org--NVIDIA Corporation": 7}
+{"Mesa/X.org--Mesa": 7}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (Google)": 7}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (AMD)": 7}
+{"Apple Inc.--Intel Open Source Technology Center": 7}
+{"Intel Open Source Technology Center--Apple Inc.": 6}
+{"Google Inc. (ATI Technologies Inc.)--ARM": 6}
+{"Intel--Google Inc. (NVIDIA)": 6}
+{"Intel Open Source Technology Center--Qualcomm": 6}
+{"Google Inc. (NVIDIA)--Google Inc. (Imagination Technologies)": 6}
+{"Google Inc. (VMware)--Google Inc. (Google)": 6}
+{"Google Inc. (NVIDIA)--Google Inc. (ARM)": 6}
+{"X.Org--Google Inc. (X.Org)": 6}
+{"Google Inc. (Intel Inc.)--Intel Open Source Technology Center": 6}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (AMD)": 6}
+{"Google Inc. (Intel Open Source Technology Center)--Qualcomm": 6}
+{"Google Inc. (ARM)--Google Inc. (NVIDIA)": 6}
+{"Intel Inc.--Google Inc. (NVIDIA)": 6}
+{"Qualcomm--Intel Open Source Technology Center": 6}
+{"Google Inc. (Intel)--ATI Technologies Inc.": 5}
+{"Google Inc. (AMD)--Google Inc. (NULL)": 5}
+{"Google Inc. (NULL)--Google Inc. (AMD)": 5}
+{"ATI Technologies Inc.--Google Inc. (Intel)": 5}
+{"Qualcomm--Intel Inc.": 5}
+{"Google Inc. (NVIDIA)--Google Inc. (Unknown)": 5}
+{"Google Inc. (Mesa)--Google Inc. (NVIDIA Corporation)": 5}
+{"X.Org--AMD": 5}
+{"Google Inc. (AMD)--Google Inc.": 5}
+{"Google Inc. (ARM)--Google Inc. (Intel Inc.)": 4}
+{"Intel--Google Inc. (AMD)": 4}
+{"Google Inc. (Intel Inc.)--Google Inc. (Intel Open Source Technology Center)": 4}
+{"Mesa--NVIDIA Corporation": 4}
+{"Intel--Google Inc. (Intel Inc.)": 4}
+{"Google Inc. (NVIDIA)--ATI Technologies Inc.": 4}
+{"Google Inc. (Apple)--Google Inc. (NVIDIA Corporation)": 4}
+{"Google Inc. (NVIDIA)--Google Inc. (Intel Open Source Technology Center)": 4}
+{"Google Inc. (AMD)--Google Inc. (Intel Open Source Technology Center)": 4}
+{"Google Inc. (Intel)--AMD": 4}
+{"pUKkSwBA--Google Inc. (Intel)": 4}
+{"ARM--Google Inc. (Intel Open Source Technology Center)": 4}
+{"Apple Inc.--Intel": 4}
+{"Intel--Apple Inc.": 4}
+{"Google Inc. (AMD)--Google Inc. (NVIDIA Corporation)": 4}
+{"Imagination Technologies--Intel Open Source Technology Center": 4}
+{"Google Inc. (Google)--Google Inc.": 4}
+{"Google Inc. (Intel Inc.)--Google Inc. (ARM)": 4}
+{"Apple Inc.--Google Inc. (Intel Open Source Technology Center)": 4}
+{"Google Inc. (ATI Technologies Inc.)--Intel Open Source Technology Center": 4}
+{"nouveau--NVIDIA Corporation": 4}
+{"Google Inc. (Google)--Intel Inc.": 4}
+{"Samsung Electronics Co., Ltd.--ARM": 4}
+{"Google Inc. (Imagination Technologies)--Google Inc. (AMD)": 4}
+{"Google Inc. (AMD)--Apple": 4}
+{"Google Inc. (NVIDIA)--Intel": 4}
+{"NVIDIA Corporation--Intel": 4}
+{"Intel--NVIDIA Corporation": 4}
+{"Google Inc. (Google)--Intel Open Source Technology Center": 4}
+{"Google Inc. (Intel Inc.)--Intel Inc.": 4}
+{"Intel Open Source Technology Center--ARM": 3}
+{"Mesa/X.org--Intel": 3}
+{"ATI Technologies Inc.--Google Inc. (Apple)": 3}
+{"NVIDIA Corporation--Mesa/X.org": 3}
+{"Google Inc. (Intel Open Source Technology Center)--ARM": 3}
+{"Google Inc. (Imagination Technologies)--Google Inc. (Google)": 3}
+{"4kx3bVKk--GDBfXq0a": 3}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (Apple)": 3}
+{"Intel Open Source Technology Center--Google Inc. (Imagination Technologies)": 3}
+{"Intel Inc.--Google Inc. (Apple)": 3}
+{"Google Inc. (Unknown)--Google Inc. (NVIDIA)": 3}
+{"HDBnyCJM--Soct9mTR": 3}
+{"Apple Inc.--Google Inc. (Unknown)": 3}
+{"Google Inc. (Unknown)--Apple Inc.": 3}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (ATI Technologies Inc.)": 3}
+{"Qualcomm--Google Inc. (Microsoft)": 3}
+{"NVIDIA Corporation--Mesa": 3}
+{"Apple--Qualcomm": 3}
+{"Intel Open Source Technology Center--Google Inc. (Qualcomm)": 3}
+{"ARM--ATI Technologies Inc.": 3}
+{"Qualcomm--Samsung Electronics Co., Ltd.": 3}
+{"ATI Technologies Inc.--Google Inc. (AMD)": 3}
+{"Apple--NVIDIA Corporation": 3}
+{"Apple--ARM": 3}
+{"NVIDIA Corporation--AMD": 3}
+{"Google Inc. (AMD)--Google Inc. (Imagination Technologies)": 3}
+{"Google Inc. (Apple)--Google Inc. (Intel Open Source Technology Center)": 3}
+{"Google Inc. (Microsoft)--Apple Inc.": 3}
+{"Google Inc. (Qualcomm)--Google Inc. (Microsoft)": 3}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Mesa)": 2}
+{"NVIDIA Corporation--Qualcomm": 2}
+{"Google Inc. (Imagination Technologies)--Google Inc. (NVIDIA)": 2}
+{"BECgYzCJ--9i47d1as": 2}
+{"d1a05FCg--KFpc1iRn": 2}
+{"KFpc1iRn--U1iRv2Ep": 2}
+{"U1iRv2Ep--157lSoUK": 2}
+{"157lSoUK--LNOPuXLN": 2}
+{"Apple--Intel": 2}
+{"Google Inc. (ARM)--Google Inc. (Google)": 2}
+{"ARM--Google Inc. (NVIDIA Corporation)": 2}
+{"Google Inc.--Qualcomm": 2}
+{"Qualcomm--Intel": 2}
+{"Google Inc. (Qualcomm)--Google Inc. (NVIDIA Corporation)": 2}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Qualcomm)": 2}
+{"Apple Inc.--Google Inc. (NVIDIA Corporation)": 2}
+{"Google Inc.--Google Inc. (NULL)": 2}
+{"Google Inc. (Intel)--NVIDIA Corporation": 2}
+{"Google Inc.--Intel": 2}
+{"Google Inc. (Apple)--Intel": 2}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Qualcomm)": 2}
+{"Soct9mTR--hQIEKFhv": 2}
+{"Google Inc. (Intel)--XToUKkSo": 2}
+{"Google Inc. (Intel)--pUKkSwBA": 2}
+{"Google Inc. (Unknown)--Google Inc. (Intel Inc.)": 2}
+{"Google Inc. (Qualcomm)--Google Inc. (ATI Technologies Inc.)": 2}
+{"OPuXLNOH--Pq0iZUxg": 2}
+{"Pq0iZUxg--BIr8Hiwg": 2}
+{"AMD--ARM": 2}
+{"Google Inc. (Intel)--Mesa/X.org": 2}
+{"BfPPm6d1--Google Inc. (NVIDIA)": 2}
+{"PPufuAny--Google Inc. (NVIDIA)": 2}
+{"Google Inc. (Intel Open Source Technology Center)--Intel": 2}
+{"Mesa--AMD": 2}
+{"Imagination Technologies--Google Inc. (ATI Technologies Inc.)": 2}
+{"Qualcomm--ATI Technologies Inc.": 2}
+{"ATI Technologies Inc.--ARM": 2}
+{"Mesa/X.org--AMD": 2}
+{"NVIDIA Corporation--Google Inc. (NVIDIA)": 2}
+{"Intel--Google Inc. (ARM)": 2}
+{"ATI Technologies Inc.--NVIDIA Corporation": 2}
+{"Google Inc. (AMD)--Intel": 2}
+{"ARM--Apple": 2}
+{"ATI Technologies Inc.--Qualcomm": 2}
+{"Intel Inc.--ARM": 2}
+{"Google Inc. (Qualcomm)--Intel Open Source Technology Center": 2}
+{"Google Inc. (Google)--Google Inc. (ARM)": 2}
+{"Apple Inc.--Google Inc. (NULL)": 2}
+{"Google Inc. (Google)--Intel": 2}
+{"Intel Open Source Technology Center--Mesa/X.org": 2}
+{"Intel--Google Inc. (Google)": 2}
+{"Google Inc. (ARM)--Intel Open Source Technology Center": 2}
+{"Intel Open Source Technology Center--Imagination Technologies": 2}
+{"ATI Technologies Inc.--Google Inc. (NVIDIA)": 2}
+{"w3j4FKNG--bwgvXTwB": 2}
+{"X.Org--Google Inc. (AMD)": 2}
+{"AMD--Google Inc. (ATI Technologies Inc.)": 2}
+{"nouveau--Google Inc. (nouveau)": 2}
+{"Google Inc.--Intel Inc.": 2}
+{"ARM--Samsung Electronics Co., Ltd.": 2}
+{"Google Inc.--Google Inc. (Microsoft)": 2}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Intel Open Source Technology Center)": 2}
+{"ATI Technologies Inc.--Google Inc. (Intel Inc.)": 2}
+{"Intel Open Source Technology Center--Google Inc. (ATI Technologies Inc.)": 2}
+{"Mesa/X.org--Mesa Project": 2}
+{"PmyCJECo--EpUKkSoU": 1}
+{"Qualcomm--Google Inc. (NVIDIA Corporation)": 1}
+{"Google Inc. (NVIDIA Corporation)--ARM": 1}
+{"w3j4FKFh--Google Inc. (AMD)": 1}
+{"2Ehvfu2E--hQIMl5kx": 1}
+{"Google Inc. (Apple)--7KFhvfu2": 1}
+{"7KFhvfu2--Google Inc. (Apple)": 1}
+{"CNOHDJMt--rdOm6dt9": 1}
+{"rdOm6dt9--Google Inc. (NVIDIA)": 1}
+{"NKkaVKs9--zZrdOuf2": 1}
+{"zZrdOuf2--GiwYMGi4": 1}
+{"a057lSw3--9qVxgvfu": 1}
+{"9qVxgvfu--qdWLFhvX": 1}
+{"Qualcomm--NVIDIA Corporation": 1}
+{"Google Inc. (Intel)--BECgYrdW": 1}
+{"BECgYrdW--47laNtWy": 1}
+{"Intel Inc.--Google Inc. (Qualcomm)": 1}
+{"U1asWyhY--nbsWyhYz": 1}
+{"1a0DgQIM--BECgYzCJ": 1}
+{"9i47d1as--57d1iZUp": 1}
+{"57d1iZUp--NGqVpzhY": 1}
+{"NGqVpzhY--1mTJjZUp": 1}
+{"1mTJjZUp--vAn6dt9e": 1}
+{"USJr8Hiw--InTRQvAf": 1}
+{"Qualcomm--freedreno": 1}
+{"freedreno--Qualcomm": 1}
+{"eTJjZMOH--DJEKFpct": 1}
+{"nTRIMteX--5cWToc1a": 1}
+{"5cWToc1a--ubNtePPu": 1}
+{"ubNtePPu--n2Ehvfu2": 1}
+{"n2Ehvfu2--o3bNtePP": 1}
+{"o3bNtePP--Pm6lSoUK": 1}
+{"b4FKNGqV--hvfu26GD": 1}
+{"oBAIjZUp--8mTJjRnb": 1}
+{"8mTJjRnb--zhQQnTRI": 1}
+{"zhQQnTRI--d1a05FCg": 1}
+{"LNOPuXLN--fPPuf2j4": 1}
+{"fPPuf2j4--SwBAIjZM": 1}
+{"kaNlxBIr--w3j47laN": 1}
+{"vf2bVKkS--e2jwYUp7": 1}
+{"e2jwYUp7--EtWq8HqV": 1}
+{"oUKkSw3b--cWLNOPm6": 1}
+{"cWLNOPm6--PPmy4kx3": 1}
+{"PPmy4kx3--uf2jwYUp": 1}
+{"uf2jwYUp--99Hiwg36": 1}
+{"99Hiwg36--iwgvfuAf": 1}
+{"iwgvfuAf--Vp78euAn": 1}
+{"Vp78euAn--Mxgvf2jw": 1}
+{"Mxgvf2jw--IMtWyhQI": 1}
+{"IMtWyhQI--2jwgvf2b": 1}
+{"2jwgvf2b--gQQnTJjZ": 1}
+{"gQQnTJjZ--Sw3bNlxB": 1}
+{"Sw3bNlxB--cx3j4FCg": 1}
+{"cx3j4FCg--vf2bNteP": 1}
+{"7lSoct9m--asePPuXL": 1}
+{"Google Inc. (AMD)--wgvf2jwY": 1}
+{"U1asWq8H--AAIr89Hi": 1}
+{"QQnbsePP--pg368euA": 1}
+{"pg368euA--PuXLFh36": 1}
+{"HLkSwBAA--3EpUSRQn": 1}
+{"3EpUSRQn--NGiwYUpz": 1}
+{"x3bVSRIM--YvXLFh36": 1}
+{"YvXLFh36--47dt9eu2": 1}
+{"47dt9eu2--9mbsWq0i": 1}
+{"9mbsWq0i--wFCozhQI": 1}
+{"Sw3bVSJj--EtWq8Hiw": 1}
+{"pzhQIECo--yCJMteXq": 1}
+{"Google Inc.--Google Inc. (Unknown)": 1}
+{"dt157laV--uAfXyhQQ": 1}
+{"uAfXyhQQ--VSRIEKFh": 1}
+{"Google Inc. (Google)--Google Inc. (VMware, Inc.)": 1}
+{"pgvfu2Ep--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--pgvfu2Ep": 1}
+{"ZYz4cWLN--Google Inc. (NVIDIA)": 1}
+{"fu268mTJ--Google Inc. (NVIDIA)": 1}
+{"iwYMOHDB--XLNGi47d": 1}
+{"XLNGi47d--PPm6laNl": 1}
+{"KNGiwYMG--QIEKNGqd": 1}
+{"QIEKNGqd--4k5cOm6l": 1}
+{"4k5cOm6l--Fh36GDBn": 1}
+{"r8HqVp78--laVSRQnT": 1}
+{"s279. fP--8evXLlSJ": 1}
+{"asWyhQIE--dSoUKkaN": 1}
+{"dSoUKkaN--oUSRIECo": 1}
+{"oUSRIECo--TwBAAIjZ": 1}
+{"TwBAAIjZ--w7laVKkS": 1}
+{"Fpc1iRv2--pgvXLFpU": 1}
+{"7lSoc1a0--eXyhQIEK": 1}
+{"eXyhQIEK--0a0DgYzC": 1}
+{"NlxBAAAI--Google Inc. (Apple)": 1}
+{"Qualcomm--Google Inc.": 1}
+{"Google Inc. (Intel Inc.)--Samsung Electronics Co., Ltd.": 1}
+{"nz5cOnz5--UKlSJky5": 1}
+{"UKlSJky5--69. fv37": 1}
+{"69. fv37--8. fPnTJ": 1}
+{"8. fPnTJ-- fPHjx4c": 1}
+{" fPHjx4c--s2bNGjxY": 1}
+{"1DgYzCJM--XLNGi4FK": 1}
+{"TJjZUxYM--yCJEKNGq": 1}
+{"7GDJEKFh--a057lSoc": 1}
+{"a057lSoc--NtePHDBn": 1}
+{"NtePHDBn--ylSwBAIj": 1}
+{"ylSwBAIj--x3jwYUp7": 1}
+{"Intel--Google Inc. (Apple)": 1}
+{"du3bNGjR--ePnTJkyZ": 1}
+{"ePnTJkyZ--u3bNGjRI": 1}
+{"zZrdOm6d--JQv268e2": 1}
+{"JQv268e2--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--3AAAAAAI": 1}
+{"3AAAAAAI--LFpUSRQn": 1}
+{"9qVxgvf2--t1DgQIEK": 1}
+{"t1DgQIEK--1asWyZz4": 1}
+{"laVKkSw3--DJECgQIE": 1}
+{"ARM--AMD": 1}
+{"AMD--Qualcomm": 1}
+{"AMD--Google Inc. (Google)": 1}
+{"Google Inc. (Apple)--Google Inc.": 1}
+{"Google Inc. (Intel Inc.)--aRnTRIMt": 1}
+{"z8mTRIMt--yhQIMtWy": 1}
+{"yhQIMtWy--Epct9mTJ": 1}
+{"Epct9mTJ--89HqdOuf": 1}
+{"89HqdOuf--5kxBAIjZ": 1}
+{"6pUKs9e2--4cWLNOPm": 1}
+{"4cWLNOPm--7d1aseXy": 1}
+{"7d1aseXy--MteXq899": 1}
+{"MteXq899--pct15FCg": 1}
+{"pct15FCg--99HqVpzh": 1}
+{"j8HqVxYU--kx3bVSJj": 1}
+{"kx3bVSJj--Google Inc. (Google)": 1}
+{"Google Inc. (Google)--kx3bVSJj": 1}
+{"KkaNlx3b--DJMlxBAI": 1}
+{"DJMlxBAI--Google Inc. (Intel Inc.)": 1}
+{"Google Inc. (Intel Inc.)--ZQIMteXq": 1}
+{"Intel--Mesa": 1}
+{"Mesa--Intel": 1}
+{"9HqdWLFp--Nlx3bNte": 1}
+{"36GLkSw3--Google Inc. (Intel)": 1}
+{"ubNl5cWL--s5FKFpc1": 1}
+{"Google Inc. (Intel)--f2bVSRIE": 1}
+{"NVIDIA Corporation--Google Inc. (Intel)": 1}
+{"WTwBIjZM--4kx3bVKk": 1}
+{"GDBfXq0a--jZMGqVxY": 1}
+{"hQIEKFhv--d1iRv268": 1}
+{"Google Inc. (NVIDIA Corporation)--Intel Open Source Technology Center": 1}
+{"Imagination Technologies--Google Inc. (Unknown)": 1}
+{"wgvfuAn6--jwg3Eh3E": 1}
+{"jwg3Eh3E--Vxg36GDJ": 1}
+{"Vxg36GDJ--daNl5kxB": 1}
+{"daNl5kxB--j4FCozhQ": 1}
+{"j4FCozhQ--XToc1a05": 1}
+{"XToc1a05--3Ehvf2bN": 1}
+{"3Ehvf2bN--w7laVSRI": 1}
+{"w7laVSRI--5FCgQQnb": 1}
+{"5FCgQQnb--Vp7GDBny": 1}
+{"Vp7GDBny--uAfPPm6l": 1}
+{"uAfPPm6l--PyZz4cOu": 1}
+{"PyZz4cOu--KFh368mT": 1}
+{"KFh368mT--USJjRnbs": 1}
+{"USJjRnbs--157lSwBA": 1}
+{"157lSwBA--5FKNGqVx": 1}
+{"5FKNGqVx--BECgQIMl": 1}
+{"BECgQIMl--Bny4cWLF": 1}
+{"Bny4cWLF--PPuXLFh3": 1}
+{"PPuXLFh3--7Co7GDJE": 1}
+{"7Co7GDJE--wBAAAAAA": 1}
+{"wBAAAAAA--MxYMGqdW": 1}
+{"MxYMGqdW--Ml5k5k5c": 1}
+{"Ml5k5k5c--Xu2EpUKk": 1}
+{"1oBkoovv--O1GamoAT": 1}
+{"XToUKkSo--Google Inc. (Intel)": 1}
+{"p78eu2Ep--2Eh368mT": 1}
+{"2Eh368mT--leXq0a05": 1}
+{"leXq0a05--1a0DgYrV": 1}
+{"4cWLFhvf--HLs157la": 1}
+{"HLs157la--w7d1aseP": 1}
+{"w7d1aseP--wBAIr0a0": 1}
+{"wBAIr0a0--hUKkaNlx": 1}
+{"hUKkaNlx--pc1iRnTR": 1}
+{"pc1iRnTR--lWyhQQvA": 1}
+{"lWyhQQvA--UKkaNteX": 1}
+{"UKkaNteX--IMlxBIjR": 1}
+{"m6laNtWq--y4k5cOm6": 1}
+{"y4k5cOm6--a05FCgQQ": 1}
+{"a05FCgQQ--Ut157laV": 1}
+{"Ut157laV--PyhQIMlx": 1}
+{"JIMl5kx3--1asWyZrV": 1}
+{"1asWyZrV--dSoct15F": 1}
+{"Wq0asePP--wYMGqdOu": 1}
+{"wYMGqdOu--MOHDJMte": 1}
+{"Up7GLs1D--Loc1iRvA": 1}
+{"Loc1iRvA--Oufu268m": 1}
+{"fXq0iZMO--PHDJECgY": 1}
+{"PHDJECgY--pzZzCBn6": 1}
+{"Google Inc. (Intel)--Google Inc. (Mesa)": 1}
+{"DkaNteXy--eb0Do7GD": 1}
+{"VOufuAn6--RIEKFpct": 1}
+{"cOmy4kxB--4BfXyhQI": 1}
+{"mXToc1a0--u268e2jw": 1}
+{"Google Inc. (Unknown)--Google Inc. (AMD)": 1}
+{"DBnyCJEC--wBIjRv26": 1}
+{"wBIjRv26--DJEKFhvX": 1}
+{"GDBfXq89--JIMtWyhY": 1}
+{"Google Inc. (Apple)--NKs9e2bN": 1}
+{"NKs9e2bN--8LkSoct1": 1}
+{"8LkSoct1--v68mTRIE": 1}
+{"Imagination Technologies--AMD": 1}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (ARM)": 1}
+{"BIr0a0Do--ZrVpzZz4": 1}
+{"ZrVpzZz4--OuXToc1i": 1}
+{"JMlx3bVS--099HiwYU": 1}
+{"099HiwYU--LwBAAAIj": 1}
+{"LwBAAAIj--RnbsePPm": 1}
+{"RnbsePPm--Google Inc. (AMD)": 1}
+{"Google Inc. (AMD)--RnbsePPm": 1}
+{"Intel Open Source Technology Center--AMD": 1}
+{"OLNOPufu--OuXLNGiw": 1}
+{"Mesa/X.org--Google Inc. (Intel)": 1}
+{"ARM--asePPuf2": 1}
+{"asePPuf2--BAAIr0as": 1}
+{"BAAIr0as--hvXTwBAI": 1}
+{"hvXTwBAI--YUp7GDBn": 1}
+{"YUp7GDBn--HqVxYMGi": 1}
+{"HqVxYMGi--bNtePPmy": 1}
+{"bNtePPmy--7lSw3jwY": 1}
+{"7lSw3jwY--UKs1DgQQ": 1}
+{"SoUKs15F--Elx3bNtW": 1}
+{"Elx3bNtW--zGLkaVSR": 1}
+{"z4kx3jwY--w7lSoUSJ": 1}
+{"TJjRnb0D--bNtePHDJ": 1}
+{"bNtePHDJ--z8mbsWq0": 1}
+{"bNtWyhYr--vXLFpUKs": 1}
+{"vXLFpUKs--teXyhQIM": 1}
+{"teXyhQIM--gvXToUSR": 1}
+{"Hiwg3EpU--HLs157d1": 1}
+{"r4kxBAAA--lx3jwYMO": 1}
+{"lx3jwYMO--u268e2bV": 1}
+{"u268e2bV--wYMGqVxY": 1}
+{"vEhvXLFp--7KNOPuXL": 1}
+{"aZUpzZrV--tePHDBfP": 1}
+{"tePHDBfP--Rv268eu2": 1}
+{"ZzCJMteP--Gi4FKFpc": 1}
+{"GDJMl5cO--Google Inc. (Google)": 1}
+{"w48.   f--IkSp0atW": 1}
+{"IkSp0atW--o0atWLFC": 1}
+{"o0atWLFC--ZMmTp06d": 1}
+{"ZMmTp06d--BgQIEiRI": 1}
+{"BgQIEiRI--duXr169.": 1}
+{"duXr169.--.  fPnTJ": 1}
+{"Toct9e2j--fPHLs157": 1}
+{"fPHLs157--u2EhvXTw": 1}
+{"u2EhvXTw--QIEKNOPm": 1}
+{"dSoUKkaN--bwYUpzhY": 1}
+{"CozhQIMt--SNteXyhQ": 1}
+{"Google Inc. (AMD)--Google Inc. (Unknown)": 1}
+{"Google Inc. (NVIDIA)--Qv26GDJE": 1}
+{"Google Inc. (NVIDIA)--PPufuAny": 1}
+{"laVSRIEK--vXLNOHLk": 1}
+{"vXLNOHLk--5cOuXToU": 1}
+{"5cOuXToU--RQnbseXq": 1}
+{"RQnbseXq--GDJMl5kx": 1}
+{"GDJMl5kx--Jr0a05FK": 1}
+{"Jr0a05FK--v26GDBfP": 1}
+{"v26GDBfP--ct1DgQIM": 1}
+{"Google Inc. (ARM)--Google Inc. (Unknown)": 1}
+{"Google Inc. (Unknown)--Google Inc. (Imagination Technologies)": 1}
+{"zhYrdOmy--hct1Dozh": 1}
+{"hct1Dozh--aNtWq89H": 1}
+{"4cWTwBIr--p78euAn6": 1}
+{"p78euAn6--3bVKkaVK": 1}
+{"OHDBny4k--k157dt9m": 1}
+{"k157dt9m--6hvXLFpU": 1}
+{"vEpUKkSw--KJjZMOPu": 1}
+{"KJjZMOPu--lWyZz4kx": 1}
+{"lWyZz4kx--iRv26GLk": 1}
+{"iRv26GLk--v2EhvXTo": 1}
+{"v2EhvXTo--Wq8Hiwg3": 1}
+{"Wq8Hiwg3--GiwgvXLN": 1}
+{"GiwgvXLN--Jr8Hiwgv": 1}
+{"Jr8Hiwgv--FGqdOuXT": 1}
+{"FGqdOuXT--YUp7GDBf": 1}
+{"YUp7GDBf--T0DgQQnT": 1}
+{"T0DgQQnT--mb05FCgQ": 1}
+{"mb05FCgQ--PHDBfPPu": 1}
+{"PHDBfPPu--RUp78e2b": 1}
+{"RUp78e2b--rdWTw3jw": 1}
+{"rdWTw3jw--r4kx3bVK": 1}
+{"r4kx3bVK--ZrdWLNGi": 1}
+{"ZrdWLNGi--myCJMtWy": 1}
+{"myCJMtWy--ZQQv2Eh3": 1}
+{"ZQQv2Eh3--wFCgYrVx": 1}
+{"5cWTw3bN--U1a057la": 1}
+{"sePHDBny--t1DgYrVx": 1}
+{"t1DgYrVx--KFpUKkSo": 1}
+{"GiwgvXTw--pg3Eh3Ep": 1}
+{"pg3Eh3Ep--kaVKkaNl": 1}
+{"kaVKkaNl--6d1aseXq": 1}
+{"6d1aseXq--8mb05FKF": 1}
+{"8mb05FKF--rVxg36GL": 1}
+{"Google Inc. (Microsoft)--Google Inc.": 1}
+{"XLFh36GD--zhYzCJEK": 1}
+{"zhYzCJEK--SVSJr8Hi": 1}
+{"SVSJr8Hi--6GDJMlxB": 1}
+{"6GDJMlxB--Fh368e2b": 1}
+{"iVxgvfu2--4k5k5cOu": 1}
+{"4k5k5cOu--RUp78mb0": 1}
+{"ElxBAAAI--3bVKkSw3": 1}
+{"3bVKkSw3--hYrdWLNG": 1}
+{"w3j4FKNO--Google Inc. (Intel)": 1}
+{"k9euAfXy--d1iZUp7G": 1}
+{"ARM--Intel Inc.": 1}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (Qualcomm)": 1}
+{"hvXToc1a--USRIECgY": 1}
+{"USRIECgY--v2EhvXLN": 1}
+{"HuXTw3bV--rVpzZrdW": 1}
+{"GqVp78mb--Google Inc. (NVIDIA)": 1}
+{"m6laVSJj--RvAfPHLk": 1}
+{"RvAfPHLk--PPm6d1iZ": 1}
+{"yCJECgYr--vXTw3jwY": 1}
+{"Google Inc. (NVIDIA Corporation)--gzZrdOuX": 1}
+{"36GDJMlx--Jr0asWyh": 1}
+{"Jr0asWyh--KRQnTJjZ": 1}
+{"TwBAIjZU--XTwBAIr0": 1}
+{"MOHLkSoc--HDBfPHLs": 1}
+{"HDBfPHLs--ubNlxBIr": 1}
+{"ubNlxBIr--Nl5cOmy4": 1}
+{"Nl5cOmy4--z4kxBIr0": 1}
+{"z4kxBIr0--Fpct9mTJ": 1}
+{"Fpct9mTJ--Ks15FCo7": 1}
+{"Ks15FCo7--KJr0iZMG": 1}
+{"KJr0iZMG--nTJr89Hq": 1}
+{"nTJr89Hq--cOuXToUK": 1}
+{"VKs1DgYz--WXyhYzCJ": 1}
+{"WXyhYzCJ--WXq0iZMO": 1}
+{"Rnb05FKN--my4cOufu": 1}
+{"my4cOufu--MtePHLs9": 1}
+{"MtePHLs9--eXyhQQnb": 1}
+{"u2Epc1iZ--c1iRvAny": 1}
+{"c1iRvAny--4JMl5cWT": 1}
+{"lSJEixYs--pUKFixYs": 1}
+{"JECBgwYM--tWLFiRoU": 1}
+{"tWLFiRoU--w4cu3bNG": 1}
+{"euAfPHDJ--7dt9mbse": 1}
+{"7dt9mbse--sePHLkaN": 1}
+{"sePHLkaN--BnyCBfXy": 1}
+{"BnyCBfXy--pc1a05FK": 1}
+{"Google Inc. (NVIDIA)--Google Inc. (VMware)": 1}
+{"wgvfu26G--uXLNGiwg": 1}
+{"IEixYMmT--q1at27dO": 1}
+{"q1at27dO--BAgQIEix": 1}
+{"BAgQIEix--XLlyZMmT": 1}
+{"XLlyZMmT--9.fPHjRI": 1}
+{"9.fPHjRI--DBAAAAAA": 1}
+{"DBAAAAAA--q16dOnz5": 1}
+{"q16dOnz5--FCBAgwYM": 1}
+{"FCBAgwYM--r1aNmTp0": 1}
+{"r1aNmTp0--YsWrVq16": 1}
+{"YsWrVq16--WrVKFixY": 1}
+{"WrVKFixY--7dOnTpUK": 1}
+{"7dOnTpUK-- fPnz5cu": 1}
+{" fPnz5cu--jxYMmz5c": 1}
+{"jxYMmz5c--Qo0aNmTJ": 1}
+{"Qo0aNmTJ--8evXr169": 1}
+{"8evXr169--JEiRo06d": 1}
+{"JEiRo06d--AAAAgw4c": 1}
+{"AAAAgw4c--HjRIkSJk": 1}
+{"HjRIkSJk--u3btWLly": 1}
+{"u3btWLly--p06du37d": 1}
+{"Hi47d1iZ--JMl5cOm6": 1}
+{"d1iRv26G--Google Inc. (AMD)": 1}
+{"Google Inc. (NVIDIA)--AMD": 1}
+{"AMD--Google Inc. (Qualcomm)": 1}
+{"ubVSRQnb--5o7GDBny": 1}
+{"Google Inc. (Intel)--gzhYrdOm": 1}
+{"gzhYrdOm--gQQnb0Do": 1}
+{"gQQnb0Do--zCBfPPuf": 1}
+{"7dOHDBAg--MOHDJEKF": 1}
+{"7CozZrVx--WyhYrVxg": 1}
+{"WyhYrVxg--3IjRnb0D": 1}
+{"IECozhQQ--SoUKkaNl": 1}
+{"SoUKkaNl--jRnb05FC": 1}
+{"jRnb05FC--6GDJECo7": 1}
+{"6GDJECo7--oUSJjRnb": 1}
+{"oUSJjRnb--nTJjRnTJ": 1}
+{"nTJjRnTJ--Qz4k5k5c": 1}
+{"Qz4k5k5c--0DgQQvAn": 1}
+{"0DgQQvAn--2EhvXLNG": 1}
+{"2EhvXLNG--vfuAfPHD": 1}
+{"vfuAfPHD--SwBIr0iR": 1}
+{"SwBIr0iR--x3bVKkaN": 1}
+{"x3bVKkaN--RIMtePPu": 1}
+{"RIMtePPu--BnyCJECg": 1}
+{"BnyCJECg--QIMlxBIj": 1}
+{"QIMlxBIj--7GLkaVSJ": 1}
+{"7GLkaVSJ--CozhYrdW": 1}
+{"CozhYrdW--z8mb0Doz": 1}
+{"z8mb0Doz--ZrVxg3Ep": 1}
+{"ZrVxg3Ep--CJMtePHL": 1}
+{"CJMtePHL--oc1iRnTR": 1}
+{"oc1iRnTR--nyCBny4c": 1}
+{"nyCBny4c--Ds9e2bVS": 1}
+{"Ds9e2bVS--zhQQvAn6": 1}
+{"zhQQvAn6--XLFh3Eh3": 1}
+{"XLFh3Eh3--AIjRnTJr": 1}
+{"AIjRnTJr--tePHLs1D": 1}
+{"tePHLs1D--aRnb0DgQ": 1}
+{"aRnb0DgQ--v2Eh36GD": 1}
+{"68mTJjRn--EKNOHLkS": 1}
+{"EKNOHLkS--Vp78mTJr": 1}
+{"Apple Inc.--Mesa/X.org": 1}
+{"Mesa/X.org--Apple Inc.": 1}
+{"MGi47laN--cWTwBIjZ": 1}
+{"fy4k5k5k--lWyZrdOm": 1}
+{"JjRnTRIE--DBny4kx3": 1}
+{"DBny4kx3--8LkSoc1a": 1}
+{"8LkSoc1a--7d1iZUp7": 1}
+{"7d1iZUp7--XuAnyCBn": 1}
+{"fPPm6dt9--r4cWLNOP": 1}
+{"r4cWLNOP--057lSoc1": 1}
+{"zGDBn6dt--Bn6d1a05": 1}
+{"Google Inc. (Intel)--HLs9mTRI": 1}
+{"SwBAIr8H--q89HqVpz": 1}
+{"SwBIjRnT--vf2bNtWq": 1}
+{"vf2bNtWq--qZrVxgvX": 1}
+{"qZrVxgvX--JjRvAnyC": 1}
+{"JjRvAnyC--IMlx3j47": 1}
+{"IMlx3j47--RUxg3Eh3": 1}
+{"RUxg3Eh3--oUKkSoc1": 1}
+{"ozhQQvAn--pc1asePP": 1}
+{"laNl5kxB--LFh3EpUK": 1}
+{"LFh3EpUK--Wq0iZMOH": 1}
+{"Wq0iZMOH--9qVxYMGi": 1}
+{"EKFh3Ehv--FpUSJr0a": 1}
+{"FpUSJr0a--VSJr8Hi4": 1}
+{"VSJr8Hi4--XuAfXyZr": 1}
+{"XuAfXyZr--6GDBny4c": 1}
+{"6GDBny4c--57d1a0Do": 1}
+{"57d1a0Do--t9mb05FC": 1}
+{"t9mb05FC--o3jwYUxg": 1}
+{"o3jwYUxg--5FCo78mT": 1}
+{"5FCo78mT--26GDBfXq": 1}
+{"26GDBfXq--EKNOHLkS": 1}
+{"8. fPHDB--Google Inc. (Intel Inc.)": 1}
+{"Google Inc. (Intel Inc.)--8. fPHDB": 1}
+{"WLlSpUKl--Google Inc. (Intel Inc.)": 1}
+{"Google Inc. (Intel)--DBfXyZrV": 1}
+{"Apple--Google Inc. (AMD)": 1}
+{"Intel Open Source Technology Center--NVIDIA Corporation": 1}
+{"NVIDIA Corporation--Intel Open Source Technology Center": 1}
+{"XTw3bVSJ--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (Google)--w3bNteXq": 1}
+{"SNtePPuX--AfPHLs1D": 1}
+{"rVxgvfuA--z4k5kx3b": 1}
+{"Google Inc. (Intel)--Samsung Electronics Co., Ltd.": 1}
+{"Google Inc. (ATI Technologies Inc.)--Intel Inc.": 1}
+{"bVSRQv26--Google Inc. (AMD)": 1}
+{"yhQIECgQ--Google Inc. (AMD)": 1}
+{"OToUSRQn--Google Inc. (AMD)": 1}
+{"Google Inc. (AMD)--qVp7GDBn": 1}
+{"qVp7GDBn--Google Inc. (AMD)": 1}
+{"157dt9e2--sWyhQIEC": 1}
+{"Google Inc. (ARM)--Apple": 1}
+{"Ls157lSw--FpUKs1Do": 1}
+{"FpUKs1Do--AAIr0a05": 1}
+{"AAIr0a05--2fPPuXTw": 1}
+{"2fPPuXTw--hYrdWToU": 1}
+{"hYrdWToU--BAIjRnb0": 1}
+{"TransGaming Inc.--Google Inc.": 1}
+{"gQQnTJjZ--UpzZzCJM": 1}
+{"VMware, Inc.--NVIDIA Corporation": 1}
+{"PuXToUKs--PuXToct1": 1}
+{"KFhvXLNG--ElxBIjRn": 1}
+{"Google Inc. (Apple)--Google Inc. (Imagination Technologies)": 1}
+{"999HqdOu--taseXq0a": 1}
+{"taseXq0a--Wq0iRnTR": 1}
+{"Wq0iRnTR--RvAnyCBf": 1}
+{"Google Inc. (NULL)--Google Inc. (Microsoft)": 1}
+{"MOPuXLNO--xcWTw3j4": 1}
+{"xcWTw3j4--q0asePHL": 1}
+{"Google Inc. (Intel Inc.)--Intel": 1}
+{"ct9euAfP--VxgvXLNG": 1}
+{"VxgvXLNG--y4cWTw3b": 1}
+{"ATI Technologies Inc.--Google Inc. (Microsoft)": 1}
+{"El5cOuf2--hYzCJECg": 1}
+{"hYzCJECg--ZzCBny4k": 1}
+{"j89HqdOu--RMGiwYUx": 1}
+{"RMGiwYUx--WLFh368e": 1}
+{"WLFh368e--fy4cWLNO": 1}
+{"KRQvAnyC--Ut9mbsWy": 1}
+{"Ut9mbsWy--6hvXLNGi": 1}
+{"CgYrdWLN--X2bVKkaV": 1}
+{"CBfPHDBn--4k5cOuXL": 1}
+{"Hm6dt15F--6hvfu268": 1}
+{"6hvfu268--DgQQnTRI": 1}
+{"DgQQnTRI--ZzCJMteP": 1}
+{"ZzCJMteP--sWq8Hiwg": 1}
+{"sWq8Hiwg--OPm6dt9m": 1}
+{"OPm6dt9m--6hvfu268": 1}
+{"6hvfu268--aNlxBAIj": 1}
+{"aNlxBAIj--k9mTJr0i": 1}
+{"Google Inc. (Apple)--leXq0iZU": 1}
+{"Imagination Technologies--Apple": 1}
+{"NVIDIA Corporation--ATI Technologies Inc.": 1}
+{"NOHLkSwB--Google Inc. (Apple)": 1}
+{"DJEKNGqd--Google Inc. (Apple)": 1}
+{"mTJr0iRv--Google Inc. (Apple)": 1}
+{"8Hiwgvf2--Google Inc. (Apple)": 1}
+{"ebsWq8Hq--Sw3bNtWq": 1}
+{"Sw3bNtWq--wgvf2jwY": 1}
+{"kSw3j47d--Do78mb0D": 1}
+{"Do78mb0D--ePPm6lSo": 1}
+{"ePPm6lSo--Hiwg36GL": 1}
+{"Intel--Apple": 1}
+{"Google Inc. (NULL)--Apple Inc.": 1}
+{"QrdOuXLF--x3bVSRIM": 1}
+{"x3bVSRIM--rdOmyCJE": 1}
+{"rdOmyCJE--HDBfXyhQ": 1}
+{"HDBfXyhQ--6pc1iRvA": 1}
+{"6pc1iRvA--rCJMlx3j": 1}
+{"o78mb0Dg--f2bVKkaV": 1}
+{"f2bVKkaV--8mb057d1": 1}
+{"8mb057d1--dt157dt9": 1}
+{"dt157dt9--wg3EpUKk": 1}
+{"wg3EpUKk--7CozZzCB": 1}
+{"7CozZzCB--TJr8999H": 1}
+{"TJr8999H--Yvfu268m": 1}
+{"Yvfu268m--MOPm6laV": 1}
+{"MOPm6laV--qhYzCBn6": 1}
+{"qhYzCBn6--my4cWLNO": 1}
+{"my4cWLNO--QQnb057l": 1}
+{"QQnb057l--kSoc1ase": 1}
+{"aRvAfPPm--MGi4FCgQ": 1}
+{"Mesa--Google Inc. (AMD)": 1}
+{"Mesa/X.org--Google Inc. (NVIDIA)": 1}
+{"LlyZMGDh--jx48.  f": 1}
+{"jx48.  f--hwYMmz5c": 1}
+{"hwYMmz5c--nz58.  f": 1}
+{"nz58.  f--RIEixYs2": 1}
+{"RIEixYs2--.fPnz5cO": 1}
+{"btWr16du--AAgwYMGD": 1}
+{"AAgwYMGD--SJECBAAg": 1}
+{"SJECBAAg--nz58.   ": 1}
+{"nz58.   --z5cuXr16": 1}
+{"z5cuXr16--37duXrVK": 1}
+{"37duXrVK--jxYMGjRI": 1}
+{"jxYMGjRI--YsWrVq16": 1}
+{"YsWrVq16--iRo0aNGD": 1}
+{"iRo0aNGD--nz58.  f": 1}
+{"zZMmTp0a--DBgwYMmT": 1}
+{"DBgwYMmT--Fix4cOHD": 1}
+{"Fix4cOHD--379.    ": 1}
+{"379.    --zZs2bNGD": 1}
+{"zZs2bNGD--kSJECBgQ": 1}
+{"vAn6lSoU--5k5k5k5c": 1}
+{"5k5k5k5c--mf2j4FCo": 1}
+{"79.fPHDh--mz58.fv3": 1}
+{"mz58.fv3--y5cu3bt2": 1}
+{"y5cu3bt2--fvXLly5c": 1}
+{"fvXLly5c--VqVqVKFC": 1}
+{"VqVqVKFC--nTpUq1aN": 1}
+{"Mesa/X.org--Intel Open Source Technology Center": 1}
+{".fvXLlSJ--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--.fvXLlSJ": 1}
+{"NGiwYMOP--ubNlxBIj": 1}
+{"ubNlxBIj--USJr899H": 1}
+{"78eu2Epc--wYMOPuXT": 1}
+{"wYMOPuXT--ozZz4cWL": 1}
+{"ozZz4cWL--89999HqV": 1}
+{"89999HqV--bwYUxYUx": 1}
+{"t157dt9e--OPuf2jwg": 1}
+{"OPuf2jwg--gvfu2Ehv": 1}
+{"gvfu2Ehv--Ml5cOuf2": 1}
+{"Ml5cOuf2--0DgYz4kx": 1}
+{"0DgYz4kx--WyhQIMtW": 1}
+{"WyhQIMtW--vAfXyZrd": 1}
+{"vAfXyZrd--RvAn6d1a": 1}
+{"RvAn6d1a--IMtWyZrV": 1}
+{"IMtWyZrV--VWTwBIjR": 1}
+{"VWTwBIjR--WyZzCJMl": 1}
+{"WyZzCJMl--U1iRvAfX": 1}
+{"U1iRvAfX--ECgQQv26": 1}
+{"ECgQQv26--7d1a057l": 1}
+{"5cWTwBIr--1iZUpzZz": 1}
+{"QrVxYMGi--3j47laVS": 1}
+{"JjZMGqdO--OPm6dt9m": 1}
+{"a0DgYz4k--s9mb057l": 1}
+{"s9mb057l--NlxBIjZU": 1}
+{"Ds9mTJr0--SRIEKNGi": 1}
+{"379.fv37-- fvXLFiR": 1}
+{" fvXLFiR--aNmTpUKl": 1}
+{"YUpzhQIM--Ks9euAny": 1}
+{"eXyZrVxY--1mTRQv2E": 1}
+{"Intel--Qualcomm": 1}
+{"8mbsWq0a--w3jwg3Eh": 1}
+{"w3jwg3Eh--OLNOPuXT": 1}
+{"KkaVSJjR--4FKFpUSR": 1}
+{"Google Inc. (Apple)--AMD": 1}
+{"AMD--Google Inc. (Intel)": 1}
+{"DgYrdOmy--3bVSRIEC": 1}
+{"HLs9e2jw--l5kx3bNl": 1}
+{"NOHLs1Do--ebseXyhQ": 1}
+{"Intel--Google Inc. (Intel Open Source Technology Center)": 1}
+{"wgvf2bNl--v268mb0D": 1}
+{"v268mb0D--kaNl5cOu": 1}
+{"kaNl5cOu--BECgQQv2": 1}
+{"BECgQQv2--8Ls9eu2E": 1}
+{"8Ls9eu2E--cWToUKka": 1}
+{"cWToUKka--qZz4cOm6": 1}
+{"qZz4cOm6--2Epc1asW": 1}
+{"2Epc1asW--Loc1iZUx": 1}
+{"Loc1iZUx--yhYrdWTo": 1}
+{"yhYrdWTo--xk5k5kxB": 1}
+{"xk5k5kxB--fPPmy4cO": 1}
+{"fPPmy4cO--Bny4kxBA": 1}
+{"Bny4kxBA--lWq0aseX": 1}
+{"lWq0aseX--aZUxYUxY": 1}
+{"aZUxYUxY--TwBIjRvA": 1}
+{"TwBIjRvA--c5cOuXTo": 1}
+{"c5cOuXTo--26GDJMtW": 1}
+{"26GDJMtW--LNGiwg36": 1}
+{"PyZz4kxB--gYrVxYUx": 1}
+{"yCBfXyZr--wFCozZz4": 1}
+{"wFCozZz4--dWLFhvXL": 1}
+{"dWLFhvXL--1DgYz4k5": 1}
+{"BfXq8Hi4--9qdOmy4k": 1}
+{"9qdOmy4k--vfu2Epc1": 1}
+{"vfu2Epc1--Y3EpUKka": 1}
+{"q0a0Dozh--yCJECo7G": 1}
+{"yCJECo7G--5gQQvAny": 1}
+{"5gQQvAny--bNtWyhQQ": 1}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (X.Org)": 1}
+{"Google Inc. (Intel)--gzZzCJMt": 1}
+{"gzZzCJMt--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--e2j47laN": 1}
+{"e2j47laN--Google Inc. (Intel)": 1}
+{"yCBfPHLk--HmyCBny4": 1}
+{"NteXyZrV--VKkSoc1a": 1}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (NVIDIA Corporation)": 1}
+{"pUq16duX--KFixYs27": 1}
+{"KFixYs27-- fv3bNmT": 1}
+{"lSwBAIr8--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--lSwBAIr8": 1}
+{"c5cOufuA--T0DgYrVx": 1}
+{"T0DgYrVx--IECozZz4": 1}
+{"IECozZz4--Ls9mTJr8": 1}
+{"Ls9mTJr8--fuAn6lSo": 1}
+{"fuAn6lSo--cOuXTw3j": 1}
+{"o7GLkSoc--gYrdWToc": 1}
+{"Qualcomm--Apple": 1}
+{"9i47d1as--NGqVpzhY": 1}
+{"NGqVpzhY--vAn6dt9e": 1}
+{"iVp7GLkS--Ds157laV": 1}
+{"Ds157laV--8e2jwYUp": 1}
+{"8e2jwYUp--Mxg368mT": 1}
+{"eb0DozZz--WPPm6dt9": 1}
+{"WPPm6dt9--lePHDJMl": 1}
+{"lePHDJMl--tiZUxg36": 1}
+{"tiZUxg36--vEpc1asW": 1}
+{"vEpc1asW--xkx3bVKs": 1}
+{"xkx3bVKs--9qdOm6lS": 1}
+{"hQIECozh--HqVpzZzC": 1}
+{"bVKs9mTR--Mlx3bVSR": 1}
+{"Mlx3bVSR--oct9eu2E": 1}
+{"oct9eu2E--a05FCo7G": 1}
+{"a05FCo7G--8Hi4FKFh": 1}
+{"8Hi4FKFh--Ir0a05FC": 1}
+{"Ir0a05FC--UKkaNtWq": 1}
+{"8mTJjRnb--HDBny4k5": 1}
+{"HDBny4k5--d1a05FCg": 1}
+{"LNOPuXLN--Ks9mb057": 1}
+{"Ks9mb057--fPPuf2j4": 1}
+{"fPPuf2j4--PHLs1Do7": 1}
+{"PHLs1Do7--SwBAIjZM": 1}
+{"Qz4k5cOm--EtWyZzCB": 1}
+{"EtWyZzCB--LNOPmyCB": 1}
+{"QrVxgvXL--k5cOm6d1": 1}
+{"k5cOm6d1--HLkaVSJr": 1}
+{"HLkaVSJr--4FCgQIMl": 1}
+{"4FCgQIMl--m6laVKs1": 1}
+{"m6laVKs1--6GLkSwBA": 1}
+{"Google Inc.--Google Inc. (Apple)": 1}
+{"TJr89HqV--oUKs9e2j": 1}
+{"oUKs9e2j--r8HqdWLF": 1}
+{"XToUKkSo--pUKkSwBA": 1}
+{"7laVSRQn--Jr89HqVp": 1}
+{"Jr89HqVp--dOmy4k5k": 1}
+{"Apple Inc.--Google Inc. (Samsung Electronics Co., Ltd.)": 1}
+{"57laVSRI--Do78eu26": 1}
+{"Do78eu26--gYrVxg3E": 1}
+{"gYrVxg3E--dSoc1iRv": 1}
+{"Google Inc.--Google Inc. (NVIDIA Corporation)": 1}
+{"Google Inc. (Apple)--Google Inc. (Unknown)": 1}
+{"Apple Inc.--AMD": 1}
+{"AMD--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (Qualcomm)--Intel": 1}
+{"uAfPHLkS--z8e2bNtW": 1}
+{"ECo7GLs1--Fh36GDJE": 1}
+{"Fh36GDJE--Qz4cOmyC": 1}
+{"Qz4cOmyC--LkSoct15": 1}
+{"LkSoct15--Ks157lSo": 1}
+{"Ks157lSo--NGiwgvXT": 1}
+{"NGiwgvXT--SNlxBIjR": 1}
+{"SNlxBIjR--57laVSJr": 1}
+{"57laVSJr--Rnb0DgYr": 1}
+{"Rnb0DgYr--0iRnbseP": 1}
+{"0iRnbseP--i4FCgQQv": 1}
+{"wYMOHDBn--eb057dt1": 1}
+{"eb057dt1--mTRIMlx3": 1}
+{"mTRIMlx3--3j4FCozZ": 1}
+{"3j4FCozZ--1e2bNtWy": 1}
+{"1e2bNtWy--m6dt15FC": 1}
+{"m6dt15FC--HuXLNGqd": 1}
+{"HuXLNGqd--4cWTw3j4": 1}
+{"4cWTw3j4--uj47laNt": 1}
+{"uj47laNt--ECozhQQv": 1}
+{"ECozhQQv--fyCJECgQ": 1}
+{"fyCJECgQ--p7GLs9eu": 1}
+{"p7GLs9eu--Ir8Hi4FC": 1}
+{"Ir8Hi4FC--MpzhQIMl": 1}
+{"MpzhQIMl--SJjRnb05": 1}
+{"SJjRnb05--CgQQnTRI": 1}
+{"CgQQnTRI--ny4cWTwB": 1}
+{"ny4cWTwB--e2bVKs15": 1}
+{"e2bVKs15--q0aseXq0": 1}
+{"q0aseXq0--157dt9mb": 1}
+{"Google Inc. (Imagination Technologies)--Intel": 1}
+{"Google Inc. (Intel)--X.Org": 1}
+{"sDgYzCJE--m6dt9mbs": 1}
+{"m6dt9mbs--CNOPuXTo": 1}
+{"CNOPuXTo--bNtWyZz4": 1}
+{"Google Inc. (Qualcomm)--Apple": 1}
+{"Apple Inc.--Google Inc.": 1}
+{"Google Inc.--Apple Inc.": 1}
+{"Zz4kxBAI--4FCgQIMl": 1}
+{"4FCgQIMl--UxYMGqVp": 1}
+{"bNlxBIjR--YvfuAny4": 1}
+{"YvfuAny4--9qdOufu2": 1}
+{"9qdOufu2--nbseXyZz": 1}
+{"dt9mb0Dg--xgvfu268": 1}
+{"8euAfXq0--NtWq89Hq": 1}
+{"NtWq89Hq--7GLkSoc1": 1}
+{"h3Eh3EpU--mXToUSRI": 1}
+{"Google Inc. (NVIDIA Corporation)--Google Inc. (Unknown)": 1}
+{"vfuAfXq0--mTRQnTRI": 1}
+{"i4FKFpct--DJEKFpct": 1}
+{"CFhvfu2E--TseXq899": 1}
+{"TseXq899--c1iZUpzZ": 1}
+{"c1iZUpzZ--QrdOmy4c": 1}
+{"LFhvf2jw--RIMl5k5c": 1}
+{"RIMl5k5c--NOHLkSw3": 1}
+{"NOHLkSw3--Google Inc. (Apple)": 1}
+{"Google Inc. (Apple)--NOHLkSw3": 1}
+{"Google Inc. (Apple)--uf2bVKkS": 1}
+{"uf2bVKkS--xcWLFpc1": 1}
+{"xcWLFpc1--Google Inc. (Apple)": 1}
+{"Google Inc. (Apple)--GiwYUxYU": 1}
+{"oc1iZMOH--Gi4FKNOP": 1}
+{"Gi4FKNOP--SwBAIjZU": 1}
+{"SwBAIjZU--OLFpct9e": 1}
+{"OLFpct9e--mf2bNl5k": 1}
+{"mf2bNl5k--sDgQIECg": 1}
+{"n26GLkSw--DJMtePHL": 1}
+{"DJMtePHL--QIMl5k5k": 1}
+{"t9eu26GL--8Hi47laV": 1}
+{"mTRQnTRQ--bVSRIMte": 1}
+{"bVSRIMte--gQQnbsWy": 1}
+{"hvf2jwg3--WyhQQnTJ": 1}
+{"WyhQQnTJ--9mb0Do78": 1}
+{"kaVKkaNt--KNGqVpzZ": 1}
+{"KNGqVpzZ--cx3bVKs9": 1}
+{"o7GDJMlx--KkaVSRIM": 1}
+{"SNl5cOmy--MOHLkaVK": 1}
+{"MOHLkaVK--KJjZMOHD": 1}
+{"KJjZMOHD--WyhQQvAn": 1}
+{"WyhQQvAn--NSJr0asW": 1}
+{"NSJr0asW--v26GLs1D": 1}
+{"v26GLs1D--Rnb05FCo": 1}
+{"Rnb05FCo--MOPuXToU": 1}
+{"MOPuXToU--fPHDJMtW": 1}
+{"Google Inc. (ATI Technologies Inc.)--AMD": 1}
+{"999HqdOm--YvfuAfXq": 1}
+{"YvfuAfXq--368e2bNt": 1}
+{"368e2bNt--u2EpUSRI": 1}
+{"Google Inc. (Google)--ubVSJr0i": 1}
+{"ubVSJr0i--Google Inc. (NVIDIA)": 1}
+{"5cWLFhvf--OuXLFhvX": 1}
+{"ZYzCJMlx--8eu26GDJ": 1}
+{"8eu26GDJ--TRIECgYr": 1}
+{"TRIECgYr--GqVp7GLk": 1}
+{"GqVp7GLk--x3bNl5kx": 1}
+{"x3bNl5kx--XToUSRQn": 1}
+{"XToUSRQn--HDBfXq0a": 1}
+{"HDBfXq0a--1Do7GDBf": 1}
+{"1Do7GDBf--a0DozhQI": 1}
+{"a0DozhQI--kaNlxBIr": 1}
+{"8mb0DgYr--zGLkSoUS": 1}
+{"zGLkSoUS--8mTJjRnT": 1}
+{"8mTJjRnT--2Epct9e2": 1}
+{"ZMGiwYMG--GLs9mb0D": 1}
+{"GLs9mb0D--wg36GDJE": 1}
+{"wg3Ehvf2--OLNOPm6l": 1}
+{"OLNOPm6l--lxBAAIr8": 1}
+{"lxBAAIr8--3AIr0iZU": 1}
+{"3AIr0iZU--iZMGi4FK": 1}
+{"iZMGi4FK--JQv268e2": 1}
+{"JQv268e2--DBfPHLka": 1}
+{"DBfPHLka--3AAAIjZU": 1}
+{"3AAAIjZU--9qdWTwBI": 1}
+{"9qdWTwBI--idOufuAn": 1}
+{"Google Inc. (Apple)--Intel Inc.": 1}
+{"ix48.   --LFChQIEC": 1}
+{"LFChQIEC--JEiRoUq1": 1}
+{"xYs27du3--9. fvXr1": 1}
+{"9. fvXr1--FCBgQoUK": 1}
+{"FCBgQoUK--kSJky5cu": 1}
+{"kSJky5cu--AgwYMmTJ": 1}
+{"fPPuXToc--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--fPPuXToc": 1}
+{"Google Inc. (Imagination Technologies)--Google Inc. (Intel Inc.)": 1}
+{"Oufu268e--n6dt9mbs": 1}
+{"n6dt9mbs--vEhvfu26": 1}
+{"vEhvfu26--xkx3bNte": 1}
+{"xkx3bNte--Wq0a0Do7": 1}
+{"Wq0a0Do7--e2jwgvfu": 1}
+{"e2jwgvfu--pYUp7GLs": 1}
+{"pYUp7GLs--1DgQQv2E": 1}
+{"1DgQQv2E--CNGqVp7G": 1}
+{"CNGqVp7G--PyhYz4cW": 1}
+{"PyhYz4cW--2jwgvXLN": 1}
+{"2jwgvXLN--zGDJMl5c": 1}
+{"zGDJMl5c--eXq0iZMO": 1}
+{"eXq0iZMO--NSJjRv26": 1}
+{"NSJjRv26--PyZrVxYU": 1}
+{"PyZrVxYU--HufuAfPH": 1}
+{"HufuAfPH--WyZz4kxB": 1}
+{"WyZz4kxB--mb057d1i": 1}
+{"mb057d1i--GHLs9e2j": 1}
+{"GHLs9e2j--gYzCBfXq": 1}
+{"gYzCBfXq--MOPuf2bN": 1}
+{"MOPuf2bN--An6d1asW": 1}
+{"An6d1asW--iRnTRIEC": 1}
+{"iRnTRIEC--8Hi4FKFh": 1}
+{"8Hi4FKFh--ECo7GLka": 1}
+{"ECo7GLka--MOHDBfPP": 1}
+{"MOHDBfPP--i4FCgYrV": 1}
+{"i4FCgYrV--kx3jwg36": 1}
+{"kx3jwg36--MGqdWLFp": 1}
+{"MGqdWLFp--Ks157d1a": 1}
+{"Ks157d1a--wBIr89Hi": 1}
+{"wBIr89Hi--X2jwgvXL": 1}
+{"X2jwgvXL--UKkaNtWq": 1}
+{"UKkaNtWq--ZUxg3Eh3": 1}
+{"ZUxg3Eh3--NKs1Do78": 1}
+{"NKs1Do78--fXyhQQvA": 1}
+{"5FKNOPmy--l5cWLFhv": 1}
+{"l5cWLFhv--d1a05FCo": 1}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (NVIDIA Corporation)": 1}
+{"Giwg36GD--bwYMGi47": 1}
+{"hQIEKFpc--FGqVpzhY": 1}
+{"Google Inc. (NVIDIA)--zhQQnTJr": 1}
+{"jRvAnyCB--5FKNGiwY": 1}
+{"7lSw3bVS--157lSoUK": 1}
+{"DkSoUKkS--CFpct9mb": 1}
+{"CFpct9mb--oUKkSw3b": 1}
+{"pzZrVpzh--fPPuf2j4": 1}
+{"fPPuf2j4--Zz4kxBIr": 1}
+{"Zz4kxBIr--VSRQnb0D": 1}
+{"VSRQnb0D--MOHDBnyC": 1}
+{"MOHDBnyC--x3bNtePP": 1}
+{"x3bNtePP--Yz4k5cOu": 1}
+{"Yz4k5cOu--vXTwBIr8": 1}
+{"e2j47laV--Wq0iZUp7": 1}
+{"fXyhQIEC--q0iZUpzZ": 1}
+{"2j47lSoU--Google Inc. (AMD)": 1}
+{"Google Inc. (NVIDIA)--1DgYrdWT": 1}
+{"fXq0iZUp--8e2jwYUp": 1}
+{"Google Inc. (NVIDIA)--5kx3bVSJ": 1}
+{"ufu2Ehvf--YMOPmy4c": 1}
+{"YMOPmy4c--AnyCBfXy": 1}
+{"AnyCBfXy--UKkSw3j4": 1}
+{"UKkSw3j4--ZYzCBnyC": 1}
+{"ZYzCBnyC--w7d1iZMO": 1}
+{"w7d1iZMO--AnyCBfXq": 1}
+{"vXLFhvXT--DgYzCJMt": 1}
+{"DgYzCJMt--5ozhYrVp": 1}
+{"5ozhYrVp--n26GDJMt": 1}
+{"n26GDJMt--iRvAfPPm": 1}
+{" sFSAeAV--wsbAD cV": 1}
+{"wsbAD cV--SdsfOmqX": 1}
+{"SdsfOmqX--Cob2l_kP": 1}
+{"Cob2l_kP--7hpBMtOe": 1}
+{"7hpBMtOe--eWPkZObI": 1}
+{"eWPkZObI-- M8LWRwD": 1}
+{" M8LWRwD--RkhObjpP": 1}
+{"xcWLNGiw--nAfPHLkS": 1}
+{"ubVKs157--WXyZzCBf": 1}
+{"WXyZzCBf--RnTRIEKF": 1}
+{"RnTRIEKF--asWq8Hi4": 1}
+{"asWq8Hi4--vAn6lSw3": 1}
+{"lSw3j4FK--hUSRQnTR": 1}
+{"my4cWToc--SoUSJr89": 1}
+{"SoUSJr89--MtePPuf2": 1}
+{"MtePPuf2--Wq0iZMGi": 1}
+{"7LVS53u---qrl7csXu": 1}
+{"qrl7csXu--5-bpu9m-": 1}
+{"5-bpu9m---ygcAEMQz": 1}
+{"ygcAEMQz--0EkIg6j-": 1}
+{"Google Inc. (NVIDIA)--q8HqdWLF": 1}
+{"q8HqdWLF--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--8HiwYUp7": 1}
+{"8HiwYUp7--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--cOuXLNOP": 1}
+{"cOuXLNOP--Google Inc. (NVIDIA)": 1}
+{"q8HqdWLN--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--dt1DozhY": 1}
+{"Google Inc. (NVIDIA)--ufu2Ehvf": 1}
+{"ufu2Ehvf--Google Inc. (NVIDIA)": 1}
+{"VMware, Inc.--Mesa/X.org": 1}
+{"Mesa/X.org--VMware, Inc.": 1}
+{"TwBIr8Hi--pg368e2b": 1}
+{"seXyZzCB--CozZrdWT": 1}
+{"CozZrdWT--Wq8HiwYM": 1}
+{"Lw3bVSJr--VxYMGiwg": 1}
+{"VxYMGiwg--g7GDBfPP": 1}
+{"g7GDBfPP--TJr8Hi47": 1}
+{"TJr8Hi47--uXToUSRI": 1}
+{"uXToUSRI--4kxBIjRv": 1}
+{"4kxBIjRv--LFpc1a05": 1}
+{"LFpc1a05--9euAnyCB": 1}
+{"aVKkaVSJ--pg36GDJM": 1}
+{"pg36GDJM--GqdWLNGi": 1}
+{"GqdWLNGi--QvAn6laV": 1}
+{"QvAn6laV--pzZrdOuf": 1}
+{"pzZrdOuf--GDBfPPuX": 1}
+{"GDBfPPuX--xBAAAIr0": 1}
+{"fPPuf2j4--Yz4k5cOu": 1}
+{"pYUpzhYz--Pm6dt1Do": 1}
+{"Pm6dt1Do--UKs9mTRQ": 1}
+{"UKs9mTRQ--hYrdWLNO": 1}
+{"Google Inc. (ATI Technologies Inc.)--EChwYMGj": 1}
+{"AjZUxg3E--dt1DozZr": 1}
+{"dt1DozZr--zGDBnyCJ": 1}
+{"zGDBnyCJ--eXq0iRnT": 1}
+{"mfu26GLk--ePHDBfPH": 1}
+{"XTwBAAAA--GqVxg368": 1}
+{"GqVxg368--seXq899H": 1}
+{"seXq899H--MtWq0iZU": 1}
+{"MtWq0iZU--2fPPuXTo": 1}
+{"2fPPuXTo--ubVSRQnT": 1}
+{"WyhYz4cW--JEKNGiwY": 1}
+{"OToUKkaN--d1asWq8H": 1}
+{"1mTRQnbs--oc1asWyZ": 1}
+{"oc1asWyZ--Omy4k5k5": 1}
+{"QQvAn6la--Fpct9mTJ": 1}
+{"Fpct9mTJ--r89HqVp7": 1}
+{"r89HqVp7--0iZMOHLs": 1}
+{"0iZMOHLs--fXq8999H": 1}
+{"fXq8999H--7CgYrdOu": 1}
+{"7CgYrdOu--Pm6d1ase": 1}
+{"Pm6d1ase--PPm6dt9e": 1}
+{"PPm6dt9e--JjRvAn6l": 1}
+{"JjRvAn6l--4BfPHDJM": 1}
+{"4BfPHDJM--5FCozZzC": 1}
+{"5FCozZzC--HqVxg36G": 1}
+{"HqVxg36G--dt1DozhQ": 1}
+{"dt1DozhQ--k5kxBIjR": 1}
+{"k5kxBIjR--2Eh368eu": 1}
+{"8Ls1DgYr--Y368mTRQ": 1}
+{"Google Inc.--Google Inc. (Mesa Project)": 1}
+{"gvf2bNl5--sWq0iRnT": 1}
+{"gzZz4k5k--QIMlxBAI": 1}
+{"QIMlxBAI--EKNGqVxY": 1}
+{"EKNGqVxY--u268mTJj": 1}
+{"u268mTJj--4JEKFpUS": 1}
+{"4JEKFpUS--xkx3jwg3": 1}
+{"xkx3jwg3--NSRQnb05": 1}
+{"NSRQnb05--OTw3jwYU": 1}
+{"OTw3jwYU--57laVSRQ": 1}
+{"asWyZzCB--QrVpzZrV": 1}
+{"QrVpzZrV--ZUpzZrdO": 1}
+{"ZUpzZrdO--Fh368mbs": 1}
+{"Fh368mbs--AAIr8HqV": 1}
+{"AAIr8HqV--wgvXTw3b": 1}
+{"wgvXTw3b--lx3j47dt": 1}
+{"lx3j47dt--Y368mTRQ": 1}
+{"Y368mTRQ--AIjRvAn6": 1}
+{"AIjRvAn6--IMl5cWTw": 1}
+{"IMl5cWTw--KNOHDJMt": 1}
+{"KNOHDJMt--iwgvXLNO": 1}
+{"iwgvXLNO--eXyZrVpz": 1}
+{"eXyZrVpz--d1iRv26G": 1}
+{"d1iRv26G--sePHDBn6": 1}
+{"sePHDBn6--Inb05FKN": 1}
+{"QQvAny4c--Up7GDJMl": 1}
+{"Y3Eh36GL--SNlx3jwY": 1}
+{"SNlx3jwY--QQnTJjRv": 1}
+{"QQnTJjRv--pgvf2jwY": 1}
+{"pgvf2jwY--WToUSRQv": 1}
+{"WToUSRQv--8mb05FKF": 1}
+{"b05FKNGi--idWTwBAI": 1}
+{"zZrdWLFh--LwBIr899": 1}
+{"LwBIr899--g7GLkSwB": 1}
+{"Google Inc. (X.Org)--Google Inc. (NVIDIA Corporation)": 1}
+{"Google Inc. (NVIDIA Corporation)--Imagination Technologies": 1}
+{"Co78mTJr--nTJjZMGq": 1}
+{"nTJjZMGq--RQv26GDB": 1}
+{"RQv26GDB--bNtePHDB": 1}
+{"bNtePHDB--gQIMl5cO": 1}
+{"gQIMl5cO--UxYMOHLk": 1}
+{"UxYMOHLk--oUKs9mbs": 1}
+{"oUKs9mbs--EteXyZz4": 1}
+{"EteXyZz4--JIMtWyZr": 1}
+{"JIMtWyZr--VxYUpzhY": 1}
+{"VxYUpzhY--aseXyhQI": 1}
+{"aseXyhQI--7GDBn6la": 1}
+{"7GDBn6la--YzCBn6dt": 1}
+{"YzCBn6dt--sWq8999H": 1}
+{"sWq8999H--zCJEKFpc": 1}
+{"OHDBfXq0--xgvfuAn6": 1}
+{"xgvfuAn6--78euAfPP": 1}
+{"78euAfPP--o3j47d1i": 1}
+{"k1Do7GDJ--aseXyhYr": 1}
+{"aseXyhYr--9qVxYMGq": 1}
+{"fPHLkaVK--nTRQnTRI": 1}
+{"nTRQnTRI--SJr0iZUp": 1}
+{"SJr0iZUp--USRQnTJj": 1}
+{"ATI Technologies Inc.--Google Inc. (Qualcomm)": 1}
+{"FKFpUSJr--VKkSwBIj": 1}
+{"nAnyCJEK--lePPuXTw": 1}
+{"lePPuXTw--Wq0a057d": 1}
+{"Wq0a057d--gYz4cOuX": 1}
+{"gYz4cOuX--7lSoc1a0": 1}
+{"Nl5cOuXL--9iwYMGi4": 1}
+{"9iwYMGi4--UxYUp78m": 1}
+{"MGqdOm6d--dt1DozhY": 1}
+{"dt1DozhY--ZzCJECgY": 1}
+{"ZzCJECgY--CozZrdOu": 1}
+{"CozZrdOu--r4cWTw3b": 1}
+{"r4cWTw3b--EteXq0iZ": 1}
+{"EteXq0iZ--uXToUKs9": 1}
+{"uXToUKs9--TJr0iZMO": 1}
+{"TJr0iZMO--VSJr89Hq": 1}
+{"VSJr89Hq--z8e2bNte": 1}
+{"m6laVKs1--bsePHDBn": 1}
+{"bsePHDBn--26GLs9mb": 1}
+{"26GLs9mb--0asWyhQI": 1}
+{"0asWyhQI--LkSw3bVS": 1}
+{"LkSw3bVS--Mxgvfu26": 1}
+{"Mxgvfu26--pUKkSwBI": 1}
+{"pUKkSwBI--j0asWq89": 1}
+{"j0asWq89--rVxg368e": 1}
+{"EtePHDBn--PHLs1DgQ": 1}
+{"PHLs1DgQ--Google Inc. (NVIDIA)": 1}
+{"O8Oprzpb--02J 44rf": 1}
+{"02J 44rf--m3S1RaMw": 1}
+{"PyZrVpzZ--HDBfPPm6": 1}
+{"HDBfPPm6--cx3jwYUp": 1}
+{"cx3jwYUp--FOHDBfPH": 1}
+{"kyZsWrVK--ev379.fv": 1}
+{"ev379.fv--HDhQo06d": 1}
+{"HDhQo06d--KFCBAgQI": 1}
+{"KFCBAgQI--6dOHDhQI": 1}
+{"6dOHDhQI--gwYMmz5c": 1}
+{"xYMmTp0a--hwYs279.": 1}
+{"hwYs279.--gQIEixYs": 1}
+{"gQIEixYs--8ePnzZMG": 1}
+{"8ePnzZMG--4cOHjxYM": 1}
+{"wYMmz5cu--XLly5cOn": 1}
+{"mgj6RT7y--cq2 0JW9": 1}
+{"cq2 0JW9--C1g6tJTI": 1}
+{"C1g6tJTI--IoIMWCAz": 1}
+{"iwgvXToU--Google Inc. (Intel Inc.)": 1}
+{"Google Inc. (Intel Inc.)--n2Eh3Ehv": 1}
+{"Google Inc. (Qualcomm)--Google Inc. (Intel Open Source Technology Center)": 1}
+{"Google Inc. (Unknown)--Google Inc. (Qualcomm)": 1}
+{"QzCBny4c--vf2jwg3E": 1}
+{"vf2jwg3E--t15FCgYz": 1}
+{"rdOmyCJE--iwg36GDB": 1}
+{"iwg36GDB--rCJMlx3j": 1}
+{"oUSRIMl5--OLNOPuXT": 1}
+{"OLNOPuXT--j47laVSR": 1}
+{"j47laVSR--daNlxBAI": 1}
+{"daNlxBAI--VOufuAn6": 1}
+{"VOufuAn6--mTJr8999": 1}
+{"mTJr8999--dWTwBIjR": 1}
+{"dWTwBIjR--U1iRnTJr": 1}
+{"U1iRnTJr--QvAfXyZr": 1}
+{"Samsung Electronics Co., Ltd.--Imagination Technologies": 1}
+{"7dt9euAf--HDBnyCBf": 1}
+{"HDBnyCBf--c5k5cOuX": 1}
+{"c5k5cOuX--Loct1DgY": 1}
+{"Loct1DgY--Pq8HqdOm": 1}
+{"Jr0asWq8--5FCozZzC": 1}
+{"z8e2bVKk--1iZUpzhY": 1}
+{"1iZUpzhY--wYMGqdOm": 1}
+{"wYMGqdOm--h3Eh3EpU": 1}
+{"Ks9mTJr0--7laNl5kx": 1}
+{"7laNl5kx--BAAAAAIr": 1}
+{"BAAAAAIr--4kxBAIjR": 1}
+{"4kxBAIjR--rVpzhQIM": 1}
+{"2EpUSJr8--VSJjRvAn": 1}
+{"FKFhvXLF--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--6pc1iRvA": 1}
+{"Google Inc. (Microsoft)--Apple": 1}
+{"jwgvXTwB--XyhQIMtW": 1}
+{"1iZMOPuX--daNtWyhY": 1}
+{"daNtWyhY--Ks9e2j47": 1}
+{"Ks9e2j47--r0a0Do78": 1}
+{"r0a0Do78--3Epct9eu": 1}
+{"3Epct9eu--GqVpzZrV": 1}
+{"GqVpzZrV--my4kxBIr": 1}
+{"Google Inc.--Google Inc. (Intel Open Source Technology Center)": 1}
+{"FKNOHLs1--Google Inc. (Intel)": 1}
+{"CNOHLkSw--Google Inc. (Apple)": 1}
+{"qVpzhYz4--t9euAfXq": 1}
+{"t9euAfXq--oct9mTJr": 1}
+{"RgbOX YM--DG55IJAp": 1}
+{"DG55IJAp--UJNZKDTS": 1}
+{"UJNZKDTS--JgbHTyEz": 1}
+{"An6laNtW--Jr0iRnTR": 1}
+{"MxYUp7GD--lWyhYrVp": 1}
+{"lWyhYrVp--FKFpUKs1": 1}
+{"Ks1DgYrV--Wq0iZMGq": 1}
+{"s1DgYrdO--OuXToc1a": 1}
+{"2jwYUxYU--b05FKNOH": 1}
+{"Google Inc. (NVIDIA)--3j47laVS": 1}
+{"3j47laVS--Sw3j47lS": 1}
+{"Sw3j47lS--CozZz4cO": 1}
+{"CozZz4cO--hvfu2Eh3": 1}
+{"hvfu2Eh3--laNl5cWT": 1}
+{"Google Inc. (NULL)--Google Inc. (Google)": 1}
+{"XToUKs9e--Qv2Eh3Eh": 1}
+{"Qv2Eh3Eh--KFhvfuAn": 1}
+{"KFhvfuAn--Any4cWLF": 1}
+{"Any4cWLF--q0iRnb05": 1}
+{"q0iRnb05--9Hi4FCgQ": 1}
+{"fPHLs15F--wFKFpct9": 1}
+{"Google Inc. (Intel Open Source Technology Center)--Apple Inc.": 1}
+{"ev379ePH--nTJkSp06": 1}
+{"Om6laNl5--KJr0a057": 1}
+{"KJr0a057--myCJEKFp": 1}
+{"myCJEKFp--fPPm6lSo": 1}
+{"fPPm6lSo--HLkSwBIr": 1}
+{"X.Org--Google Inc.": 1}
+{"Y3Epct15--FGqVxYMG": 1}
+{"aZMGi4FC--3jwYUxg3": 1}
+{"7GDJECgQ--NKs9euAf": 1}
+{"Google Inc. (Imagination Technologies)--Google Inc. (Apple)": 1}
+{"BAgQo0aN--9.fPHjxY": 1}
+{"9.fPHjxY--q1aNGDhQ": 1}
+{"q1aNGDhQ--u3bNGDhQ": 1}
+{"u3bNGDhQ--JkSp069.": 1}
+{"JkSp069.--58.     ": 1}
+{"58.     --ChQIEiRo": 1}
+{"ChQIEiRo--fv379.fP": 1}
+{"fv379.fP--HDhwYs27": 1}
+{"HDhwYs27--uXLFiRoU": 1}
+{"uXLFiRoU--mTpUKlSp": 1}
+{"mTpUKlSp--IECBAAgw": 1}
+{"IECBAAgw--SJky5cu3": 1}
+{"SJky5cu3--TpUq169e": 1}
+{"TpUq169e--lyZsWrVK": 1}
+{"lyZsWrVK--zZMmTJky": 1}
+{"zZMmTJky--69ev379.": 1}
+{"69ev379.--VqVqVKlS": 1}
+{"VqVqVKlS--nz58ev3b": 1}
+{"nz58ev3b--pUKly58e": 1}
+{"pUKly58e--RIky58eP": 1}
+{"RIky58eP--z58. fPH": 1}
+{"z58. fPH--kyZMGDhQ": 1}
+{"kyZMGDhQ--279. fPH": 1}
+{"YUp7GDJM--9eu2Ehvf": 1}
+{"Google Inc. (Intel Open Source Technology Center)--Google Inc. (ATI Technologies Inc.)": 1}
+{"Microsoft--Google Inc. (Intel)": 1}
+{"RUxg3EpU--yCJEKFhv": 1}
+{"Do78eu2E--8mTJr0a0": 1}
+{"Google Inc. (Qualcomm)--Google Inc.": 1}
+{"Google Inc.--Google Inc. (Qualcomm)": 1}
+{"Xq89HqVp--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--Xq89HqVp": 1}
+{"5FKNGqVp--Google Inc. (Intel)": 1}
+{"8HqVpzhY--Vxg3EpUK": 1}
+{"Vxg3EpUK--3j4FCozh": 1}
+{"r4k5k5cW--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--BfPPm6d1": 1}
+{"jRnbsWq8--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--jRnbsWq8": 1}
+{"fXyZrdWT--Google Inc. (AMD)": 1}
+{"Google Inc. (AMD)--fXyZrdWT": 1}
+{"fXyZrdWT--LkaVSRQv": 1}
+{"LkaVSRQv--Google Inc. (AMD)": 1}
+{"k9mTJr0a--Google Inc. (ATI Technologies Inc.)": 1}
+{"Google Inc. (ATI Technologies Inc.)--k9mTJr0a": 1}
+{"k9mTJr0a--OuXTwBIr": 1}
+{"HDBn6lSo--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--HDBn6lSo": 1}
+{"s9mTJr0a--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--s9mTJr0a": 1}
+{"s9mTJr0a--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--2Eh3Eh36": 1}
+{"2Eh3Eh36--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--BIr8999H": 1}
+{"BIr8999H--Google Inc. (NVIDIA)": 1}
+{"9qVxYMGq--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--9qVxYMGq": 1}
+{"Google Inc. (NVIDIA)--3Epc1ase": 1}
+{"3Epc1ase--Google Inc. (NVIDIA)": 1}
+{"3Epc1ase--Google Inc. (Intel)": 1}
+{"e2jwYUp7--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--e2jwYUp7": 1}
+{"5gQQvAfP--ZrVxYMGi": 1}
+{"ZrVxYMGi--Ar0asWq0": 1}
+{"Ar0asWq0--Uxgvf2jw": 1}
+{"Xq0iZUpz--Wq8HqVxg": 1}
+{"UKs15FKF--Google Inc. (Intel)": 1}
+{"Google Inc. (Intel)--pzZzCBfX": 1}
+{"DJMtWyZz--HLkSoc1a": 1}
+{"freedreno--ARM": 1}
+{"Intel Open Source Technology Center--VMware, Inc.": 1}
+{"aseXyZz4--PHLs9mTR": 1}
+{"PHLs9mTR--MxgvXToU": 1}
+{"MxgvXToU--0a0Do78e": 1}
+{"TRIEKFh3--HDBn6dt1": 1}
+{"HDBn6dt1--g7GDJEKF": 1}
+{"g7GDJEKF--6hvXLFh3": 1}
+{"6hvXLFh3--XyhQQv26": 1}
+{"NKs1Do7G--JIMtWq8H": 1}
+{"JIMtWq8H--Xq89999H": 1}
+{"Xq89999H--bVSRIEKN": 1}
+{"bVSRIEKN--68mb0Do7": 1}
+{"HuXLNGqV--TwBAIjZU": 1}
+{"TwBAIjZU--4JECgYrV": 1}
+{"4JECgYrV--VKs1DgYz": 1}
+{"CBfPPm6d--o7GDJMtW": 1}
+{"8mTJjZUx--KRIMl5cO": 1}
+{"KRIMl5cO--gYrVxg36": 1}
+{"gYrVxg36--RvAn6laV": 1}
+{"BfPHDBfX--i47d1iRv": 1}
+{"i47d1iRv--zhQQvAfP": 1}
+{"GHLkaVSR--x3j47dt9": 1}
+{"x3j47dt9--ePHDBfPH": 1}
+{"ePHDBfPH--57lSw3bN": 1}
+{"3bNlxBAI--rdWLFh3E": 1}
+{"BgQoUKFC--AgwYsWLF": 1}
+{"oUKFCBgw--nzZMmz58": 1}
+{"nzZMmz58--mz5cuXLF": 1}
+{"mz5cuXLF--x48ePHjx": 1}
+{"x48ePHjx--XrVKly5c": 1}
+{"fu268mbs--qdWTwBIj": 1}
+{"8mb0Do7G--09HqdWTw": 1}
+{"09HqdWTw--QIEKFh36": 1}
+{"NKkSoUKs--kaNl5k5c": 1}
+{"kaNl5k5c--GqdOuXLF": 1}
+{"aseXyZz4--T057lSw3": 1}
+{"T057lSw3--5FCgQIMl": 1}
+{"5FCgQIMl--2Epct9mb": 1}
+{"2Epct9mb--6d1iZMOP": 1}
+{"6d1iZMOP--xcOuf2bN": 1}
+{"xcOuf2bN--U1iZMGqV": 1}
+{"Google Inc. (ATI Technologies Inc.)--Google Inc. (Imagination Technologies)": 1}
+{"Google Inc. (Microsoft)--Intel Inc.": 1}
+{"Intel--Intel Inc.": 1}
+{"AAIr0iRn--47dt1Doz": 1}
+{"xk5cWToc--1a0Do7GD": 1}
+{"RQv26GDJ--Google Inc. (Google)": 1}
+{"ZzCJECoz--ZrdWLNOP": 1}
+{"ZrdWLNOP--yCBny4cO": 1}
+{"yCBny4cO--0iRvAfXy": 1}
+{"taseXyhQ--JjZUp7GD": 1}
+{"JjZUp7GD--1mTJjZUp": 1}
+{"Intel--Mesa/X.org": 1}
+{"Google Inc. (Mesa)--Google Inc. (Google)": 1}
+{"Xq8HqVxg--iVpzhYzC": 1}
+{"iVpzhYzC--Nlx3j4FK": 1}
+{"kaNl5cOm--6d1a05FK": 1}
+{"6d1a05FK--157laNl5": 1}
+{"157laNl5--4k5cOuXT": 1}
+{"4k5cOuXT--bNlxBIr8": 1}
+{"bNlxBIr8--FCo7GDJM": 1}
+{"FCo7GDJM--99Hi4FKF": 1}
+{"99Hi4FKF--057lSwBI": 1}
+{"ny4cWToc--Google Inc. (NVIDIA)": 1}
+{"Google Inc. (NVIDIA)--ny4cWToc": 1}
+{"Google Inc. (NVIDIA)--eTJr0iZU": 1}
+{"eTJr0iZU--Google Inc. (NVIDIA)": 1}
+{"8eu268e2--euAfXq0a": 1}
+{"NOPuXLFh--gzZzCBny": 1}
+{"gzZzCBny--6laNtWyZ": 1}
+{"6laNtWyZ--n2EpUKs9": 1}
+{"yhQQv26G--e2jwg368": 1}
+{"e2jwg368--HLs15FKF": 1}
+{"HLs15FKF--TRIEKNGi": 1}
+{"SVKkSoc1--hvXToUKs": 1}
+{"sePHDJMl--JQv268mb": 1}
+{"d1a05FCg--QIECgQQn": 1}
+{"5cWLNGqV--QrVpzhQQ": 1}
+{"Mesa/X.org--X.Org": 1}
+{"Google Inc. (Google)--ATI Technologies Inc.": 1}
+{"Google Inc. (Intel)--kaNlx3bV": 1}
+{"kaNlx3bV--Google Inc. (Intel)": 1}
+{"WyZrVp78--cWLNOPmy": 1}
+{"bwYMOPuf--m6lSoct1": 1}
+{"m6lSoct1--bNlxBIjZ": 1}
+{"Google Inc. (NULL)--Google Inc.": 1}
+{"Qv268e2b--Qz4cOufu": 1}
+{"Qz4cOufu--zGDJECoz": 1}
+{"zGDJECoz--WyZzCBny": 1}
+{"WyZzCBny--MGqVp78m": 1}
+{"AIjZMOHL--YzCJMlxB": 1}
+{"e2bVKkSw--qVpzhQQv": 1}
+{"qVpzhQQv--tiRnb0Dg": 1}
+{"tiRnb0Dg--HuXTw3j4": 1}
+{"GqVxYMOP--wg36GDJE": 1}
+{"wg36GDJE--9iwg3Ehv": 1}
+{"9iwg3Ehv--Rv26GLka": 1}
+{"Rv26GLka--uAn6d1a0": 1}
+{"uAn6d1a0--09Hiwg3E": 1}
+{"09Hiwg3E--kx3j47d1": 1}

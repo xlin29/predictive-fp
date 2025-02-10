@@ -1,3 +1,97 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e38b512761b317566dc2b2effc40bf47b50c8e1b7f5a1fb96f8a1090f4049147
-size 3074
+{"Chrome--Edge": 18745}
+{"Edge--Chrome": 17553}
+{"Chrome Mobile--Chrome": 6349}
+{"Chrome--Chrome Mobile": 3659}
+{"Mobile Safari--Safari": 2734}
+{"Safari--Mobile Safari": 1762}
+{"Chrome Mobile iOS--Safari": 555}
+{"Safari--Chrome Mobile iOS": 282}
+{"Firefox iOS--Mobile Safari": 192}
+{"Mobile Safari--Firefox iOS": 135}
+{"DuckDuckGo Mobile--Chrome Mobile WebView": 133}
+{"Chrome Mobile--Edge": 129}
+{"Chrome Mobile WebView--DuckDuckGo Mobile": 120}
+{"Firefox--Chrome": 119}
+{"Edge--Chrome Mobile": 116}
+{"Chrome--Firefox": 113}
+{"Firefox Mobile--Firefox": 85}
+{"Firefox--Firefox Mobile": 51}
+{"Mobile Safari UI/WKWebView--Chrome": 47}
+{"Chrome--Mobile Safari UI/WKWebView": 38}
+{"Edge Mobile--Edge": 37}
+{"Mobile Safari--Firefox": 36}
+{"Chrome Mobile WebView--Chrome": 23}
+{"DuckDuckGo Mobile--Safari": 21}
+{"Edge--Edge Mobile": 21}
+{"Chrome--Chrome Mobile WebView": 15}
+{"Other--Mobile Safari UI/WKWebView": 15}
+{"Safari--DuckDuckGo Mobile": 15}
+{"Edge Mobile--Safari": 14}
+{"CFNetwork--Safari": 11}
+{"Safari--Edge Mobile": 10}
+{"Opera Mobile--Opera": 10}
+{"Other--Chrome": 8}
+{"Chrome Mobile--Chrome Mobile WebView": 8}
+{"Edge--Firefox": 8}
+{"Chrome Mobile WebView--Chrome Mobile": 8}
+{"Safari--Chrome": 7}
+{"Safari--CFNetwork": 7}
+{"Chrome--Other": 6}
+{"Firefox--Edge": 6}
+{"Chrome Mobile--Firefox": 6}
+{"Chrome--Safari": 6}
+{"Safari--Firefox": 5}
+{"Safari--Firefox iOS": 5}
+{"Firefox iOS--Safari": 5}
+{"Mobile Safari--Chrome": 5}
+{"Opera--Opera Mobile": 5}
+{"Firefox--Mobile Safari": 4}
+{"Chrome--Samsung Internet": 4}
+{"Opera--Chrome": 3}
+{"Mobile Safari--Google": 3}
+{"Chrome Mobile WebView--Facebook": 3}
+{"Facebook--Chrome Mobile WebView": 3}
+{"Chromium--Chrome": 3}
+{"Chrome--Mobile Safari": 3}
+{"Mobile Safari UI/WKWebView--Apple Mail": 2}
+{"Safari--FacebookBot": 2}
+{"FacebookBot--Safari": 2}
+{"QQ Browser--Chrome": 2}
+{"Chrome--QQ Browser": 2}
+{"Firefox--Safari": 2}
+{"Chrome--Chromium": 2}
+{"Chrome--Opera": 2}
+{"Samsung Internet--Chrome": 2}
+{"Mobile Safari--Mobile Safari UI/WKWebView": 2}
+{"Samsung Internet--Firefox": 2}
+{"Apple Mail--Mobile Safari UI/WKWebView": 1}
+{"Chrome Mobile WebView--Safari": 1}
+{"IE--Konqueror": 1}
+{"Konqueror--Firefox": 1}
+{"Mobile Safari UI/WKWebView--Mobile Safari": 1}
+{"Safari--Chrome Mobile": 1}
+{"DuckDuckGo Mobile--Firefox": 1}
+{"Waterfox--Chrome": 1}
+{"Chrome Mobile WebView--Yandex Browser": 1}
+{"Yandex Browser--Chrome Mobile WebView": 1}
+{"Chrome--Apple Mail": 1}
+{"Firefox--Chrome Mobile": 1}
+{"Chrome Mobile WebView--Opera Mobile": 1}
+{"Sogou Explorer--Chrome": 1}
+{"Facebook--Chrome": 1}
+{"Mobile Safari--DuckDuckGo Mobile": 1}
+{"Android--Chrome Mobile WebView": 1}
+{"Mobile Safari UI/WKWebView--Chrome Mobile WebView": 1}
+{"Chrome Mobile--Other": 1}
+{"Chrome Mobile iOS--Firefox": 1}
+{"Chrome--Yandex Browser": 1}
+{"Safari--Mobile Safari UI/WKWebView": 1}
+{"Mobile Safari UI/WKWebView--Safari": 1}
+{"Snapchat--Firefox": 1}
+{"Firefox--Snapchat": 1}
+{"Safari--Apple Mail": 1}
+{"Android--Mobile Safari": 1}
+{"Firefox Mobile--Chrome": 1}
+{"Chrome Mobile WebView--Other": 1}
+{"Safari--Maxthon": 1}
+{"Maxthon--Safari": 1}

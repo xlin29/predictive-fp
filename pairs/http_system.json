@@ -1,3 +1,1334 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:685778ab36de4bb54954f6277ca1d49b33bde7e5bbfe0a4aee95c783d1df900a
-size 46056
+{"iOS 16.5.1--iOS 16.6": 151533}
+{"iOS 16.5--iOS 16.6": 30072}
+{"iOS 15.7.7--iOS 15.7.8": 5342}
+{"Android 10--Linux": 3782}
+{"Android 13--Android 10": 3782}
+{"iOS 16.3.1--iOS 16.6": 3308}
+{"iOS 16.1.1--iOS 16.6": 1794}
+{"Android 12--Android 10": 1672}
+{"iOS 16.2--iOS 16.6": 1566}
+{"iOS 16.6--Mac OS X 10.15.7": 1380}
+{"Mac OS X 10.15.6--Mac OS X 10.15.7": 1297}
+{"iOS 16.4.1--iOS 16.6": 1259}
+{"Linux--Android 10": 1108}
+{"Mac OS X 10.15.7--iOS 16.6": 990}
+{"iOS 15.6.1--iOS 16.6": 974}
+{"iOS 16.3--iOS 16.6": 911}
+{"Android 11--Android 10": 587}
+{"iOS 16.5.1--Mac OS X 10.15.7": 528}
+{"iOS 16.1.2--iOS 16.6": 518}
+{"Android 13--Linux": 463}
+{"iOS 16.1--iOS 16.6": 445}
+{"iOS 15.7.6--iOS 15.7.8": 393}
+{"iOS 16.4--iOS 16.6": 379}
+{"Mac OS X 10.14.6--Mac OS X 10.15.7": 366}
+{"iOS 15.5--iOS 16.6": 362}
+{"iOS 15.6--iOS 16.6": 350}
+{"iOS 16.0--iOS 16.6": 338}
+{"Windows 7--Windows 10": 337}
+{"iOS 16.6--Mac OS X 10.13.5": 309}
+{"Chrome OS 14989.107.0--Chrome OS 14541.0.0": 300}
+{"Linux--Android 13": 292}
+{"Mac OS X 10.15.7--iOS 16.5.1": 277}
+{"Android 12--Android 13": 263}
+{"iOS 16.6--iOS 17.0": 256}
+{"iOS 16.0.2--iOS 16.6": 210}
+{"Android 9--Android 10": 208}
+{"Windows 10--Windows 7": 203}
+{"iOS 15.7.5--iOS 15.7.8": 184}
+{"iOS 14.8.1--iOS 16.6": 172}
+{"iOS 16.0.3--iOS 16.6": 155}
+{"Mac OS X 10.13.5--iOS 16.6": 151}
+{"Windows 8.1--Windows 10": 147}
+{"Android 12--Linux": 147}
+{"iOS 16.3.1--Mac OS X 10.15.7": 140}
+{"Android 6.0--Windows 10": 139}
+{"iOS 15.4.1--iOS 16.6": 131}
+{"iOS 16.5--Mac OS X 10.13.5": 128}
+{"Mac OS X 10.15.7--Mac OS X 10.15.6": 126}
+{"Windows 8--Windows 10": 125}
+{"Linux--Windows 10": 125}
+{"Windows 10--Android 6.0": 124}
+{"Windows 10--Linux": 122}
+{"iOS 15.7--iOS 16.6": 110}
+{"Android 11--Android 12": 103}
+{"Windows 10--Windows 8": 103}
+{"iOS 14.7.1--iOS 16.6": 102}
+{"Mac OS X 10.15.7--iOS 16.3.1": 99}
+{"Linux--Android 12": 97}
+{"iOS 16.5.1--iOS 17.0": 95}
+{"Mac OS X 10.13.6--Mac OS X 10.15.7": 94}
+{"iOS 15.7.3--iOS 15.7.8": 90}
+{"iOS 16.3.1--iOS 16.5.1": 89}
+{"iOS 16.1.1--Mac OS X 10.15.7": 88}
+{"iOS 16.2--Mac OS X 10.15.7": 87}
+{"iOS 14.6--iOS 16.6": 85}
+{"iOS 17.0--Mac OS X 10.15.7": 76}
+{"iOS 16.1.1--iOS 16.5.1": 74}
+{"Windows 7--Linux": 69}
+{"iOS 15.3.1--iOS 16.6": 67}
+{"iOS 12.5.7--Mac OS X 10.15.7": 66}
+{"iOS 16.6--iOS 16.5.1": 65}
+{"Mac OS X 10.13.5--iOS 16.5": 62}
+{"Linux--Windows 7": 62}
+{"iOS 15.7.8--iOS 16.6": 58}
+{"Android 8.1.0--Android 10": 58}
+{"Windows 10--Windows 8.1": 57}
+{"iOS 14.8--iOS 16.6": 56}
+{"Android 9--Linux": 56}
+{"Linux--Ubuntu": 56}
+{"Mac OS X 10.12.6--Mac OS X 10.15.7": 51}
+{"Mac OS X 10.15.7--iOS 16.1.1": 51}
+{"iOS 15.2--iOS 16.6": 51}
+{"Linux--Android 9": 51}
+{"iOS 16.2--iOS 16.5.1": 51}
+{"Android 11--Linux": 49}
+{"Ubuntu--Linux": 49}
+{"Mac OS X 10.15.7--iOS 16.2": 49}
+{"Android 7.0--Android 10": 48}
+{"iOS 15.1--iOS 16.6": 47}
+{"iOS 15.4--iOS 16.6": 46}
+{"iOS 15.6.1--iOS 16.5.1": 46}
+{"Mac OS X 10.15.7--iOS 17.0": 46}
+{"Windows 10--Other": 45}
+{"iOS 16.5--Mac OS X 10.15.7": 45}
+{"Linux--Android 11": 42}
+{"Android 8.0.0--Android 10": 42}
+{"iOS 15.6.1--Mac OS X 10.15.6": 41}
+{"Other--Windows 10": 39}
+{"iOS 16.4.1--Mac OS X 10.15.7": 38}
+{"Chrome OS 14816.131.4--Chrome OS 14816.131.5": 36}
+{"iOS 14.4--iOS 16.6": 36}
+{"iOS 16.1.1--iOS 16.5": 36}
+{"iOS 16.6--iOS 16.5": 35}
+{"iOS 15.7.7--iOS 16.6": 35}
+{"Mac OS X 10.15.7--iOS 12.5.7": 35}
+{"Mac OS X 10.15.4--Mac OS X 10.15.7": 34}
+{"iOS 16.0--Mac OS X 10.15.7": 34}
+{"iOS 12.5.5--iOS 12.5.7": 33}
+{"iOS 14.4.2--iOS 16.6": 33}
+{"iOS 16.1.1--Windows 10": 30}
+{"iOS 16.1--Mac OS X 10.13.5": 29}
+{"Android 7.1.1--Android 10": 29}
+{"Mac OS X 10.15.7--Windows 10": 29}
+{"Mac OS X 10.14--Mac OS X 10.15": 29}
+{"Mac OS X 10.15.7--Mac OS X 10.14.6": 28}
+{"iOS 15.7.1--iOS 16.6": 28}
+{"iOS 16.3--Mac OS X 10.13.5": 27}
+{"iOS 16.3--Mac OS X 10.15.7": 27}
+{"iOS 14.2--iOS 16.6": 26}
+{"iOS 16.3.1--iOS 16.5": 26}
+{"Windows 10--iOS 16.1.1": 26}
+{"iOS 14.3--iOS 16.6": 25}
+{"iOS 16.0.1--iOS 16.6": 24}
+{"iOS 16.2--iOS 16.5": 24}
+{"Mac OS X 10.15.7--iOS 16.5": 24}
+{"iOS 15.2.1--iOS 16.6": 24}
+{"iOS 12.5.6--iOS 12.5.7": 24}
+{"Mac OS X 10.15--Mac OS X 10.15.7": 23}
+{"Mac OS X 10.11.6--Mac OS X 10.15.7": 23}
+{"iOS 16.1.1--iOS 16.4.1": 23}
+{"iOS 15.5--Mac OS X 10.15.6": 23}
+{"Chrome OS 13816.55.0--Chrome OS 14989.107.0": 23}
+{"Mac OS X 10.13--Mac OS X 10.15": 22}
+{"iOS 16.1.2--Mac OS X 10.15.7": 22}
+{"iOS 12.5.7--iOS 16.6": 22}
+{"Mac OS X 10.15.5--Mac OS X 10.15.7": 21}
+{"Mac OS X 10.13.5--iOS 16.1": 21}
+{"iOS 16.1--Mac OS X 10.15.7": 21}
+{"iOS 16.5--iOS 17.0": 21}
+{"iOS 16.6--Windows 10": 21}
+{"iOS 15.3--iOS 16.6": 20}
+{"iOS 14.8.1--iOS 15.7.8": 20}
+{"iOS 15.7.7--Mac OS X 10.15.6": 20}
+{"iOS 16.6--iOS 16.1.1": 20}
+{"iOS 15.1.1--iOS 16.6": 19}
+{"iOS 16.2--Mac OS X 10.13.5": 19}
+{"iOS 16.3--iOS 16.5": 19}
+{"Chrome OS 15329.59.0--Chrome OS 14541.0.0": 19}
+{"iOS 15.7.7--iOS 16.5.1": 19}
+{"iOS 15.7.8--iOS 16.5.1": 18}
+{"Mac OS X 10.15.7--iOS 16.0": 18}
+{"iOS 15.7.2--iOS 15.7.8": 18}
+{"Windows 8.1--Windows 7": 18}
+{"Chrome OS 13816.55.0--Chrome OS 14541.0.0": 18}
+{"Windows 7--Other": 18}
+{"Windows 8.1--Linux": 18}
+{"iOS 15.5--iOS 15.7.8": 17}
+{"iOS 14.7--iOS 16.6": 17}
+{"iOS 15.0--iOS 16.6": 17}
+{"iOS 15.6.1--iOS 16.5": 17}
+{"iOS 16.5--iOS 16.5.1": 17}
+{"Mac OS X 10.15.6--iOS 15.6.1": 17}
+{"iOS 16.4.1--iOS 16.5.1": 17}
+{"iOS 17.0--Mac OS X 10.13.5": 16}
+{"Mac OS X 10.15.6--iOS 15.5": 16}
+{"iOS 13.7--iOS 16.6": 16}
+{"iOS 16.3.1--iOS 16.4.1": 16}
+{"Mac OS X 10.15.7--Windows 7": 16}
+{"Mac OS X 10.15.7--iOS 16.3": 16}
+{"Mac OS X 10.15.7--iOS 16.4.1": 16}
+{"iOS 16.5.1--Windows 10": 16}
+{"iOS 15.6.1--iOS 15.7.8": 16}
+{"Mac OS X 10.15.6--iOS 15.7.7": 16}
+{"Linux--Windows 8.1": 16}
+{"iOS 16.6--iOS 16.2": 15}
+{"Windows 8--Linux": 15}
+{"Linux--Windows 8": 15}
+{"iOS 15.7.7--iOS 16.5": 15}
+{"iOS 15.7--iOS 16.5": 15}
+{"iOS 14.7.1--iOS 16.5.1": 15}
+{"Windows 10--Mac OS X 10.15.7": 15}
+{"Android 10--Windows 10": 15}
+{"iOS 16.6--iOS 15.7.8": 15}
+{"iOS 15.6--iOS 16.5.1": 14}
+{"iOS 14.4.2--iOS 15.7.8": 14}
+{"iOS 15.7.1--iOS 15.7.8": 14}
+{"iOS 15.5--iOS 16.5": 14}
+{"iOS 16.0--Mac OS X 10.13.5": 14}
+{"iOS 16.1.2--iOS 16.5.1": 14}
+{"iOS 14.7.1--iOS 15.7.8": 14}
+{"Chrome OS 13982.69.0--Chrome OS 14989.107.0": 14}
+{"Other--Windows 7": 14}
+{"Linux--Mac OS X 10.15.7": 14}
+{"Mac OS X 10.15.7--Linux": 13}
+{"iOS 16.3--iOS 16.5.1": 13}
+{"Android 13--Windows 10": 13}
+{"iOS 14.6--iOS 15.7.8": 13}
+{"iOS 13.5.1--iOS 16.6": 13}
+{"iOS 16.1--iOS 16.5": 13}
+{"iOS 15.7.8--Mac OS X 10.15.7": 13}
+{"iOS 16.0.2--Mac OS X 10.15.7": 13}
+{"iOS 13.3--iOS 16.6": 12}
+{"Mac OS X 10.13.5--iOS 16.3": 12}
+{"Windows 8--Windows 8.1": 12}
+{"Linux--Android 5.1.1": 12}
+{"iOS 16.2--iOS 16.4.1": 12}
+{"Mac OS X 10.12--Mac OS X 10.15": 12}
+{"iOS 15.7.8--Mac OS X 10.15.6": 12}
+{"iOS 16.6--iOS 15.7": 12}
+{"iOS 13.6--iOS 16.6": 11}
+{"iOS 16.6--iOS 16.3": 11}
+{"Chrome OS 14150.64.0--Chrome OS 14989.107.0": 11}
+{"iOS 16.6--iOS 15.6.1": 11}
+{"iOS 14.8.1--Mac OS X 10.15.6": 11}
+{"iOS 14.8.1--iOS 16.5.1": 11}
+{"iOS 15.5--iOS 16.5.1": 11}
+{"iOS 15.6.1--iOS 16.4.1": 11}
+{"Mac OS X 10.15.6--iOS 15.7.8": 11}
+{"iOS 16.6--iOS 16.3.1": 11}
+{"iOS 16.5.1--iOS 15.7.7": 11}
+{"iOS 16.5.1--iOS 16.5": 10}
+{"iOS 15.0.2--iOS 16.6": 10}
+{"Chrome OS 14268.67.0--Chrome OS 14989.107.0": 10}
+{"Windows 10--iOS 16.5.1": 10}
+{"Chrome OS 13904.41.0--Chrome OS 14989.107.0": 10}
+{"Mac OS X 10.10.5--Mac OS X 10.15.7": 10}
+{"Chrome OS 14388.52.0--Chrome OS 14989.107.0": 10}
+{"iOS 15.3.1--iOS 15.7.8": 10}
+{"iOS 13.3.1--iOS 16.6": 10}
+{"iOS 16.5.1--iOS 16.3.1": 9}
+{"iOS 14.1--iOS 16.6": 9}
+{"Mac OS X 10.13.5--iOS 16.0": 9}
+{"Chrome OS 15183.69.0--Chrome OS 14541.0.0": 9}
+{"iOS 15.6--iOS 16.5": 9}
+{"iOS 15.4.1--Mac OS X 10.15.6": 9}
+{"Chrome OS 14909.100.0--Chrome OS 14989.107.0": 9}
+{"Chrome OS 14909.132.0--Chrome OS 14989.107.0": 9}
+{"iOS 16.0--iOS 16.5.1": 9}
+{"Mac OS X 10.15.4--Mac OS X 10.15.6": 9}
+{"Chrome OS 15183.59.0--Chrome OS 14541.0.0": 9}
+{"iOS 15.7.7--Mac OS X 10.15.7": 9}
+{"iOS 12.5.7--iOS 16.5.1": 9}
+{"Windows 8--Windows 7": 9}
+{"iOS 16.6--Mac OS X 10.15": 9}
+{"Linux--Android 8.1.0": 9}
+{"Android 8.1.0--Linux": 9}
+{"Mac OS X 10.15.7--iOS 16.1.2": 9}
+{"Mac OS X 10.15.7--iOS 16.1": 9}
+{"Mac OS X 10.11--Mac OS X 10.15": 9}
+{"S2RES32.29-16-1-5-1-5; wv--S2RE32.29-16-1-5-19; wv": 8}
+{"Android 10--Android 11": 8}
+{"iOS 15.7.7--iOS 16.4.1": 8}
+{"Chrome OS 13597.66.0--Chrome OS 14989.107.0": 8}
+{"Windows 10--Android 13": 8}
+{"Mac OS X 10.16.0--Mac OS X 10.15.7": 8}
+{"Chrome OS 15236.66.0--Chrome OS 14541.0.0": 8}
+{"iOS 14.4.1--iOS 16.6": 8}
+{"iOS 13.7--iOS 15.7.8": 8}
+{"Mac OS X 10.15.6--iOS 15.4.1": 8}
+{"Mac OS X 10.15.3--Mac OS X 10.15.7": 8}
+{"Mac OS X 10.15.6--iOS 14.8.1": 8}
+{"iOS 15.7.8--iOS 16.5": 8}
+{"iOS 16.5.1--iOS 15.6.1": 8}
+{"iOS 15.7.5--iOS 16.5.1": 8}
+{"Chrome OS 15054.114.0--Chrome OS 14541.0.0": 8}
+{"Chrome OS 14388.61.0--Chrome OS 14816.131.0": 8}
+{"Chrome OS 15117.111.0--Chrome OS 14541.0.0": 8}
+{"iOS 15.6--Mac OS X 10.13.5": 8}
+{"Mac OS X 10.15.7--iOS 15.7.8": 8}
+{"iOS 14.8.1--iOS 16.4.1": 8}
+{"Chrome OS 15183.78.0--Chrome OS 14541.0.0": 8}
+{"Mac OS X 10.15--iOS 16.6": 8}
+{"Linux--Other": 8}
+{"iOS 14.2.1--iOS 16.6": 8}
+{"Windows 8--Mac OS X 10.15.7": 8}
+{"iOS 15.7.8--iOS 16.4.1": 7}
+{"Mac OS X 10.13.5--iOS 17.0": 7}
+{"iOS 16.5.1--iOS 16.2": 7}
+{"iOS 16.5.1--iOS 16.1.1": 7}
+{"Mac OS X 10.15.7--iOS 15.7.7": 7}
+{"iOS 16.1.2--iOS 16.5": 7}
+{"Mac OS X 10.13.5--iOS 16.2": 7}
+{"iOS 16.3.1--Windows 10": 7}
+{"Chrome OS 14816.99.0--Chrome OS 14989.107.0": 7}
+{"Mac OS X 10.11.6--Linux": 7}
+{"Windows 10--Android 10": 7}
+{"iOS 16.1--iOS 16.5.1": 7}
+{"Chrome OS 14150.64.0--Chrome OS 14541.0.0": 7}
+{"Mac OS X 10.11.6--Mac OS X 10.13.6": 7}
+{"iOS 15.5--iOS 16.4.1": 7}
+{"iOS 15.6--iOS 15.7.8": 7}
+{"Mac OS X 10.13.6--Mac OS X 10.14.6": 7}
+{"Chrome OS 12739.111.0--Chrome OS 14989.107.0": 7}
+{"iOS 14.7.1--Mac OS X 10.15.6": 7}
+{"iOS 16.6--iOS 15.6": 7}
+{"Mac OS X 10.15.6--iOS 14.6": 7}
+{"iOS 14.3--iOS 15.7.8": 7}
+{"Chrome OS 15236.80.0--Chrome OS 14541.0.0": 7}
+{"Other--Linux": 7}
+{"Chrome OS 14588.123.0--Chrome OS 14816.131.0": 7}
+{"Chrome OS 15054.98.0--Chrome OS 14541.0.0": 7}
+{"iOS 16.0.2--iOS 16.5": 7}
+{"iOS 16.5--iOS 15.7": 7}
+{"iOS 15.6--Mac OS X 10.15.6": 7}
+{"Mac OS X 10.14.3--Mac OS X 10.15.7": 7}
+{"Windows 7--Windows 8.1": 7}
+{"iOS 14.6--Mac OS X 10.15.6": 7}
+{"Mac OS X 10.15.7--Mac OS X 10.15": 6}
+{"iOS 16.5--Mac OS X 10.14.6": 6}
+{"iOS 16.6--Mac OS X 10.14.6": 6}
+{"Mac OS X 10.14.6--iOS 16.6": 6}
+{"iOS 15.7.8--iOS 16.3.1": 6}
+{"Windows 7--Windows 8": 6}
+{"iOS 15.7.3--iOS 16.6": 6}
+{"iOS 14.6--iOS 16.5.1": 6}
+{"iOS 16.5.1--Mac OS X 10.15": 6}
+{"iOS 13.4.1--iOS 16.6": 6}
+{"Linux--Mac OS X 10.11.6": 6}
+{"Mac OS X 10.15--Mac OS X 10.13": 6}
+{"Mac OS X 10.14.5--Mac OS X 10.15.7": 6}
+{"Mac OS X 10.15.7--iOS 16.0.2": 6}
+{"iOS 16.0.3--Mac OS X 10.15.7": 6}
+{"iOS 15.0.1--iOS 16.6": 6}
+{"iOS 16.0.2--iOS 16.5.1": 6}
+{"Chrome OS 14989.85.0--Chrome OS 14541.0.0": 6}
+{"iOS 16.6--iOS 15.5": 6}
+{"Mac OS X 10.13.5--iOS 15.6": 6}
+{"Chrome OS 14816.131.0--Chrome OS 14989.107.0": 6}
+{"iOS 16.5.1--iOS 12.5.7": 6}
+{"iOS 13.6.1--iOS 16.6": 6}
+{"iOS 15.7--iOS 16.3": 6}
+{"Mac OS X 10.15.7--Mac OS X 10.13.6": 6}
+{"iOS 16.1--iOS 16.3": 6}
+{"iOS 14.8--iOS 15.7.8": 6}
+{"iOS 16--Mac OS X 10.15.7": 6}
+{"Mac OS X 10.15.7--Windows 8.1": 6}
+{"Windows 8.1--Mac OS X 10.15.7": 6}
+{"iOS 13.3.1--iOS 15.7.8": 6}
+{"Android 5.1.1--Linux": 6}
+{"iOS 16.5.1--Mac OS X 10.15.6": 6}
+{"Chrome OS 15329.44.2--Chrome OS 14541.0.0": 6}
+{"iOS 16.5--iOS 16.2": 5}
+{"iOS 12.5.7--iOS 16.5": 5}
+{"iOS 12.5--iOS 16.6": 5}
+{"Android 11--Android 13": 5}
+{"Android 12--Windows 10": 5}
+{"iOS 13.3--iOS 15.7.8": 5}
+{"Windows NT--Windows 10": 5}
+{"Mac OS X 10.15.6--iOS 15.2": 5}
+{"Mac OS X 10.15.6--iOS 16.6": 5}
+{"iOS 16.6--Mac OS X 10.15.6": 5}
+{"iOS 15.7.4--iOS 15.7.8": 5}
+{"Chrome OS 15329.52.0--Chrome OS 14541.0.0": 5}
+{"Windows Vista--Windows 10": 5}
+{"Chrome OS 15117.86.0--Chrome OS 14541.0.0": 5}
+{"iOS 16.1.1--iOS 16.4": 5}
+{"Chrome OS 14388.52.0--Chrome OS 14541.0.0": 5}
+{"Chrome OS 14469.59.0--Chrome OS 14989.107.0": 5}
+{"Mac OS X 10.15.2--Mac OS X 10.15.7": 5}
+{"iOS 16.4.1--iOS 16.5": 5}
+{"iOS 16.1.1--iOS 16.3.1": 5}
+{"Mac OS X 10.15.6--iOS 16.5.1": 5}
+{"Chrome OS 14526.57.0--Chrome OS 14989.107.0": 5}
+{"Windows 10--Mac OS X 10.12.6": 5}
+{"iOS 16.5--iOS 16.3": 5}
+{"Chrome OS 13597.66.0--Chrome OS 14541.0.0": 5}
+{"iOS 15.7.6--Mac OS X 10.15.6": 5}
+{"Mac OS X 10.15.6--iOS 14.7.1": 5}
+{"Linux--Android 7.1.1": 5}
+{"Chrome OS 14469.59.0--Chrome OS 14816.131.0": 5}
+{"Mac OS X 10.10.5--Windows 10": 5}
+{"Android 7.1.2--Android 10": 5}
+{"iOS 15.3.1--iOS 16.5": 5}
+{"iOS 15.7--iOS 15.7.8": 5}
+{"iOS 16.4--Mac OS X 10.13.5": 5}
+{"Windows 7--Mac OS X 10.15.7": 5}
+{"Mac OS X 10.15.6--iOS 15.6": 5}
+{"Windows 8.1--Other": 5}
+{"Android 7.0--Linux": 5}
+{"Chrome OS 12739.111.0--Chrome OS 14816.131.0": 5}
+{"iOS 16.1.2--iOS 16.4.1": 5}
+{"Windows 10--Mac OS X 10.15": 5}
+{"iOS 16.0--iOS 16.5": 5}
+{"iOS 15.6--iOS 15.7": 5}
+{"iOS 15.7.7--iOS 16.3.1": 5}
+{"Chrome OS 14588.98.0--Chrome OS 14989.107.0": 5}
+{"iOS 14.0--iOS 16.6": 5}
+{"Mac OS X 10.14.6--iOS 16.5": 4}
+{"iOS 15.6.1--iOS 16.1.1": 4}
+{"iOS 16.5--iOS 12.5.7": 4}
+{"Mac OS X 10.15.7--Other": 4}
+{"Other--iOS 16.6": 4}
+{"Android 6.0.1--Linux": 4}
+{"iOS 15.7--Mac OS X 10.13.5": 4}
+{"iOS 16.3--iOS 17.0": 4}
+{"iOS 16.6--iOS 16.1.2": 4}
+{"Chrome OS 14541.0.0--Chrome OS 15329.59.0": 4}
+{"iOS 15.2--Mac OS X 10.15.6": 4}
+{"Chrome OS 14588.123.0--Chrome OS 14989.107.0": 4}
+{"iOS 17.0--iOS 16.6": 4}
+{"Chrome OS 13904.41.0--Chrome OS 14541.0.0": 4}
+{"Mac OS X 10.15.7--iOS 16.0.3": 4}
+{"Mac OS X 10.15--Mac OS X 10.14": 4}
+{"Chrome OS 13904.41.4--Chrome OS 14989.107.0": 4}
+{"Mac OS X 10.15.7--iOS 16": 4}
+{"Chrome OS 14388.61.0--Chrome OS 14695.107.0": 4}
+{"iOS 16.6--iOS 16.1": 4}
+{"iOS 15.6.1--iOS 16.3.1": 4}
+{"Chrome OS 15117.112.0--Chrome OS 14541.0.0": 4}
+{"iOS 14.4--iOS 15.7.8": 4}
+{"Chrome OS 13982.69.0--Chrome OS 14541.0.0": 4}
+{"Mac OS X 10.15.6--iOS 14.4.2": 4}
+{"iOS 15.4.1--iOS 16.4.1": 4}
+{"Chrome OS 14526.57.0--Chrome OS 14541.0.0": 4}
+{"iOS 12.4.1--Mac OS X 10.15.7": 4}
+{"iOS 15.4.1--iOS 15.7.8": 4}
+{"iOS 14.6--iOS 16.5": 4}
+{"Chrome OS 15278.72.0--Chrome OS 14541.0.0": 4}
+{"Windows 8--Other": 4}
+{"Chrome OS 14909.100.0--Chrome OS 14541.0.0": 4}
+{"iOS 14.0.1--iOS 16.6": 4}
+{"Windows 10--Android 7.0": 4}
+{"Other--Windows 8.1": 4}
+{"Android 7.1.1--Linux": 4}
+{"Other--Mac OS X 10.15.7": 4}
+{"Windows 10--Windows NT": 4}
+{"Chrome OS 14695.85.0--Chrome OS 14989.107.0": 4}
+{"Mac OS X 10.13.5--iOS 15.7": 4}
+{"Mac OS X 10.15--Windows 10": 4}
+{"iOS 15.4.1--iOS 16.5": 4}
+{"Mac OS X 10.13.2--Mac OS X 10.15.7": 4}
+{"Mac OS X 10.14.5--Mac OS X 10.14.6": 4}
+{"Mac OS X 10.15--Mac OS X 10.11": 4}
+{"Chrome OS 14526.89.0--Chrome OS 14989.107.0": 4}
+{"Other--Windows 8": 4}
+{"iOS 16.5.1--iOS 16.4.1": 4}
+{"iOS 16.6--iOS 12.5.7": 4}
+{"iOS 16.1.1--iOS 16.3": 4}
+{"iOS 16.2--iOS 17.0": 3}
+{"Windows 10--Android 11": 3}
+{"Linux--Mac OS X 10.12.6": 3}
+{"iOS 15.5--iOS 15.7": 3}
+{"iOS 12.5.4--iOS 12.5.7": 3}
+{"iOS 16.6--iOS 12.5": 3}
+{"iOS 13.7--iOS 15.7": 3}
+{"iOS 14.5--iOS 16.6": 3}
+{"Linux--Android 6.0.1": 3}
+{"iOS 15.7.8--Windows 10": 3}
+{"Mac OS X 10.14.0--Mac OS X 10.15.7": 3}
+{"iOS 15.7.8--iOS 15.7.7": 3}
+{"iOS 15.2.1--iOS 16.5.1": 3}
+{"iOS 16.4--iOS 16.5": 3}
+{"Mac OS X 10.13.4--Mac OS X 10.15.7": 3}
+{"iOS 15.7.6--iOS 16.5.1": 3}
+{"Android 8.0.0--Linux": 3}
+{"Mac OS X 10.15--iOS 13.3.1": 3}
+{"iOS 16.5.1--iOS 16.1.2": 3}
+{"iOS 15.6--iOS 16.4.1": 3}
+{"iOS 14.7--iOS 15.7": 3}
+{"iOS 12.5.7--iOS 16.4.1": 3}
+{"iOS 16.0--iOS 16.1": 3}
+{"Linux--Android 8.0.0": 3}
+{"iOS 15.6.1--iOS 16.2": 3}
+{"iOS 13.4.1--iOS 15.7.8": 3}
+{"iOS 15.1--iOS 15.7.8": 3}
+{"Chrome OS 14909.124.0--Chrome OS 14909.132.0": 3}
+{"iOS 16.2--iOS 16.3.1": 3}
+{"iOS 16.3.1--iOS 16.2": 3}
+{"Android 9--Android 11": 3}
+{"Android 7.1.2--Linux": 3}
+{"iOS 15.7.8--iOS 16.1.2": 3}
+{"Mac OS X 10.15.7--Mac OS X 10.12.6": 3}
+{"Windows 10--Windows Vista": 3}
+{"Mac OS X 10.12.6--Mac OS X 10.14.6": 3}
+{"Mac OS X 10.15--iOS 16.5.1": 3}
+{"Chrome OS 14541.0.0--Android 6.0": 3}
+{"Android 6.0--Chrome OS 14541.0.0": 3}
+{"Mac OS X 10.12.6--Windows 7": 3}
+{"iOS 15.7--iOS 16.4.1": 3}
+{"iOS 16.0--iOS 16.4.1": 3}
+{"Chrome OS 14526.89.0--Chrome OS 14816.131.0": 3}
+{"Mac OS X 10.15.6--iOS 15.7.6": 3}
+{"Android 13--Android 14": 3}
+{"iOS 15.6--iOS 16.2": 3}
+{"Mac OS X 10.15.6--iOS 15.1": 3}
+{"iOS 15.7.6--iOS 16.6": 3}
+{"iOS 16.5.1--iOS 14.7.1": 3}
+{"Mac OS X 10.10.5--Linux": 3}
+{"iOS 15.7--Mac OS X 10.15.6": 3}
+{"Android 8.0.0--Android 9": 3}
+{"Mac OS X 10.14.2--Mac OS X 10.15.7": 3}
+{"Chrome OS 14092.57.0--Chrome OS 14989.107.0": 3}
+{"iOS 14.6--iOS 15.7": 3}
+{"iOS 15.7.2--iOS 16.6": 3}
+{"iOS 16.2--Windows 10": 3}
+{"iOS 16.3--iOS 16.1": 3}
+{"Chrome OS 14268.67.0--Chrome OS 14541.0.0": 3}
+{"Android 6.0--Mac OS X 10.15.7": 3}
+{"iOS 16.1--iOS 17.0": 3}
+{"Chrome OS 14695.107.0--Chrome OS 14816.131.5": 3}
+{"Other--iOS 16.5.1": 3}
+{"iOS 14.6--iOS 16.4.1": 3}
+{"Linux--Mac OS X 10.10.5": 3}
+{"iOS 14.4.2--Mac OS X 10.15.6": 3}
+{"iOS 16.4--Mac OS X 10.15.7": 3}
+{"iOS 14.7.1--iOS 16.4.1": 3}
+{"Mac OS X 10.15.1--Mac OS X 10.15.7": 3}
+{"iOS 12.4.1--iOS 16.6": 3}
+{"iOS 15.4.1--iOS 16.5.1": 3}
+{"iOS 15.6.1--iOS 16.4": 3}
+{"iOS 16.6--Mac OS X 12.5.0": 3}
+{"Windows 10--iOS 16.3.1": 3}
+{"iOS 15.3.1--Mac OS X 10.15.6": 3}
+{"Chrome OS 14588.98.0--Chrome OS 14541.0.0": 3}
+{"Mac OS X 10.12.6--Mac OS X 10.13.6": 3}
+{"Windows 8.1--Windows 8": 3}
+{"Chrome OS 14989.85.0--Chrome OS 14989.107.0": 3}
+{"Mac OS X 10.15.7--iOS 15.6.1": 3}
+{"iOS 15.2--iOS 15.7.8": 3}
+{"iOS 16.3--iOS 15.7": 3}
+{"iOS 15.6--iOS 16.4": 3}
+{"Mac OS X 10.15.6--iOS 15.7.1": 3}
+{"iOS 15.7.1--Mac OS X 10.15.6": 3}
+{"iOS 12.4.9--iOS 12.5.7": 3}
+{"Mac OS X 10.14.1--Mac OS X 10.15.7": 3}
+{"Mac OS X 10.12--Mac OS X 10.13": 3}
+{"iOS 16.1.1--iOS 16.1.2": 3}
+{"iOS 16.5--iOS 16.1": 3}
+{"Android 10--Android 12": 3}
+{"Mac OS X 10.15.7--Mac OS X 10.15.4": 3}
+{"iOS 15.2--iOS 15.7": 3}
+{"Chrome OS 14695.85.0--Chrome OS 14541.0.0": 3}
+{"Mac OS X 10.12.6--Windows 8": 2}
+{"iOS 13.6.1--iOS 15.7.8": 2}
+{"iOS 16.1.1--iOS 15.6.1": 2}
+{"iOS 16.6--iOS 12.4.1": 2}
+{"iOS 12.5--iOS 16.5": 2}
+{"iOS 15.3.1--iOS 16.5.1": 2}
+{"Mac OS X 10.15.7--iOS 16.4": 2}
+{"Mac OS X 10.10.5--Windows 8.1": 2}
+{"Mac OS X 10.9--Mac OS X 10.15": 2}
+{"iOS 15.7--iOS 16.2": 2}
+{"Mac OS X 10.15.7--Mac OS X 10.11.1": 2}
+{"Mac OS X 10.11.1--Mac OS X 10.15.7": 2}
+{"RRHGS31.Q3-37-43-43-5-4-17--RRHGS31.Q3-37-43-43-5-4-20": 2}
+{"iOS 15.2.1--iOS 15.7.8": 2}
+{"iOS 15.7--iOS 16.5.1": 2}
+{"iOS 16.5.1--iOS 16.3": 2}
+{"iOS 14.8--Mac OS X 10.15.6": 2}
+{"iOS 15.5--iOS 15.6.1": 2}
+{"iOS 15.7.1--iOS 16.5.1": 2}
+{"Chrome OS 14526.89.0--Chrome OS 14695.107.0": 2}
+{"Chrome OS 14695.107.0--Chrome OS 14989.107.0": 2}
+{"iOS 16.6--iOS 14.4.2": 2}
+{"iOS 16.5--iOS 16.3.1": 2}
+{"Android 5.0.2--Linux": 2}
+{"iOS 15.7.5--iOS 16.6": 2}
+{"iOS 16.6--iOS 15.7.5": 2}
+{"iOS 12.4.1--iOS 15.7.8": 2}
+{"Windows 7--Mac OS X 10.11.6": 2}
+{"iOS 14.4.2--iOS 16.5.1": 2}
+{"S3RHS32.20-42-13-2-3-2; wv--Android 12": 2}
+{"iOS 16.5.1--iOS 15.7.8": 2}
+{"Android 8.0.0--Windows 10": 2}
+{"iOS 14.0.1--iOS 15.7.8": 2}
+{"Chrome OS 14388.61.0--Chrome OS 14989.107.0": 2}
+{"iOS 16.1.2--iOS 16.2": 2}
+{"Mac OS X 10.15--Mac OS X 11.2": 2}
+{"Mac OS X 11.2--Windows 10": 2}
+{"Chrome OS 14989.107.0--Chrome OS 15054.98.0": 2}
+{"Android 10--Android 13": 2}
+{"iOS 15.7.6--iOS 16.5": 2}
+{"iOS 16.5.1--iOS 16.0.2": 2}
+{"iOS 16.0--iOS 16.4": 2}
+{"iOS 14.4--Mac OS X 10.15.6": 2}
+{"iOS 12.5.1--iOS 12.5.7": 2}
+{"Chrome OS 14695.107.0--Chrome OS 14816.131.4": 2}
+{"iOS 16.2--iOS 15.6": 2}
+{"iOS 12.1.2--iOS 16.6": 2}
+{"Windows 8--Mac OS X 10.10.5": 2}
+{"iOS 16.3.1--iOS 16.1.1": 2}
+{"Mac OS X 10.15.6--iOS 15.7": 2}
+{"iOS 16.3.1--iOS 15.6.1": 2}
+{"iOS 16.2--iOS 16.4": 2}
+{"iOS 15.7.7--iOS 16.0.3": 2}
+{"iOS 12.5.7--iOS 16.2": 2}
+{"iOS 15.2--Mac OS X 10.13.5": 2}
+{"Chrome OS 14324.62.0--Chrome OS 14324.80.0": 2}
+{"iOS 14.4--iOS 15.7": 2}
+{"Chrome OS 13505.73.0--Chrome OS 14989.107.0": 2}
+{"iOS 15.5--Mac OS X 10.13.5": 2}
+{"Chrome OS 14695.107.0--Chrome OS 14816.131.0": 2}
+{"iOS 14.8--iOS 16.2": 2}
+{"Android 11--Windows 10": 2}
+{"iOS 12.4--iOS 16.6": 2}
+{"Chrome OS 13982.69.5--Chrome OS 14989.107.0": 2}
+{"iOS 14.8--iOS 16.5": 2}
+{"Chrome OS 13729.56.0--Chrome OS 14816.131.0": 2}
+{"iOS 16.0--iOS 16.3.1": 2}
+{"iOS 16.3.1--Mac OS X 10.15": 2}
+{"Mac OS X 10.15--iOS 16.3.1": 2}
+{"Mac OS X 10.12.0--Mac OS X 10.12.6": 2}
+{"Mac OS X 10.12.6--Windows 10": 2}
+{"Chrome OS 13505.63.0--Chrome OS 14989.107.0": 2}
+{"iOS 14.5.1--iOS 16.6": 2}
+{"iOS 14.0--iOS 15.7": 2}
+{"iOS 14.8--iOS 15.7": 2}
+{"Mac OS X 10.12.3--Mac OS X 10.12.6": 2}
+{"iOS 15.1--Mac OS X 10.13.5": 2}
+{"iOS 16.6--iOS 13.7": 2}
+{"Mac OS X 10.15.6--iOS 15.7.2": 2}
+{"iOS 15.7.2--Mac OS X 10.15.6": 2}
+{"Mac OS X 13.5.0--Mac OS X 10.15.7": 2}
+{"Chrome OS 14324.62.0--Chrome OS 14989.107.0": 2}
+{"Linux--Windows NT": 2}
+{"Windows NT--Linux": 2}
+{"Linux--Mac OS X 10.15": 2}
+{"Windows 10--Ubuntu": 2}
+{"iOS 15.7.2--iOS 16.5.1": 2}
+{"Android 10--Android 9": 2}
+{"Mac OS X 10.15.7--iOS 12.4.1": 2}
+{"Mac OS X 10.15.6--iOS 15.7.3": 2}
+{"iOS 15.7.1--iOS 16.5": 2}
+{"iOS 14.8--iOS 16.5.1": 2}
+{"iOS 14.8--iOS 16.3": 2}
+{"iOS 16.3--iOS 14.8": 2}
+{"Mac OS X 10.15.7--Windows 8": 2}
+{"Mac OS X 10.15.7--Android 6.0": 2}
+{"iOS 12.5.7--Mac OS X 10.15.6": 2}
+{"Chrome OS 13816.82.0--Chrome OS 14989.107.0": 2}
+{"iOS 16.6--iOS 15.3": 2}
+{"iOS 16.5--iOS 15.6.1": 2}
+{"Mac OS X 10.15.6--iOS 15.7.4": 2}
+{"iOS 15.7.4--Mac OS X 10.15.6": 2}
+{"iOS 16.1.1--iOS 17.0": 2}
+{"Chrome OS 14816.131.0--Chrome OS 14816.131.4": 2}
+{"Mac OS X 10.10--Mac OS X 10.15": 2}
+{"iOS 15.5--iOS 16.0.2": 2}
+{"iOS 13.6--iOS 16.4.1": 2}
+{"iOS 16.0.2--iOS 16.4.1": 2}
+{"iOS 16.4.1--iOS 16.3.1": 2}
+{"Android 7.0--Windows 10": 2}
+{"Mac OS X 10.13.5--iOS 16.4": 2}
+{"iOS 16.4--iOS 15.6": 2}
+{"iOS 14.7.1--iOS 16.5": 2}
+{"iOS 16.3--iOS 13.7": 2}
+{"iOS 14.0.1--iOS 16.5": 2}
+{"iOS 15.7.8--iOS 16.0.2": 2}
+{"Mac OS X 10.11.6--Windows 7": 2}
+{"iOS 15.7--Mac OS X 10.14.6": 2}
+{"iOS 15.1--Mac OS X 10.15.6": 2}
+{"iOS 16.5.1--iOS 14.8.1": 2}
+{"Chrome OS 14816.99.0--Chrome OS 14541.0.0": 2}
+{"Chrome OS 15117.87.0--Chrome OS 14541.0.0": 2}
+{"Chrome OS 14816.99.0--Chrome OS 14816.131.0": 2}
+{"Windows 10--iOS 14.6": 2}
+{"Mac OS X 10.15--Mac OS X 10.12": 2}
+{"iOS 16.4.1--iOS 14.7.1": 2}
+{"iOS 15.5--Mac OS X 10.15.7": 2}
+{"Mac OS X 10.15.7--iOS 15.5": 2}
+{"iOS 15.6.1--iOS 16.3": 2}
+{"iOS 14.8.1--iOS 16.3.1": 2}
+{"Chrome OS 13904.55.4--Chrome OS 14989.107.0": 2}
+{"iOS 15.4--Mac OS X 10.13.5": 2}
+{"Mac OS X 10.13.5--iOS 15.4": 2}
+{"Chrome OS 15054.98.0--Chrome OS 15054.114.0": 2}
+{"iOS 15.6.1--Windows 10": 2}
+{"iOS 13.7--iOS 16.5.1": 2}
+{"iOS 16.5--iOS 16.1.1": 2}
+{"iOS 14.6--iOS 16.3": 2}
+{"Mac OS X 10.15.7--iOS 15.6": 2}
+{"iOS 15.6--Mac OS X 10.15.7": 2}
+{"iOS 15.7.5--Mac OS X 10.15.6": 2}
+{"iOS 15.7.5--iOS 16.4.1": 2}
+{"Chrome OS 13904.97.0--Chrome OS 14989.107.0": 2}
+{"iOS 14.3--iOS 16.5.1": 2}
+{"Linux--Android 7.0": 2}
+{"iOS 16.0--iOS 16.2": 2}
+{"Mac OS X 10.15--Mac OS X 10.15.6": 2}
+{"S3RDES32.123-37-4-6; wv--S3RDE32.123-37-5; wv": 2}
+{"iOS 12.5.5--iOS 16.5": 2}
+{"iOS 14.8--iOS 16.1": 2}
+{"Chrome OS 13597.94.0--Chrome OS 13597.105.0": 2}
+{"iOS 12.4.1--iOS 16.5.1": 2}
+{"Mac OS X 10.15.7--Mac OS X 10.11.6": 2}
+{"Mac OS X 10.10--Windows 10": 2}
+{"iOS 13.5--iOS 16.6": 2}
+{"iOS 16.4.1--iOS 15.7.8": 2}
+{"Mac OS X 10.14.4--Mac OS X 10.15.7": 2}
+{"S3SGS32.39-191-3; wv--Android 12": 2}
+{"Chrome OS 13904.97.0--Chrome OS 14541.0.0": 2}
+{"Linux--Android 7.1.2": 2}
+{"iOS 16.1.2--iOS 16.1.1": 2}
+{"iOS 15.5--iOS 16.2": 2}
+{"iOS 16.6--iOS 14.7.1": 2}
+{"iOS 14.8.1--iOS 16.5": 2}
+{"Chrome OS 14268.67.0--Chrome OS 14588.123.0": 2}
+{"iOS 16.0.1--Mac OS X 10.15.7": 2}
+{"iOS 16.3.1--iOS 17.0": 2}
+{"Mac OS X 10.15.6--iOS 14.2": 2}
+{"Chrome OS 13597.85.2--Chrome OS 14541.0.0": 1}
+{"Android 12--S1RMS32.68-43-16-12; wv": 1}
+{"iOS 13.0--iOS 16.5.1": 1}
+{"Windows 8--Windows Vista": 1}
+{"Windows Vista--Windows 8": 1}
+{"Mac OS X 10.12.6--Mac OS X 10.15.6": 1}
+{"iOS 15.6--iOS 15.7.7": 1}
+{"iOS 15.4.1--iOS 16.1": 1}
+{"iOS 16.1--iOS 15.4.1": 1}
+{"iOS 12.0--iOS 15.7.8": 1}
+{"iOS 12.1.4--iOS 15.7.8": 1}
+{"iOS 12.3.1--iOS 12.5.7": 1}
+{"iOS 11.4.1--iOS 16.6": 1}
+{"Chrome OS 14324.80.0--Chrome OS 14816.131.5": 1}
+{"Mac OS X 10.15--Mac OS X 10.9": 1}
+{"iOS 16.2--iOS 15.7": 1}
+{"Mac OS X 10.5--Windows 10": 1}
+{"Mac OS X 11.0.0--Mac OS X 10.15.7": 1}
+{"iOS 15.0--iOS 16.5.1": 1}
+{"iOS 13.2.3--iOS 16.6": 1}
+{"Android 11--RZKS31.Q3-45-16-9-11; wv": 1}
+{"T1TH33.75-12-6--T1THS33.75-12-6-1": 1}
+{"Mac OS X 10.9--Mac OS X 10.14": 1}
+{"iOS 13.2.3--iOS 15.7.8": 1}
+{"iOS 14.4.1--iOS 16.5.1": 1}
+{"iOS 15.6.1--iOS 15.3.1": 1}
+{"RRHG31.Q3-37-43-43-5-4--RRHGS31.Q3-37-43-43-5-4-1": 1}
+{"Android 11--Mac OS X 10.10": 1}
+{"Other--iOS 16.1.1": 1}
+{"iOS 14.2--iOS 16.5.1": 1}
+{"S3RH32.20-42-10-14-6--S3RHS32.20-42-10-14-6-1": 1}
+{"Android 4.4.3--Linux": 1}
+{"Linux--Android 4.4.3": 1}
+{"iOS 13.3.1--Mac OS X 10.15": 1}
+{"Mac OS X 10.5--Mac OS X 10.1": 1}
+{"iOS 16.3--iOS 15.4": 1}
+{"iOS 15.4--iOS 16.3": 1}
+{"Windows 10--Mac OS X 10.2": 1}
+{"Mac OS X 10.2--Windows NT": 1}
+{"iOS 16.5--iOS 13.3": 1}
+{"iOS 16.6--iOS 13.3": 1}
+{"iOS 14.4.1--iOS 16.5": 1}
+{"iOS 16.3.1--Mac OS X 12.5.0": 1}
+{"iOS 16.3--iOS 15.6.1": 1}
+{"iOS 15.1--iOS 16.5": 1}
+{"iOS 16.5.1--iOS 15.7.5": 1}
+{"iOS 16.3--iOS 12.5.7": 1}
+{"iOS 16.1.1--Mac OS X 10.15.6": 1}
+{"Mac OS X 10.15.6--iOS 16.1.1": 1}
+{"iOS 16.4.1--iOS 12.5.7": 1}
+{"Chrome OS 13816.64.0--Chrome OS 14816.131.0": 1}
+{"Windows NT--Mac OS X 10.0": 1}
+{"iOS 12.4.3--iOS 16.4.1": 1}
+{"Mac OS X 10.11.6--Windows 10": 1}
+{"iOS 14.8.1--iOS 16.1.1": 1}
+{"iOS 13.3--iOS 16.5.1": 1}
+{"Chrome OS 14816.99.0--Chrome OS 14909.132.0": 1}
+{"Windows 10--Android 8.0.0": 1}
+{"Mac OS X 10.13.5--iOS 14.6": 1}
+{"iOS 14.2--iOS 15.7.8": 1}
+{"Chrome OS 13816.64.17--Chrome OS 14989.107.0": 1}
+{"iOS 15.7.5--Mac OS X 10.15.7": 1}
+{"Mac OS X 12.6.5--Mac OS X 12.6.7": 1}
+{"iOS 16.0.2--iOS 16.2": 1}
+{"Mac OS X 10.13.1--Mac OS X 10.13.6": 1}
+{"Chrome OS 14150.74.0--Chrome OS 14150.87.0": 1}
+{"Mac OS X 12.6.7--Mac OS X 13.5.1": 1}
+{"iOS 14.2--iOS 16.5": 1}
+{"iOS 16.5--iOS 14.2": 1}
+{"iOS 16.6--iOS 14.2": 1}
+{"iOS 16.2--iOS 15.6.1": 1}
+{"iOS 16.3--iOS 16.0": 1}
+{"iOS 16.1.1--iOS 16.2": 1}
+{"Chrome OS 14526.69.0--Chrome OS 14526.89.0": 1}
+{"iOS 14.8.1--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.15.7--iOS 14.8.1": 1}
+{"Windows 95--Windows 10": 1}
+{"Mac OS X 10.13.1--Mac OS X 10.15.7": 1}
+{"Mac OS X 12.5.0--iOS 16.5.1": 1}
+{"iOS 15.5--iOS 16.1.1": 1}
+{"iOS 13.3.1--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.14--Windows 10": 1}
+{"Android 12--S1SDS32.56-53-21; wv": 1}
+{"Mac OS X 10.14.5--Mac OS X 10.11.6": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.15.3": 1}
+{"Android 9.0--Windows 10": 1}
+{"Chrome OS 14816.131.0--Chrome OS 15054.98.0": 1}
+{"iOS 16.0.1--iOS 16.3": 1}
+{"iOS 16.3--iOS 16.0.1": 1}
+{"iOS 14.8.1--iOS 15.7.6": 1}
+{"iOS 15.7.6--iOS 14.8.1": 1}
+{"Mac OS X 10.15.6--iOS 14.8": 1}
+{"Windows 10--Mac OS X 11.3": 1}
+{"S2RES32.29-16-1-5-1-5--S2RE32.29-16-1-5-19": 1}
+{"iOS 15.7.7--iOS 16.3": 1}
+{"iOS 16.3--iOS 15.7.8": 1}
+{"iOS 15.7.8--iOS 16.3": 1}
+{"iOS 15.4--iOS 16.5.1": 1}
+{"iOS 15.7.7--Mac OS X 10.15": 1}
+{"Mac OS X 10.15--iOS 15.7.7": 1}
+{"Mac OS X 10.14.6--Mac OS X 10.15": 1}
+{"Mac OS X 10.15--Mac OS X 10.14.6": 1}
+{"Chrome OS 13816.64.0--Chrome OS 13816.82.0": 1}
+{"iOS 14.7.1--iOS 16.3.1": 1}
+{"Windows Vista--Ubuntu": 1}
+{"Chrome OS 14150.87.0--Chrome OS 14541.0.0": 1}
+{"iOS 14.7.1--iOS 16.2": 1}
+{"iOS 13.4--iOS 16.6": 1}
+{"iOS 12.2--Mac OS X 10.15.6": 1}
+{"iOS 16.3--iOS 14.8.1": 1}
+{"iOS 14.8.1--iOS 16.3": 1}
+{"iOS 12.5--iOS 15.7": 1}
+{"iOS 15.7.3--Mac OS X 10.15.7": 1}
+{"Other--iOS 15.6": 1}
+{"iOS 13.7--iOS 16.5": 1}
+{"iOS 17.0--Mac OS X 10.14.6": 1}
+{"iOS 12.3.1--iOS 16.5": 1}
+{"Mac OS X 11.2.3--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.15--iOS 16.5": 1}
+{"iOS 16.5--Mac OS X 10.15": 1}
+{"iOS 15.2.1--Windows 10": 1}
+{"TQ2A.230505.002; wv--TQ3A.230705.001; wv": 1}
+{"iOS 16.6--iOS 15.0.1": 1}
+{"Other--iOS 16.3": 1}
+{"Mac OS X 10.15.4--iOS 14.4": 1}
+{"iOS 15.7.7--iOS 16.0": 1}
+{"Chrome OS 14324.80.0--Chrome OS 14695.85.0": 1}
+{"iOS 16.0.3--iOS 16.2": 1}
+{"iOS 15.7.5--iOS 15.7.6": 1}
+{"iOS 16.5.1--iOS 14.6": 1}
+{"iOS 16.6--iOS 14.6": 1}
+{"Android 12--S2RES32.29-16-1-15; wv": 1}
+{"S2RES32.29-16-1-15; wv--Android 12": 1}
+{"iOS 14.8.1--iOS 16.4": 1}
+{"T1TGNS33.60-55-3-1; wv--T1TGNS33.60-55-3-3; wv": 1}
+{"Chrome OS 15183.98.0--Chrome OS 15183.101.0": 1}
+{"iOS 16.2--Mac OS X 10.15": 1}
+{"Mac OS X 10.13.5--iOS 14.4": 1}
+{"Chrome OS 14816.131.0--Chrome OS 14816.99.0": 1}
+{"iOS 12.2--iOS 16.5": 1}
+{"iOS 15.3--Mac OS X 10.13.5": 1}
+{"Mac OS X 10.13.5--iOS 15.3": 1}
+{"iOS 12.1--iOS 15.7": 1}
+{"S1SDS32.56-64-12; wv--T2SD33.75-38-1; wv": 1}
+{"iOS 16.2--iOS 12.5.7": 1}
+{"Chrome OS 15183.59.0--Chrome OS 15329.52.0": 1}
+{"Mac OS X 10.15.6--iOS 14.4.1": 1}
+{"Chrome OS 14388.61.0--Chrome OS 14541.0.0": 1}
+{"T1SH33.35-23-30--Linux": 1}
+{"Chrome OS 14989.107.0--Chrome OS 15329.52.0": 1}
+{"iOS 15.3--iOS 15.7": 1}
+{"iOS 15.4--Mac OS X 10.15.6": 1}
+{"iOS 15.6--iOS 13.1": 1}
+{"Chrome OS 14092.57.0--Chrome OS 14541.0.0": 1}
+{"Windows 10--Mac OS X 10.11.6": 1}
+{"Mac OS X 10.11.6--Mac OS X 11.0.5": 1}
+{"Mac OS X 11.0.5--Linux": 1}
+{"Chrome OS 14388.62.0--Chrome OS 14541.0.0": 1}
+{"iOS 15.5--iOS 16.0": 1}
+{"iOS 13.5.1--iOS 15.7.8": 1}
+{"Other--iOS 15.2": 1}
+{"Mac OS X 10.14--iOS 12.5.7": 1}
+{"iOS 16.5--iOS 12.5": 1}
+{"Mac OS X 11.3--Linux": 1}
+{"Windows 10--Mac OS X 11.13": 1}
+{"Mac OS X 11.13--Mac OS X 10.2": 1}
+{"Chrome OS 14588.123.0--Chrome OS 14541.0.0": 1}
+{"iOS 16.0.2--iOS 16.4": 1}
+{"Chrome OS 13421.73.0--Chrome OS 14541.0.0": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.16": 1}
+{"iOS 16.2--iOS 16.1.2": 1}
+{"S3SHS32.12-41-4-4; wv--Android 12": 1}
+{"iOS 16.4--iOS 14.8": 1}
+{"iOS 16.0.3--Windows 10": 1}
+{"Mac OS X 10.15.6--Mac OS X 10.15.4": 1}
+{"Chrome OS 14816.99.0--Chrome OS 14909.124.0": 1}
+{"Windows NT--Mac OS X 10.11": 1}
+{"Mac OS X 10.11--Linux": 1}
+{"iOS 16.3--iOS 16.4.1": 1}
+{"Chrome OS 15183.102.0--Chrome OS 15183.103.0": 1}
+{"iOS 13.6--iOS 15.7.8": 1}
+{"Chrome OS 14469.58.0--Chrome OS 14989.107.0": 1}
+{"iOS 15.3.1--iOS 14.4": 1}
+{"iOS 14.7--iOS 16.5.1": 1}
+{"iOS 14.5.1--iOS 16.5.1": 1}
+{"iOS 12.1--iOS 15.7.8": 1}
+{"Android 6.0.1--Android 10": 1}
+{"Chrome OS 14909.132.0--Chrome OS 14541.0.0": 1}
+{"iOS 15.7.5--iOS 16.5": 1}
+{"Chrome OS 13982.88.0--Chrome OS 14388.61.0": 1}
+{"iOS 14.1--iOS 12.5.4": 1}
+{"iOS 12.5.4--iOS 14.1": 1}
+{"Windows 10--iOS 16.4.1": 1}
+{"Mac OS X 13.3--Windows 10": 1}
+{"Android 12--S2RES32.29-16-1-5-1-5; wv": 1}
+{"S2RES32.29-16-1-5-1-5; wv--Android 12": 1}
+{"Android 6.0.1--Android 7.1.1": 1}
+{"Mac OS X 10.10--Mac OS X 10.13": 1}
+{"iOS 15.6--iOS 16.0": 1}
+{"iOS 14.3--iOS 14.2": 1}
+{"Mac OS X 10.12.6--Linux": 1}
+{"Mac OS X 11.0--Linux": 1}
+{"iOS 12.4.6--iOS 16.5": 1}
+{"iOS 16.5--iOS 16.0.3": 1}
+{"Chrome OS 13505.63.0--Chrome OS 14541.0.0": 1}
+{"iOS 14.6--iOS 14.4": 1}
+{"iOS 14.4--iOS 14.6": 1}
+{"iOS 15.7.8--iOS 16.2": 1}
+{"Mac OS X 10.11.4--Mac OS X 10.11.6": 1}
+{"Mac OS X 10.10.2--Mac OS X 10.10.5": 1}
+{"iOS 15.7.3--Mac OS X 10.15.6": 1}
+{"Chrome OS 13904.55.0--Chrome OS 14989.107.0": 1}
+{"iOS 15.7.3--iOS 16.0.1": 1}
+{"iOS 16.0.1--iOS 15.7.3": 1}
+{"iOS 13.3.1--iOS 16.5": 1}
+{"iOS 11.4.1--Mac OS X 10.15.6": 1}
+{"iOS 14.7--iOS 16.5": 1}
+{"Mac OS X 10.11.6--Mac OS X 10.10.5": 1}
+{"Chrome OS 13421.89.1--Chrome OS 14989.107.0": 1}
+{"S3RQ32.20-42-10-12-5;--S3RQS32.20-42-10-12-5-1;": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.14.3": 1}
+{"iOS 14.4.1--iOS 14.5": 1}
+{"Chrome OS 14150.87.0--Chrome OS 14588.123.0": 1}
+{"iOS 16.4.1--iOS 15.5": 1}
+{"iOS 16.0.2--iOS 15.6.1": 1}
+{"Chrome OS 14541.0.0--Mac OS X 11.6": 1}
+{"Mac OS X 11.6--Chrome OS 14541.0.0": 1}
+{"Mac OS X 10.10.5--iOS 15.7": 1}
+{"iOS 15.7--Mac OS X 10.10.5": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.14.0": 1}
+{"Android 4.4.2--Linux": 1}
+{"Mac OS X 10.15.7--iOS 6.0": 1}
+{"iOS 6.0--Mac OS X 10.15.7": 1}
+{"iOS 12.1.2--iOS 16.5.1": 1}
+{"Mac OS X 10.15--Mac OS X 10.10": 1}
+{"iOS 15.7--Mac OS X 10.15.7": 1}
+{"Chrome OS 14469.58.0--Chrome OS 14469.59.0": 1}
+{"iOS 14.1--iOS 15.7.8": 1}
+{"S3RHS32.20-42-10-4-2-12; wv--S3RHS32.20-42-10-4-2-15; wv": 1}
+{"iOS 16.4.1--iOS 14.8.1": 1}
+{"iOS 16.6--iOS 13.6": 1}
+{"iOS 15.7--iOS 16.1": 1}
+{"iOS 16.1--iOS 15.7": 1}
+{"Mac OS X 10.11--Mac OS X 10.13": 1}
+{"iOS 16.1--iOS 16.2": 1}
+{"Chrome OS 14909.100.0--Chrome OS 14909.124.0": 1}
+{"iOS 15.7.7--iOS 16.4": 1}
+{"iOS 15.7--iOS 16.0": 1}
+{"iOS 16.5--iOS 15.6": 1}
+{"iOS 16.5.1--iOS 12.4.1": 1}
+{"iOS 15.6.1--Mac OS X 10.15.7": 1}
+{"iOS 16.6--iOS 16.4.1": 1}
+{"Android 11--RPJS31.Q1-53-12-17; wv": 1}
+{"iOS 16.1.1--iOS 16.0.3": 1}
+{"OCPS27.91-150-14-13--Android 10": 1}
+{"iOS 15.7.6--iOS 15.7.7": 1}
+{"Chrome OS 14469.41.0--Chrome OS 14469.58.0": 1}
+{"Chrome OS 14388.52.0--Chrome OS 14388.61.0": 1}
+{"Android 6.0--Linux": 1}
+{"Linux--Android 6.0": 1}
+{"iOS 12.3.1--iOS 16.6": 1}
+{"Windows 10--Android 9": 1}
+{"iOS 15.7.7--iOS 16.0.2": 1}
+{"iOS 16.0.2--iOS 15.7.7": 1}
+{"iOS 16.0.2--iOS 15.7.8": 1}
+{"iOS 14.6--iOS 16.1.1": 1}
+{"iOS 16.1.1--iOS 14.6": 1}
+{"iOS 15.0.2--iOS 17.0": 1}
+{"Chrome OS 14469.59.0--Chrome OS 14695.107.0": 1}
+{"iOS 16.6--iOS 16.4": 1}
+{"S3RDES32.123-37-2-1; wv--S3RDES32.123-37-2-4; wv": 1}
+{"Chrome OS 14324.80.0--Chrome OS 14989.107.0": 1}
+{"iOS 12.3.1--Mac OS X 10.15.7": 1}
+{"iOS 15.7--iOS 16.3.1": 1}
+{"S1RMS32.68-43-16-10--S1RMS32.68-43-16-12": 1}
+{"iOS 16.3.1--iOS 16.3": 1}
+{"iOS 16.2--iOS 15.1": 1}
+{"iOS 15.1--iOS 16.2": 1}
+{"iOS 15.1--Windows 10": 1}
+{"iOS 12.5--iOS 16.3": 1}
+{"iOS 16.3--iOS 12.5": 1}
+{"iOS 16.4--iOS 16.5.1": 1}
+{"iOS 14.2--iOS 15.6.1": 1}
+{"Mac OS X 10.12.1--Mac OS X 10.12.6": 1}
+{"iOS 16.2--iOS 15.7.8": 1}
+{"Chrome OS 14150.64.1--Chrome OS 14989.107.0": 1}
+{"iOS 13.3--iOS 15.7": 1}
+{"Chrome OS 13020.87.0--Chrome OS 14816.131.0": 1}
+{"Chrome OS 13729.72.0--Chrome OS 14989.107.0": 1}
+{"iOS 16.6--iOS 13.6.1": 1}
+{"S3RQS32.20-42-10-7; wv--S3RQ32.20-42-10-6-10; wv": 1}
+{"Windows 7--Windows Vista": 1}
+{"Windows Vista--Windows 7": 1}
+{"iOS 16.2--iOS 12.5": 1}
+{"iOS 15.2--iOS 16.5.1": 1}
+{"iOS 13.7--iOS 16.3": 1}
+{"iOS 16.6--iOS 15.7.7": 1}
+{"iOS 13.2.3--Windows 10": 1}
+{"iOS 16.2--iOS 15.7.1": 1}
+{"iOS 15.7.1--iOS 16.2": 1}
+{"Chrome OS 13816.82.0--Chrome OS 14541.0.0": 1}
+{"Chrome OS 14268.51.0--Chrome OS 14324.80.0": 1}
+{"RRHG31.Q3-37-43--RRHGS31.Q3-37-43-5": 1}
+{"iOS 16.1.1--Mac OS X 10.15": 1}
+{"Mac OS X 10.15--iOS 16.1.1": 1}
+{"Chrome OS 14469.59.0--Chrome OS 14816.82.0": 1}
+{"Chrome OS 12499.66.0--Chrome OS 13099.110.0": 1}
+{"S3RHS32.20-42-10-4-5-7; wv--Android 12": 1}
+{"Android 12--S3RHS32.20-42-10-4-5-7; wv": 1}
+{"Chrome OS 13904.41.0--Chrome OS 13904.66.0": 1}
+{"Other--iOS 15.7.8": 1}
+{"iOS 12.5.7--iOS 14.7.1": 1}
+{"Chrome OS 13982.82.0--Chrome OS 14092.77.0": 1}
+{"iOS 15.7.3--iOS 16.5": 1}
+{"Ubuntu--Windows 10": 1}
+{"iOS 16.1--iOS 16.0": 1}
+{"Mac OS X 10.15--Windows NT": 1}
+{"Windows NT--Mac OS X 11.2": 1}
+{"iOS 15.5--iOS 16.3": 1}
+{"Mac OS X 10.6.3--Mac OS X 11.7.6": 1}
+{"iOS 16.3.1--iOS 16.4": 1}
+{"Mac OS X 10.13.5--iOS 14.8": 1}
+{"iOS 14.8--Mac OS X 10.13.5": 1}
+{"RRHGS31.Q3-37-43-43-5-4-15--RRHGS31.Q3-37-43-43-5-4-17": 1}
+{"iOS 12.5.2--iOS 12.5.7": 1}
+{"Chrome OS 13421.53.0--Chrome OS 14989.107.0": 1}
+{"Chrome OS 13597.94.0--Chrome OS 14541.0.0": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.15.2": 1}
+{"Mac OS X 10.15.2--Mac OS X 10.15": 1}
+{"Mac OS X 10.13.3--Mac OS X 10.15.7": 1}
+{"Chrome OS 14324.72.0--Chrome OS 14324.80.0": 1}
+{"iOS 16.6--iOS 15.1": 1}
+{"iOS 15.1--iOS 16.5.1": 1}
+{"iOS 13.5.1--iOS 14.4": 1}
+{"Mac OS X 10.16--Mac OS X 10.15.7": 1}
+{"Chrome OS 13729.84.0--Chrome OS 14092.77.0": 1}
+{"Windows 7--Android 7.1.1": 1}
+{"Chrome OS 13099.90.3--Chrome OS 14541.0.0": 1}
+{"Mac OS X 10.10.5--Other": 1}
+{"Other--Mac OS X 10.10.5": 1}
+{"Chrome OS 12371.75.0--Chrome OS 14989.107.0": 1}
+{"iOS 14.4.2--iOS 14.8": 1}
+{"Chrome OS 13904.97.0--Chrome OS 14092.77.0": 1}
+{"iOS 16.3.1--iOS 14.8.1": 1}
+{"iOS 12.5.7--iOS 15.7.8": 1}
+{"iOS 16.1.2--iOS 15.7.8": 1}
+{"iOS 16.3--iOS 16.4": 1}
+{"iOS 17.0--Windows 10": 1}
+{"Android 11--RZKS31.Q3-45-16-3-11; wv": 1}
+{"iOS 13.3.1--iOS 16.5.1": 1}
+{"iOS 14.6--iOS 16.1": 1}
+{"iOS 13.7--iOS 16.4.1": 1}
+{"iOS 12.5.6--Mac OS X 10.15.7": 1}
+{"iOS 14.6--Windows 10": 1}
+{"iOS 16.0--iOS 17.0": 1}
+{"iOS 13.2.3--Mac OS X 10.15": 1}
+{"Mac OS X 10.15--iOS 13.2.3": 1}
+{"iOS 14.7.1--iOS 15.3": 1}
+{"Chrome OS 13982.69.0--Chrome OS 14092.77.0": 1}
+{"iOS 12.1.1--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.16.2--Linux": 1}
+{"iOS 14.3--iOS 16.1.1": 1}
+{"iOS 16.1.1--iOS 14.3": 1}
+{"Chrome OS 13597.105.0--Chrome OS 14092.77.0": 1}
+{"iOS 15.0--iOS 15.7": 1}
+{"Chrome OS 13020.82.0--Chrome OS 13904.97.0": 1}
+{"iOS 13.1--iOS 16.6": 1}
+{"iOS 13.1.2--Mac OS X 10.15": 1}
+{"S2SA32.1-54-13; wv--T1SAS33.73-40-3; wv": 1}
+{"S1RMS32.68-43-16-6;--S1RMS32.68-43-16-12;": 1}
+{"Mac OS X 10.5--Windows NT": 1}
+{"RONS31.267-94-3--RONS31.267-94-10": 1}
+{"iOS 16.2--iOS 16.0.3": 1}
+{"iOS 15.7--iOS 16.4": 1}
+{"iOS 16.5.1--Mac OS X 12.5.0": 1}
+{"Chrome OS 13982.88.0--Chrome OS 14092.66.0": 1}
+{"iOS 12.1--Mac OS X 10.15.7": 1}
+{"iOS 13.0--iOS 16.6": 1}
+{"Mac OS X 10.11.7--Linux": 1}
+{"iOS 16.0--iOS 16.0.3": 1}
+{"iOS 16.3.1--iOS 15.7.7": 1}
+{"Chrome OS 13421.99.0--Chrome OS 14989.107.0": 1}
+{"iOS 14.4.2--iOS 16.2": 1}
+{"iOS 15.7.6--iOS 16.0.2": 1}
+{"Mac OS X 10.5.4--Mac OS X 11.2": 1}
+{"Mac OS X 11.2--Mac OS X 11.6.2": 1}
+{"Mac OS X 11.6.2--Mac OS X 10.13.7": 1}
+{"Mac OS X 10.13.7--Mac OS X 10.6.4": 1}
+{"iOS 16.6--iOS 15.7.1": 1}
+{"Chrome OS 12607.81.0--Chrome OS 12739.111.0": 1}
+{"S3RHS32.20-42-10-4-4-5; wv--S3RHS32.20-42-10-4-4-8; wv": 1}
+{"Chrome OS 14268.83.0--Chrome OS 14816.131.0": 1}
+{"iOS 16.2--iOS 16.0": 1}
+{"Chrome OS 14816.131.0--Chrome OS 14541.0.0": 1}
+{"iOS 16.2--iOS 14.8.1": 1}
+{"iOS 14.8.1--iOS 16.2": 1}
+{"iOS 16.0.2--iOS 15.5": 1}
+{"Chrome OS 13729.84.0--Chrome OS 14989.107.0": 1}
+{"iOS 15.3.1--iOS 16.4.1": 1}
+{"Windows 7--Mac OS X 10.12.6": 1}
+{"Mac OS X 10.12.6--Other": 1}
+{"Android 13--T1TGN33.60-55; wv": 1}
+{"Mac OS X 10.15.6--iOS 14.1": 1}
+{"iOS 15.7.1--iOS 16.4.1": 1}
+{"Mac OS X 10.13.5--iOS 15.2": 1}
+{"iOS 16.6--iOS 13.5": 1}
+{"iOS 16.1--iOS 14.8": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.14.2": 1}
+{"Windows 10--Android 12": 1}
+{"iOS 16.5.1--Android 10": 1}
+{"S3RQS32.20-42-10-1-3-5; wv--S3RQS32.20-42-10-1-3-7; wv": 1}
+{"iOS 16.6--iOS 14.8": 1}
+{"S3RHS32.20-42-10-14-6-1; wv--Android 12": 1}
+{"Android 12--S3RHS32.20-42-10-14-6-1; wv": 1}
+{"iOS 13.6.1--iOS 15.7.7": 1}
+{"Linux--Android 5.0.2": 1}
+{"iOS 15.4.1--iOS 15.6": 1}
+{"Windows 10--Mac OS X 10.14.0": 1}
+{"Mac OS X 10.14.0--Windows 10": 1}
+{"Chrome OS 13816.82.0--Chrome OS 14268.67.0": 1}
+{"Mac OS X 11.2--Ubuntu": 1}
+{"Mac OS X 10.0--Windows 10": 1}
+{"Linux--Mac OS X 11.10": 1}
+{"Mac OS X 11.10--Windows 10": 1}
+{"Windows NT--Mac OS X 10.5": 1}
+{"Windows 10--Mac OS X 11.2": 1}
+{"Ubuntu--Mac OS X 11.12": 1}
+{"Chrome OS 13729.45.0--Chrome OS 14989.107.0": 1}
+{"iOS 15.0.2--iOS 15.7.8": 1}
+{"Mac OS X 12.5.0--iOS 16.6": 1}
+{"Chrome OS 15278.64.0--Chrome OS 14541.0.0": 1}
+{"Mac OS X 12.5.1--Mac OS X 12.6.8": 1}
+{"iOS 13.6.1--iOS 16.4.1": 1}
+{"Mac OS X 10.14.6--Mac OS X 10.13.6": 1}
+{"Android 8.0.0--Other": 1}
+{"iOS 13.6--Mac OS X 10.15.4": 1}
+{"Chrome OS 15183.69.0--Chrome OS 15183.78.0": 1}
+{"iOS 16.4.1--iOS 16.1.1": 1}
+{"iOS 15.6.1--iOS 15.6": 1}
+{"iOS 12.5.5--iOS 16.4.1": 1}
+{"iOS 16.5.1--iOS 15.6": 1}
+{"Chrome OS 14588.98.0--Chrome OS 14816.131.0": 1}
+{"iOS 16.5.1--iOS 15.7.3": 1}
+{"iOS 15.7.3--iOS 16.5.1": 1}
+{"Chrome OS 12871.76.0--Chrome OS 14541.0.0": 1}
+{"iOS 12.5.6--iOS 16.6": 1}
+{"iOS 14.4.1--Mac OS X 10.15.6": 1}
+{"Chrome OS 14469.58.0--Chrome OS 14541.0.0": 1}
+{"iOS 13.1--iOS 15.5": 1}
+{"Chrome OS 12607.81.0--Chrome OS 13904.97.0": 1}
+{"iOS 11.2.6--iOS 12.5.7": 1}
+{"Mac OS X 10.11.6--Windows 8.1": 1}
+{"S3RQS32.20-42-10-1-3-1; wv--S3RQS32.20-42-10-1-3-5; wv": 1}
+{"Chrome OS 13816.80.1--Chrome OS 14541.0.0": 1}
+{"iOS 16.4.1--iOS 16.2": 1}
+{"iOS 16.6--iOS 15.7.2": 1}
+{"iOS 13.1.3--iOS 16.6": 1}
+{"Chrome OS 15183.69.5--Chrome OS 14541.0.0": 1}
+{"iOS 12.0.1--iOS 15.7.8": 1}
+{"Chrome OS 14324.72.0--Chrome OS 14989.107.0": 1}
+{"iOS 16.2--iOS 15.4.1": 1}
+{"iOS 15.4.1--iOS 16.2": 1}
+{"iOS 12.4.4--iOS 12.5.7": 1}
+{"Chrome OS 14588.123.0--Chrome OS 14695.107.0": 1}
+{"Windows 10--Chromecast": 1}
+{"Chromecast--Android 13": 1}
+{"Chromecast--Windows 10": 1}
+{"Windows 10--Mac OS X 10.9.3": 1}
+{"Chrome OS 12239.67.1--Chrome OS 14541.0.0": 1}
+{"iOS 15.7.5--iOS 16.4": 1}
+{"RRDES31.Q3-73-22-19; wv--S3RDE32.123-37-5; wv": 1}
+{"iOS 15.1.1--Mac OS X 10.15.6": 1}
+{"Mac OS X 11.7.0--Mac OS X 10.15.7": 1}
+{"Chrome OS 14469.41.0--Chrome OS 14989.107.0": 1}
+{"Chrome OS 12371.89.0--Chrome OS 13597.84.0": 1}
+{"Android 10--Android 7.1.1": 1}
+{"Mac OS X 13.4.1--Mac OS X 10.15.7": 1}
+{"Android 6.0--Windows 8.1": 1}
+{"iOS 15.5--iOS 16.1": 1}
+{"iOS 14.5.1--iOS 15.7.8": 1}
+{"Chrome OS 12239.92.0--Chrome OS 14989.107.0": 1}
+{"iOS 16.4.1--iOS 17.0": 1}
+{"Chrome OS 15329.44.4--Chrome OS 14541.0.0": 1}
+{"iOS 17.0--iOS 17.1": 1}
+{"Chrome OS 14816.82.0--Chrome OS 14816.131.0": 1}
+{"iOS 16.6--iOS 14.7": 1}
+{"iOS 12.5--iOS 16.1": 1}
+{"Chrome OS 15278.64.0--Chrome OS 15278.72.0": 1}
+{"iOS 16.6--iOS 13.5.1": 1}
+{"Chrome OS 13597.85.2--Chrome OS 14989.107.0": 1}
+{"Other--iOS 16.3.1": 1}
+{"Windows 10--Mac OS X 10.15.2": 1}
+{"Mac OS X 10.15.2--Windows 10": 1}
+{"Windows 10--Mac OS X 10.15.4": 1}
+{"Mac OS X 10.15.4--Windows 10": 1}
+{"Chrome OS 14695.187.0--Chrome OS 14541.0.0": 1}
+{"iOS 16.1.2--iOS 15.6": 1}
+{"iOS 15.6--iOS 16.1.2": 1}
+{"iOS 11.0.2--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.1--Windows NT": 1}
+{"Chrome OS 14816.99.0--Chrome OS 14816.131.5": 1}
+{"Mac OS X 10.15.7--iOS 15.0": 1}
+{"Mac OS X 10.15.7--iOS 14.8": 1}
+{"Windows 8.1--Mac OS X 10.12.6": 1}
+{"iOS 12.5.7--iOS 16.3.1": 1}
+{"iOS 13.3.1--Windows 10": 1}
+{"Windows 10--iOS 13.3.1": 1}
+{"iOS 14.8--Mac OS X 10.15.7": 1}
+{"iOS 16.2--Mac OS X 10.14.6": 1}
+{"Mac OS X 10.14.6--iOS 16.2": 1}
+{"RRE31.Q2-11-52-4; wv--RRES31.Q3-60-47-2-2-2; wv": 1}
+{"Mac OS X 10.15.4--iOS 16.3.1": 1}
+{"iOS 14.5.1--iOS 16.2": 1}
+{"Mac OS X 10.15.6--iOS 15.7.5": 1}
+{"RRDES31.Q3-73-22-16; wv--RRDES31.Q3-73-22-19; wv": 1}
+{"Windows 8.1--Mac OS X 10.11.6": 1}
+{"Android 5.0--Linux": 1}
+{"iOS 12.4.1--iOS 16.5": 1}
+{"iOS 13.5.1--iOS 16.5.1": 1}
+{"iOS 16.4--Windows 10": 1}
+{"Windows 10--iOS 16.4": 1}
+{"iOS 11.2.5--iOS 12.5.7": 1}
+{"Chrome OS 14150.75.0--Chrome OS 14541.0.0": 1}
+{"iOS 13.6--iOS 16.5": 1}
+{"Chrome OS 13597.70.2--Chrome OS 14541.0.0": 1}
+{"Chrome OS 13982.88.0--Chrome OS 14469.59.0": 1}
+{"Chrome OS 14469.59.0--Chrome OS 14989.85.0": 1}
+{"Mac OS X 10.13.5--iOS 14.2": 1}
+{"iOS 16.5--iOS 16.0": 1}
+{"Mac OS X 10.15.6--iOS 16.5": 1}
+{"Chrome OS 13816.82.0--Android 6.0": 1}
+{"Android 6.0--Chrome OS 14268.67.0": 1}
+{"Chrome OS 14268.67.0--Android 6.0": 1}
+{"Mac OS X 10.11.5--Mac OS X 10.11.6": 1}
+{"iOS 13.5--iOS 16.5.1": 1}
+{"Other--iOS 16.4": 1}
+{"Mac OS X 11.1--Windows NT": 1}
+{"Chrome OS 15183.101.0--Chrome OS 15183.102.0": 1}
+{"iOS 16.6--iOS 15.7.4": 1}
+{"iOS 15.7.4--iOS 16.6": 1}
+{"Android 6.0.1--Android 7.0": 1}
+{"Other--iOS 16.0.2": 1}
+{"iOS 15.7.1--iOS 16.0": 1}
+{"Chrome OS 12739.111.0--Chrome OS 14541.0.0": 1}
+{"Mac OS X 10.12.5--Mac OS X 10.15.7": 1}
+{"iOS 16.5--iOS 16.4": 1}
+{"iOS 13.6--Mac OS X 10.15.7": 1}
+{"Chrome OS 14695.107.0--Chrome OS 14816.99.0": 1}
+{"Mac OS X 10.13--Windows 10": 1}
+{"Windows 10--Mac OS X 10.13": 1}
+{"Mac OS X 13.4.1--Mac OS X 10.13": 1}
+{"iOS 16.0.3--iOS 16.5.1": 1}
+{"iOS 12.1--iOS 16.5.1": 1}
+{"iOS 16.5--iOS 15.7.7": 1}
+{"Mac OS X 10.15.6--iOS 15.3": 1}
+{"iOS 16.1.1--iOS 14.4.2": 1}
+{"iOS 14.4.2--iOS 16.1.1": 1}
+{"iOS 13.1.2--iOS 15.7.8": 1}
+{"Android 12--S3RQS32.20-42-10-9; wv": 1}
+{"S3RQS32.20-42-10-9; wv--Android 12": 1}
+{"iOS 11.0.2--iOS 12.5.7": 1}
+{"S3RHS32.20-42-10-4-3; wv--S3RH32.20-42-10-4-6-1; wv": 1}
+{"Windows NT--Mac OS X 10.1.2": 1}
+{"Mac OS X 10.1.2--Linux": 1}
+{"Mac OS X 11.5--Linux": 1}
+{"Chrome OS 14909.124.0--Chrome OS 14989.85.0": 1}
+{"iOS 16.0.3--iOS 16.3": 1}
+{"iOS 16.3--iOS 16.0.3": 1}
+{"iOS 15.0.2--iOS 16.4": 1}
+{"Android 12--iOS 13.2.3": 1}
+{"iOS 13.2.3--iOS 14.0.1": 1}
+{"iOS 14.0.1--iOS 13.2.3": 1}
+{"S3RQ32.20-42-10-12-5; wv--S3RQS32.20-42-10-12-5-1; wv": 1}
+{"iOS 16.1.2--iOS 15.2.1": 1}
+{"iOS 15.2.1--iOS 16.1.2": 1}
+{"Mac OS X 10.15.7--Mac OS X 10.10.5": 1}
+{"iOS 16.3.1--iOS 15.4.1": 1}
+{"iOS 15.4.1--iOS 16.3.1": 1}
+{"Chrome OS 13904.41.4--Chrome OS 14541.0.0": 1}
+{"iOS 13.3.1--iOS 15.4": 1}
+{"iOS 16.0.2--iOS 16.3": 1}
+{"iOS 15.1--iOS 16.4.1": 1}
+{"Chrome OS 14324.72.0--Chrome OS 14469.58.0": 1}
+{"Android 11--Other": 1}
+{"Mac OS X 11.10--Mac OS X 11.5": 1}
+{"Mac OS X 11.5--Mac OS X 10.1": 1}
+{"iOS 15.2--iOS 16.4.1": 1}
+{"RRDES31.Q3-73-22-16--RRDES31.Q3-73-22-19": 1}
+{"RRDES31.Q3-73-22-19--RRDES31.Q3-73-22-21": 1}
+{"RRDES31.Q3-73-22-21--S3RDE32.123-37": 1}
+{"iOS 16.2--Mac OS X 12.5.0": 1}
+{"Mac OS X 10.15.6--iOS 14.4": 1}
+{"Chrome OS 14695.187.0--Chrome OS 14989.107.0": 1}
+{"Fedora--Linux": 1}
+{"S3RHS32.20-42-10-4-6; wv--S3RHS32.20-42-10-4-8; wv": 1}
+{"Mac OS X 10.15.4--iOS 13.7": 1}
+{"Mac OS X 10.10.5--Mac OS X 12.6.8": 1}
+{"Chrome OS 14816.82.0--Chrome OS 14989.107.0": 1}
+{"Chrome OS 14909.124.0--Chrome OS 14989.107.0": 1}
+{"iOS 12.1.2--iOS 12.5.7": 1}
+{"Mac OS X 10.13--iOS 11.0.3": 1}
+{"iOS 14.2--Mac OS X 10.15.6": 1}
+{"iOS 16.3--iOS 16.2": 1}
+{"iOS 16.2--iOS 16.3": 1}
+{"Android 11--RRQS31.Q3-68-140-5; wv": 1}
+{"RRQS31.Q3-68-140-5; wv--Android 11": 1}
+{"iOS 16.6--iOS 16.0": 1}
+{"iOS 11.4.1--iOS 13.5": 1}
+{"iOS 16.1.1--iOS 16.1": 1}
+{"iOS 16.5--iOS 15.5": 1}
+{"Mac OS X 12.2.0--Mac OS X 10.15.7": 1}
+{"Mac OS X 10.15.7--iOS 16.0.1": 1}
+{"Chrome OS 14526.57.0--Chrome OS 14909.132.0": 1}
+{"iOS 15.4--iOS 16.4.1": 1}
+{"Mac OS X 10.4--Mac OS X 10.1": 1}
+{"iOS 16.6--iOS 12.1": 1}
+{"Chrome OS 13099.102.0--Chrome OS 14989.107.0": 1}
+{"iOS 16.6--iOS 14.8.1": 1}
+{"iOS 12.3.1--iOS 15.7.8": 1}
+{"iOS 14.8--iOS 16.4.1": 1}
+{"iOS 16.4--iOS 17.0": 1}
+{"iOS 12.5.5--Mac OS X 10.15.7": 1}
+{"iOS 15.7.3--iOS 16.4.1": 1}
+{"Android 12--S3SGS32.39-191-3; wv": 1}
+{"RPRS31.Q1-56-9-15; wv--Android 11": 1}
+{"iOS 15.7.6--iOS 16.4.1": 1}
+{"Chrome OS 13729.84.0--Chrome OS 14268.67.0": 1}
+{"Chrome OS 14092.57.0--Chrome OS 14816.131.0": 1}
+{"iOS 14.4.1--iOS 15.7.8": 1}
+{"iOS 12.5.7--iOS 15.4.1": 1}
+{"iOS 12.1--iOS 16.6": 1}
+{"Chrome OS 14150.64.2--Chrome OS 14541.0.0": 1}
+{"iOS 12.3.1--iOS 16.4": 1}
+{"Android 13--Mac OS X 10.11.3": 1}
