@@ -1,0 +1,1123 @@
+{"Win32~Chrome~Windows--Win32~Edge~Windows": 18622}
+{"Win32~Edge~Windows--Win32~Chrome~Windows": 17394}
+{"MacIntel~Safari~Other--MacIntel~Safari~Mac OS X": 8041}
+{"MacIntel~Safari~Mac OS X--MacIntel~Safari~Other": 7399}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv81~Chrome Mobile~Android": 5482}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 4471}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome~Linux": 3661}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 3265}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome~Android": 2580}
+{"Linux armv81~Chrome~Android--Linux armv81~Chrome Mobile~Android": 2481}
+{"iPhone~Mobile Safari~iOS--MacIntel~Safari~Mac OS X": 2098}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Windows": 1805}
+{"iPhone~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 1415}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 1265}
+{"Linux armv81~Chrome~Linux--Linux armv81~Chrome Mobile~Android": 1262}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 1259}
+{"MacIntel~Safari~Mac OS X--iPhone~Mobile Safari~iOS": 1240}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 1008}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 923}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 815}
+{"iPhone~Chrome~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 769}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 715}
+{"Linux armv7l~Chrome Mobile~Android--Linux armv81~Chrome Mobile~Android": 655}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 649}
+{"Linux aarch64~Chrome Mobile~Android--Linux armv81~Chrome Mobile~Android": 607}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 606}
+{"iPad~Mobile Safari~iOS--MacIntel~Safari~Mac OS X": 584}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Edge~Windows": 540}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Other": 528}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 513}
+{"iPhone~Chrome Mobile iOS~iOS--MacIntel~Safari~Mac OS X": 511}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 504}
+{"MacIntel~Safari~Mac OS X--iPad~Mobile Safari~iOS": 503}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Safari~Other": 489}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 473}
+{"Linux armv81~Chrome~Android--Linux armv81~Chrome~Linux": 458}
+{"iPhone~Edge~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 436}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 426}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 419}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Instagram~iOS": 411}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 411}
+{"iPhone~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 405}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 398}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 391}
+{"Linux aarch64~Samsung Internet~Android--Linux aarch64~Samsung Internet~Linux": 377}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 375}
+{"Win32~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 372}
+{"iPhone~Safari~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 367}
+{"Win32~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 361}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 338}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 337}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 337}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Other~Other": 332}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 323}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 321}
+{"Linux armv81~Chrome~Linux--Linux armv81~Chrome~Android": 318}
+{"iPhone~Instagram~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 302}
+{"Linux armv8l~DuckDuckGo Mobile~Android--Linux armv81~DuckDuckGo Mobile~Android": 289}
+{"Linux aarch64~Samsung Internet~Linux--Linux aarch64~Samsung Internet~Android": 275}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Chrome~Windows": 267}
+{"iPhone~Other~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 263}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Mobile Safari UI/WKWebView~iOS": 260}
+{"MacIntel~Safari~Mac OS X--iPhone~Chrome Mobile iOS~iOS": 246}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 234}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile iOS~iOS": 234}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 233}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 228}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 218}
+{"iPad~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 217}
+{"iPhone~Chrome Mobile iOS~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 212}
+{"iPhone~Chrome~Windows--iPhone~Chrome Mobile WebView~Android": 210}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 209}
+{"Win32~Chrome~Windows--Linux x86_64~Chrome~Linux": 209}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 205}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 205}
+{"Linux x86_64~Chrome~Linux--Win32~Chrome~Windows": 202}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 197}
+{"Linux armv8l~Chrome~Android--Linux armv81~Chrome~Android": 196}
+{"iPhone~Firefox iOS~iOS--iPhone~Mobile Safari~iOS": 192}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 182}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile WebView~Android": 180}
+{"Linux aarch64~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 179}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Apple Mail~Other": 178}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 177}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Firefox~Windows": 177}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 172}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 165}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 161}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 160}
+{"Linux aarch64~DuckDuckGo Mobile~Android--Linux armv81~DuckDuckGo Mobile~Android": 160}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 159}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 157}
+{"Linux armv8l~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 156}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 154}
+{"Linux armv81~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 153}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 149}
+{"MacIntel~Safari~Other--iPad~Mobile Safari~iOS": 148}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 145}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 144}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile WebView~Android": 144}
+{"iPhone~Chrome~Android--iPhone~Chrome Mobile WebView~Android": 142}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 141}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 141}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 141}
+{"iPad~Mobile Safari~iOS--MacIntel~Safari~Other": 140}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 136}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 135}
+{"iPhone~Mobile Safari~iOS--iPhone~Firefox iOS~iOS": 135}
+{"Linux armv8l~Chrome~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 133}
+{"iPhone~Firefox~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 133}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 130}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 130}
+{"Win32~Edge~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 130}
+{"iPhone~Apple Mail~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 127}
+{"Win32~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 126}
+{"Win32~Chrome Mobile~Android--Win32~Edge~Windows": 125}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Chrome~Android": 124}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 124}
+{"iPad~Mobile Safari UI/WKWebView~iOS--MacIntel~Safari~Mac OS X": 122}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 121}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv8l~Chrome~Linux": 121}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 120}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 117}
+{"Linux aarch64~Chrome~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 115}
+{"Win32~Chrome~Windows--Win32~Chrome Mobile WebView~Android": 114}
+{"Linux armv8l~Samsung Internet~Android--Linux aarch64~Samsung Internet~Android": 114}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 114}
+{"Win32~Edge~Windows--Win32~Chrome Mobile~Android": 113}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 113}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 112}
+{"Win32~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 109}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 108}
+{"MacIntel~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 106}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 106}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 105}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Samsung Internet~Android": 103}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Windows": 101}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 101}
+{"Win32~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 100}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 100}
+{"MacIntel~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 100}
+{"iPhone~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 100}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 97}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 97}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 96}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Windows": 94}
+{"Win32~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 91}
+{"Linux armv8l~Chrome~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 91}
+{"Linux aarch64~Chrome~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 91}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 91}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 90}
+{"MacIntel~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 89}
+{"Linux armv8l~Chrome~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 89}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 88}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Windows": 87}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 87}
+{"Linux aarch64~Firefox Mobile~Android--Linux aarch64~Firefox~Linux": 84}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 84}
+{"Linux aarch64~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 82}
+{"Linux armv8l~Chrome~Linux--Linux armv8l~Chrome Mobile~Android": 81}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 81}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 81}
+{"MacIntel~Chrome~Mac OS X--Win32~Chrome~Windows": 80}
+{"Win32~Firefox~Windows--Win32~Chrome~Windows": 78}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 78}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 75}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome Mobile WebView~Android": 75}
+{"MacIntel~Safari~Mac OS X--MacIntel~Mobile Safari UI/WKWebView~iOS": 75}
+{"MacIntel~Chrome~Mac OS X--Win32~Mobile Safari UI/WKWebView~iOS": 73}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Chrome~Other": 72}
+{"MacIntel~Safari~Mac OS X--iPad~Mobile Safari UI/WKWebView~iOS": 72}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 70}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Windows": 70}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Windows": 69}
+{"iPhone~Samsung Internet~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 69}
+{"Win32~Chrome~Windows--Linux x86_64~Chrome~Other": 67}
+{"Linux aarch64~Edge~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 67}
+{"iPhone~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 67}
+{"Linux armv8l~Samsung Internet~Android--Linux armv8l~Samsung Internet~Linux": 65}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 65}
+{"iPhone~Edge~Windows--iPhone~Chrome Mobile WebView~Android": 65}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Edge~Windows": 64}
+{"Linux aarch64~Chrome~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 64}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 63}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv8l~Chrome~Android": 62}
+{"Win32~Chrome~Windows--Win32~Firefox~Windows": 62}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 61}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 61}
+{"MacIntel~Apple Mail~Mac OS X--MacIntel~Mobile Safari UI/WKWebView~iOS": 61}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Safari~Other": 61}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 61}
+{"Linux armv8l~Chrome~Android--Linux armv8l~Chrome Mobile~Android": 61}
+{"iPhone~Chrome~Other--iPhone~Chrome Mobile WebView~Android": 60}
+{"Linux armv8l~DuckDuckGo Mobile~Android--Linux armv8l~Chrome Mobile WebView~Android": 59}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 58}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Other": 58}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Android": 58}
+{"Linux aarch64~Safari~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 57}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~DuckDuckGo Mobile~Android": 57}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Other": 57}
+{"Linux armv8l~Edge~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 56}
+{"Linux armv8l~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 55}
+{"iPhone~Safari~Other--iPhone~Chrome Mobile WebView~Android": 55}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Edge~Windows": 55}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 55}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Windows": 55}
+{"Linux x86_64~Chrome~Other--Win32~Chrome~Windows": 54}
+{"Linux armv8l~Samsung Internet~Linux--Linux armv8l~Samsung Internet~Android": 54}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Edge~Windows": 54}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 53}
+{"Linux aarch64~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 53}
+{"Win32~Chrome~Other--Win32~Mobile Safari UI/WKWebView~iOS": 53}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Android": 53}
+{"MacIntel~Chrome~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 52}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Safari~Other": 52}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Other": 51}
+{"Linux armv8l~Edge~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 51}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Android": 51}
+{"Linux armv7l~Chrome~Android--Linux armv81~Chrome~Android": 50}
+{"Linux aarch64~Firefox~Linux--Linux aarch64~Firefox Mobile~Android": 50}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Edge~Windows": 50}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~DuckDuckGo Mobile~iOS": 50}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Windows": 49}
+{"Linux aarch64~Chrome~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 49}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 49}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Android": 49}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Safari~Other": 49}
+{"Linux aarch64~Chrome~Windows--Linux aarch64~Chrome Mobile WebView~Android": 48}
+{"Win32~Firefox~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 48}
+{"Linux armv8l~Chrome~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 48}
+{"iPhone~Chrome~Windows--iPhone~Chrome~Android": 48}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 48}
+{"Linux x86_64~Chrome~Linux--Linux x86_64~Firefox~Ubuntu": 48}
+{"Linux armv8l~Chrome~Windows--Linux aarch64~Chrome Mobile WebView~Android": 48}
+{"Win32~Chrome~Windows--MacIntel~Chrome~Mac OS X": 48}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Firefox~Other": 47}
+{"Linux aarch64~Edge~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 47}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Safari~Mac OS X": 47}
+{"MacIntel~Safari~Mac OS X--iPhone~Mobile Safari UI/WKWebView~iOS": 47}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 47}
+{"Linux armv81~Chrome~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 46}
+{"MacIntel~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 46}
+{"Linux aarch64~Edge Mobile~Android--Linux armv81~Edge Mobile~Android": 46}
+{"Win32~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 45}
+{"Linux aarch64~Safari~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 45}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 45}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 45}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Chrome~Windows": 45}
+{"MacIntel~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 44}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Edge~Windows": 44}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Safari~Other": 44}
+{"Linux aarch64~Instagram~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 44}
+{"iPad~Chrome Mobile iOS~iOS--MacIntel~Safari~Mac OS X": 44}
+{"Win32~Chrome Mobile WebView~Android--Win32~Chrome~Windows": 43}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~DuckDuckGo Mobile~Android": 43}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Edge~Windows": 43}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 43}
+{"Linux armv81~Edge~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 43}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Android": 43}
+{"Linux armv81~Chrome~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 43}
+{"iPhone~Chrome~Android--iPhone~Chrome~Windows": 43}
+{"Win32~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 43}
+{"Linux armv81~Instagram~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 43}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Instagram~iOS": 42}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 42}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Other": 42}
+{"Linux armv81~Chrome~Windows--Linux armv81~Chrome Mobile WebView~Android": 42}
+{"MacIntel~Edge~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 41}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome Mobile WebView~Android": 41}
+{"iPhone~Instagram~iOS--iPhone~Chrome Mobile WebView~Android": 41}
+{"Linux x86_64~Firefox~Ubuntu--Linux x86_64~Chrome~Linux": 41}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 40}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 40}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 40}
+{"Linux aarch64~DuckDuckGo Mobile~Android--Linux aarch64~Chrome Mobile WebView~Android": 39}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Windows": 39}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Instagram~iOS": 39}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 39}
+{"Linux armv81~Safari~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 39}
+{"Linux armv8l~Safari~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 39}
+{"Linux aarch64~Chrome~Chrome OS--Linux x86_64~Chrome~Chrome OS": 39}
+{"Linux armv8l~Chrome~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 39}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Chrome Mobile WebView~Android": 39}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Safari~Other": 38}
+{"Linux armv8l~Safari~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 38}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 38}
+{"iPhone~Other~Other--iPhone~Chrome Mobile WebView~Android": 38}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Other": 38}
+{"Win32~Chrome Mobile WebView~Android--MacIntel~Chrome Mobile WebView~Android": 38}
+{"Win32~Safari~Other--Win32~Mobile Safari UI/WKWebView~iOS": 38}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Safari~Other": 38}
+{"Win32~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 37}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Other": 37}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Chrome Mobile WebView~Android": 37}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome Mobile WebView~Android": 37}
+{"Linux armv8l~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 37}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Edge~Windows": 37}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 37}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 37}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 37}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Instagram~iOS": 36}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 36}
+{"iPhone~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 36}
+{"Linux aarch64~Instagram~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 36}
+{"MacIntel~Safari~Mac OS X--iPad~Chrome Mobile iOS~iOS": 36}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Other~Other": 35}
+{"Linux armv8l~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 35}
+{"Win32~Instagram~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 35}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Chrome Mobile iOS~iOS": 35}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Instagram~iOS": 35}
+{"Linux armv81~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 34}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 34}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 34}
+{"iPhone~Firefox~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 34}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Android": 34}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 34}
+{"iPad~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 34}
+{"Linux armv81~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 33}
+{"Linux armv8l~Other~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 33}
+{"Linux aarch64~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 33}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 33}
+{"Win32~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 33}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Other": 33}
+{"MacIntel~Safari~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 33}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 32}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 32}
+{"iPad~Mobile Safari~iOS--iPad~Mobile Safari UI/WKWebView~iOS": 32}
+{"Linux armv8l~Amazon Silk~Linux--Linux armv8l~Amazon Silk~Android": 32}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Safari~Other": 32}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Instagram~iOS": 32}
+{"Linux armv8l~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 32}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile iOS~iOS": 32}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome~Windows": 32}
+{"Linux armv8l~Chrome~Android--Linux aarch64~Chrome Mobile WebView~Android": 32}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Instagram~iOS": 32}
+{"Linux armv81~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 32}
+{"iPhone~Mobile Safari~iOS--Win32~Firefox~Windows": 31}
+{"Linux aarch64~Firefox~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 31}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Android": 31}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Instagram~iOS": 31}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 31}
+{"iPhone~Chrome Mobile iOS~iOS--iPhone~Chrome Mobile WebView~Android": 31}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Opera~Windows": 30}
+{"Linux x86_64~Chrome~Linux--MacIntel~Chrome~Mac OS X": 30}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Other~Other": 30}
+{"Linux aarch64~Chrome Mobile~Android--Linux aarch64~Chrome~Linux": 30}
+{"iPhone~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 30}
+{"Linux armv81~Edge Mobile~Android--Linux armv81~Edge~Linux": 30}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Windows": 30}
+{"Linux aarch64~Chrome~Android--Linux aarch64~Chrome Mobile WebView~Android": 29}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Edge~Windows": 29}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Safari~Other": 29}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Other~Other": 28}
+{"Linux armv8l~Other~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 28}
+{"MacIntel~Chrome Mobile WebView~Android--iPhone~Chrome Mobile WebView~Android": 28}
+{"MacIntel~Chrome~Windows--MacIntel~Chrome Mobile WebView~Android": 28}
+{"iPad~Chrome Mobile WebView~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 28}
+{"iPhone~Chrome~Other--iPhone~Chrome~Windows": 28}
+{"MacIntel~Chrome Mobile WebView~Android--Win32~Chrome Mobile WebView~Android": 28}
+{"Linux aarch64~Samsung Internet~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 27}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Instagram~iOS": 27}
+{"MacIntel~Chrome~Mac OS X--MacIntel~Chrome~Other": 27}
+{"Linux armv8l~Instagram~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 27}
+{"Win32~Chrome~Android--Win32~Chrome Mobile WebView~Android": 27}
+{"Linux armv8l~Chrome~Windows--Linux armv8l~Chrome Mobile WebView~Android": 27}
+{"Win32~Chrome Mobile iOS~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 27}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Edge~Windows": 26}
+{"iPhone~Safari~Other--iPhone~Chrome~Windows": 26}
+{"Linux armv7l~DuckDuckGo Mobile~Android--Linux armv81~DuckDuckGo Mobile~Android": 26}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Instagram~iOS": 26}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 26}
+{"MacIntel~Chrome~Mac OS X--Linux x86_64~Chrome~Linux": 26}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 26}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Other": 26}
+{"Linux aarch64~DuckDuckGo Mobile~Android--Linux armv8l~DuckDuckGo Mobile~Android": 26}
+{"iPhone~Mobile Safari~iOS--iPad~Mobile Safari~iOS": 26}
+{"MacIntel~Chrome~Other--MacIntel~Chrome~Mac OS X": 26}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Chrome~Windows": 25}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Safari~Other": 25}
+{"Linux armv81~Chrome~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 25}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Android": 25}
+{"iPhone~Chrome Mobile iOS~iOS--iPad~Chrome Mobile iOS~iOS": 25}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Safari~Other": 25}
+{"iPad~Chrome Mobile iOS~iOS--iPhone~Chrome Mobile iOS~iOS": 25}
+{"iPhone~Chrome Mobile WebView~Android--iPad~Mobile Safari UI/WKWebView~iOS": 25}
+{"Win32~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 25}
+{"MacIntel~Chrome~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 25}
+{"Linux aarch64~Other~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 25}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Other~Other": 25}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 24}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile iOS~iOS": 24}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Edge~Windows": 24}
+{"Win32~Chrome~Windows--Win32~Chrome~Android": 24}
+{"MacIntel~Chrome Mobile WebView~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 24}
+{"Linux aarch64~Chrome~Windows--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 24}
+{"MacIntel~Chrome~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 24}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 24}
+{"Linux armv8l~Instagram~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 24}
+{"iPhone~DuckDuckGo Mobile~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 24}
+{"Linux armv8l~Amazon Silk~Android--Linux armv8l~Amazon Silk~Linux": 24}
+{"iPhone~Firefox~Windows--iPhone~Chrome Mobile WebView~Android": 24}
+{"Linux aarch64~Chrome Mobile iOS~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 24}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile WebView~Android": 24}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Chrome~Windows": 24}
+{"Win32~Edge~Windows--Win32~Chrome Mobile WebView~Android": 24}
+{"Linux aarch64~Chrome Mobile iOS~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 24}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Safari~Other": 23}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 23}
+{"iPhone~Chrome~Windows--iPhone~Edge~Windows": 23}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Safari~Other": 23}
+{"Linux aarch64~Other~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 23}
+{"Win32~Chrome~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 23}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Facebook~Android": 23}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile WebView~Android": 23}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile~Android": 23}
+{"Linux armv81~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 23}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Instagram~iOS": 23}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile iOS~iOS": 23}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Chrome~Windows": 22}
+{"Linux armv8l~Chrome Mobile iOS~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 22}
+{"MacIntel~Instagram~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 22}
+{"Linux armv81~Chrome Mobile iOS~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 22}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Firefox~Windows": 22}
+{"Linux aarch64~Chrome Mobile WebView~Android--Win32~Chrome Mobile WebView~Android": 22}
+{"Win32~Chrome Mobile WebView~Android--Win32~Chrome~Android": 22}
+{"iPhone~Edge~Windows--iPhone~Chrome~Windows": 22}
+{"Linux aarch64~Chrome~Android--Linux armv8l~Chrome Mobile WebView~Android": 22}
+{"Linux armv81~Chrome~Android--Linux armv81~Chrome Mobile WebView~Android": 22}
+{"Win32~Chrome~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 22}
+{"Win32~Chrome~Windows--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 21}
+{"Linux aarch64~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 21}
+{"MacIntel~Chrome~Mac OS X--Win32~Chrome Mobile WebView~Android": 21}
+{"Linux armv8l~Chrome Mobile iOS~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 21}
+{"Linux armv81~Edge~Windows--Linux armv81~Chrome Mobile WebView~Android": 21}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv7l~Chrome Mobile WebView~Android": 21}
+{"MacIntel~Safari~Mac OS X--MacIntel~Chrome Mobile WebView~Android": 21}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome Mobile iOS~iOS": 21}
+{"iPhone~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 21}
+{"Win32~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 21}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 21}
+{"MacIntel~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 20}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Edge~Windows": 20}
+{"iPhone~Chrome Mobile iOS~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 20}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Other": 20}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Other": 20}
+{"Win32~Other~Other--Win32~Mobile Safari UI/WKWebView~iOS": 20}
+{"iPhone~Facebook~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 20}
+{"Linux aarch64~Chrome~Android--Linux aarch64~Chrome Mobile~Android": 20}
+{"Linux armv8l~Chrome~Android--Linux armv8l~Chrome Mobile WebView~Android": 20}
+{"Linux aarch64~Apple Mail~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 20}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile iOS~iOS": 20}
+{"iPad~Mobile Safari~iOS--iPhone~Mobile Safari~iOS": 20}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Firefox~Windows": 20}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Edge~Windows": 20}
+{"Linux armv81~Other~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 20}
+{"Linux aarch64~Chrome Mobile~Android--Linux armv8l~Chrome Mobile~Android": 19}
+{"Win32~Edge~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 19}
+{"iPhone~Chrome~Android--iPhone~Instagram~iOS": 19}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome Mobile WebView~Android": 19}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 19}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 19}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Instagram~iOS": 19}
+{"MacIntel~Chrome~Mac OS X--MacIntel~Mobile Safari UI/WKWebView~iOS": 19}
+{"iPad~Google~iOS--iPhone~Google~iOS": 18}
+{"iPhone~Google~iOS--iPad~Google~iOS": 18}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile iOS~iOS": 18}
+{"iPhone~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 18}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Apple Mail~Other": 18}
+{"iPhone~Chrome~Windows--iPhone~Safari~Other": 18}
+{"iPhone~Chrome~Windows--iPhone~Chrome~Other": 18}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv7l~Chrome Mobile WebView~Android": 18}
+{"Linux armv81~Edge~Linux--Linux armv81~Edge Mobile~Android": 18}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Edge~Windows": 18}
+{"MacIntel~Edge~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 18}
+{"Linux armv8l~Firefox~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 18}
+{"iPhone~Samsung Internet~Android--iPhone~Chrome Mobile WebView~Android": 17}
+{"iPhone~Opera~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 17}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Apple Mail~Other": 17}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 17}
+{"Linux aarch64~Chrome~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 17}
+{"Linux armv8l~Chrome~Linux--Linux armv81~Chrome~Linux": 17}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Other~Other": 17}
+{"Linux armv8l~Chrome~Windows--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 17}
+{"Linux armv8l~DuckDuckGo Mobile~Android--Linux armv8l~Chrome Mobile WebView~Linux": 17}
+{"iPhone~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 17}
+{"Win32~Opera~Windows--Win32~Chrome~Windows": 17}
+{"Linux armv8l~Safari~Other--Linux aarch64~Chrome Mobile WebView~Android": 17}
+{"iPhone~Apple Mail~Other--iPhone~Chrome Mobile WebView~Android": 17}
+{"Linux aarch64~Firefox~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 17}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 16}
+{"MacIntel~Firefox~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 16}
+{"iPhone~Chrome Mobile WebView~Android--MacIntel~Chrome Mobile WebView~Android": 16}
+{"Linux armv7l~Chrome Mobile~Android--Linux armv7l~Chrome~Linux": 16}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile WebView~Android": 16}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Firefox~Windows": 16}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 16}
+{"Linux aarch64~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 16}
+{"Linux armv81~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 16}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Edge Mobile~iOS": 16}
+{"Win32~Chrome Mobile WebView~Android--Win32~Edge~Windows": 16}
+{"Linux aarch64~Edge~Windows--Linux armv8l~Chrome Mobile WebView~Android": 16}
+{"Linux armv81~Chrome~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 16}
+{"Linux armv8l~Edge~Windows--Linux aarch64~Chrome Mobile WebView~Android": 16}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 16}
+{"Win32~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile WebView~Android": 16}
+{"iPhone~Instagram~iOS--iPhone~Chrome~Android": 16}
+{"iPhone~DuckDuckGo Mobile~iOS--MacIntel~Safari~Mac OS X": 16}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Other~Other": 16}
+{"MacIntel~Safari~Other--Win32~Mobile Safari UI/WKWebView~iOS": 16}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 16}
+{"Win32~Safari~Other--Win32~Chrome Mobile WebView~Android": 16}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Firefox~Windows": 16}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Firefox~Windows": 16}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Instagram~Android": 16}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Other~Other": 15}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 15}
+{"MacIntel~Other~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 15}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile iOS~iOS": 15}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Other~Other": 15}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPad~Mobile Safari UI/WKWebView~iOS": 15}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Instagram~iOS": 15}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 15}
+{"Linux armv8l~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 15}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Samsung Internet~Android": 15}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Instagram~iOS": 15}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Other": 15}
+{"Linux armv8l~Edge~Windows--Linux armv8l~Chrome Mobile WebView~Android": 15}
+{"Linux armv8l~Chrome Mobile WebView~Android--Win32~Chrome Mobile WebView~Android": 15}
+{"Linux aarch64~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 15}
+{"Linux aarch64~Chrome Mobile~Android--Linux aarch64~Chrome~Android": 15}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 15}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Other": 15}
+{"Linux armv81~Safari~Other--Linux armv81~Chrome Mobile WebView~Android": 15}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Apple Mail~Other": 15}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Instagram~iOS": 15}
+{"Win32~Apple Mail~Other--Win32~Mobile Safari UI/WKWebView~iOS": 15}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Android": 15}
+{"Win32~Chrome~Other--Win32~Chrome Mobile WebView~Android": 15}
+{"Linux armv8l~DuckDuckGo Mobile~Android--Linux aarch64~DuckDuckGo Mobile~Android": 15}
+{"Win32~Chrome~Windows--MacIntel~Chrome Mobile WebView~Android": 15}
+{"Win32~Chrome Mobile WebView~Android--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 14}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 14}
+{"iPhone~Chrome~Windows--iPhone~Instagram~iOS": 14}
+{"Linux aarch64~Chrome~Android--Linux aarch64~Chrome~Windows": 14}
+{"Win32~Chrome~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 14}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Android": 14}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Safari~Other": 14}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Edge~Windows": 14}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 14}
+{"iPhone~Chrome~Android--iPhone~Edge~Windows": 14}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Other": 14}
+{"iPhone~Chrome~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 14}
+{"MacIntel~Apple Mail~Mac OS X--MacIntel~Chrome Mobile WebView~Android": 14}
+{"iPhone~Chrome Mobile iOS~iOS--iPhone~Chrome~Windows": 14}
+{"Linux aarch64~Safari~Other--Linux armv8l~Chrome Mobile WebView~Android": 14}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Other~Other": 14}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 14}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 14}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 14}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 14}
+{"Win32~Edge~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 14}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Chrome Mobile WebView~Android": 14}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 14}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome~Windows": 14}
+{"iPhone~Other~Other--iPhone~Chrome~Windows": 14}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Safari~Other": 14}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Edge~Windows": 14}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 14}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Samsung Internet~Android": 14}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile iOS~iOS": 14}
+{"Linux aarch64~Chrome~Linux--Linux aarch64~Chrome Mobile~Android": 14}
+{"MacIntel~Chrome~Android--MacIntel~Chrome Mobile WebView~Android": 14}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome Mobile WebView~Android": 14}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Other~Other": 14}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Linux": 14}
+{"Linux armv8l~Chrome~Windows--Linux armv81~Chrome Mobile WebView~Android": 13}
+{"iPad~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 13}
+{"Linux aarch64~Chrome Mobile WebView~Android--MacIntel~Chrome Mobile WebView~Android": 13}
+{"iPhone~Chrome~Other--iPhone~Chrome~Android": 13}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome~Windows": 13}
+{"Linux armv8l~Chrome~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux aarch64~Safari~Other--Linux aarch64~Chrome Mobile WebView~Android": 13}
+{"Linux x86_64~Chrome Mobile WebView~Android--Win32~Mobile Safari UI/WKWebView~iOS": 13}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Edge~Windows": 13}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Chrome~Android": 13}
+{"iPhone~Mobile Safari~iOS--iPhone~Safari~Mac OS X": 13}
+{"Win32~Firefox~Windows--Win32~Chrome Mobile WebView~Android": 13}
+{"Linux aarch64~Safari~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Chrome~Android": 13}
+{"iPhone~Chrome~Windows--iPhone~Other~Other": 13}
+{"Linux aarch64~Samsung Internet~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Other": 13}
+{"Linux aarch64~Chrome~Other--Linux aarch64~Chrome Mobile WebView~Android": 13}
+{"iPhone~Chrome~Android--iPhone~Other~Other": 13}
+{"Win32~Chrome~Android--Win32~Chrome~Windows": 13}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Apple Mail~Other": 13}
+{"Linux armv8l~Chrome~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux armv7l~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 13}
+{"Linux aarch64~Instagram~iOS--Linux armv8l~Chrome Mobile WebView~Android": 12}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Samsung Internet~Android": 12}
+{"Linux aarch64~DuckDuckGo Mobile~Android--Linux aarch64~Chrome Mobile WebView~Linux": 12}
+{"Linux armv8l~Firefox~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 12}
+{"Linux aarch64~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 12}
+{"iPad~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 12}
+{"Win32~Chrome Mobile WebView~Android--Win32~Safari~Other": 12}
+{"Linux armv8l~Chrome~Windows--Linux aarch64~Chrome~Windows": 12}
+{"Linux aarch64~Samsung Internet~Android--Linux aarch64~Chrome Mobile WebView~Android": 12}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Firefox~Windows": 12}
+{"Linux armv8l~Samsung Internet~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 12}
+{"Linux armv7l~Chrome~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 12}
+{"Win32~Chrome Mobile WebView~Android--iPhone~Chrome Mobile WebView~Android": 12}
+{"iPhone~Chrome Mobile WebView~Android--Win32~Chrome Mobile WebView~Android": 12}
+{"Linux x86_64~Chrome~Chrome OS--Win32~Mobile Safari UI/WKWebView~iOS": 12}
+{"Linux aarch64~Chrome~Android--Linux armv81~Chrome~Android": 12}
+{"Win32~Chrome~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 12}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Apple Mail~Other": 12}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Firefox~Windows": 12}
+{"Linux armv8l~Chrome~Windows--Linux armv8l~Chrome~Android": 12}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Other~Other": 12}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Safari~Other": 12}
+{"MacIntel~Chrome Mobile WebView~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 12}
+{"Linux armv8l~Apple Mail~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 12}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Edge~Windows": 12}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Instagram~iOS": 12}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Firefox~Windows": 12}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Samsung Internet~Android": 12}
+{"iPhone~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 12}
+{"iPhone~Instagram~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 12}
+{"MacIntel~Safari~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 12}
+{"Win32~Chrome Mobile WebView~Android--MacIntel~Chrome~Windows": 12}
+{"MacIntel~Chrome~Windows--MacIntel~Chrome~Android": 11}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile iOS~iOS": 11}
+{"iPhone~Instagram~iOS--iPhone~Chrome~Windows": 11}
+{"MacIntel~Edge~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 11}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv81~Chrome~Linux": 11}
+{"iPhone~Edge~Windows--iPhone~Chrome~Android": 11}
+{"Linux aarch64~Edge~Windows--Linux aarch64~Chrome Mobile WebView~Android": 11}
+{"Linux armv81~Chrome Mobile WebView~Android--Win32~Chrome Mobile WebView~Android": 11}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Chrome~Android": 11}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Safari~Other": 11}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Win32~Firefox~Windows": 11}
+{"Linux armv8l~Instagram~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 11}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 11}
+{"Linux aarch64~Samsung Internet~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 11}
+{"Win32~Instagram~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 11}
+{"iPhone~Chrome~Windows--iPad~Mobile Safari UI/WKWebView~iOS": 11}
+{"MacIntel~Chrome Mobile WebView~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 11}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 11}
+{"iPhone~Chrome~Windows--MacIntel~Chrome Mobile WebView~Android": 11}
+{"Linux aarch64~Chrome~Other--Linux armv8l~Chrome Mobile WebView~Android": 11}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Instagram~iOS": 11}
+{"MacIntel~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 11}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Other": 11}
+{"Linux aarch64~Chrome~Android--Linux armv8l~Chrome~Windows": 11}
+{"Win32~Safari~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 11}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Apple Mail~Other": 11}
+{"Linux armv8l~Safari~Other--Linux armv8l~Chrome Mobile WebView~Android": 11}
+{"Win32~Firefox~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 11}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 11}
+{"Linux aarch64~Phantom~Android--Linux armv81~Phantom~Android": 11}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 11}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome Mobile WebView~Android": 11}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv7l~Chrome~Windows": 11}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Safari~Other": 11}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 11}
+{"Linux armv81~Edge~Windows--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 11}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome~Android": 11}
+{"MacIntel~Edge~Windows--MacIntel~Chrome Mobile WebView~Android": 11}
+{"MacIntel~Chrome~Android--MacIntel~Chrome~Windows": 11}
+{"iPhone~Chrome Mobile WebView~Android--MacIntel~Chrome~Windows": 11}
+{"iPhone~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile WebView~Android": 11}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Chrome~Android": 10}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 10}
+{"Linux aarch64~Chrome~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Chrome~Windows": 10}
+{"iPhone~Edge Mobile~iOS--MacIntel~Safari~Mac OS X": 10}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Firefox Mobile~Android": 10}
+{"Win32~Chrome~Windows--Win32~Chrome Mobile~Android": 10}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Edge~Windows": 10}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 10}
+{"Linux armv8l~Chrome Mobile WebView~Linux--Linux armv8l~DuckDuckGo Mobile~Android": 10}
+{"Linux aarch64~Instagram~iOS--Linux aarch64~Chrome Mobile WebView~Android": 10}
+{"Linux aarch64~Chrome~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv81~Samsung Internet~Android": 10}
+{"Linux armv8l~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 10}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Other": 10}
+{"Win32~Chrome Mobile~Android--Win32~Chrome~Windows": 10}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 10}
+{"iPhone~Chrome Mobile iOS~iOS--iPad~Mobile Safari UI/WKWebView~iOS": 10}
+{"Win32~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 10}
+{"Win32~Chrome~Windows--Win32~Safari~Other": 10}
+{"Linux aarch64~Chrome Mobile WebView~Android--Win32~Chrome~Windows": 10}
+{"Win32~Chrome Mobile WebView~Android--Win32~Chrome~Other": 10}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 10}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Windows": 10}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Other~Other": 10}
+{"MacIntel~Chrome~Other--Win32~Mobile Safari UI/WKWebView~iOS": 10}
+{"iPhone~Google~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 10}
+{"MacIntel~Safari~Mac OS X--iPhone~DuckDuckGo Mobile~iOS": 10}
+{"iPhone~Edge Mobile~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux x86_64~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv8l~Instagram~iOS--Linux aarch64~Chrome Mobile WebView~Android": 10}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Safari~Other": 10}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Safari~Other": 10}
+{"iPhone~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 10}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Other": 10}
+{"Linux armv81~Instagram~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Windows": 10}
+{"Linux armv81~Apple Mail~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 10}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 10}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Other~Android": 10}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Other~Other": 10}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 10}
+{"Win32~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Windows": 10}
+{"Linux aarch64~Edge~Windows--Linux aarch64~Chrome~Windows": 10}
+{"iPhone~Chrome~Android--iPhone~Safari~Other": 10}
+{"iPhone~Google~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 10}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Other": 10}
+{"Linux armv8l~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 10}
+{"MacIntel~Chrome Mobile WebView~Android--Win32~Chrome~Windows": 10}
+{"Linux armv8l~Chrome~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 10}
+{"MacIntel~Chrome Mobile iOS~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 10}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Samsung Internet~Android": 9}
+{"Win32~Chrome~Windows--Win32~Chrome~Other": 9}
+{"MacIntel~Safari~Other--MacIntel~Chrome Mobile WebView~Android": 9}
+{"Linux armv81~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 9}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Edge~Windows": 9}
+{"iPhone~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 9}
+{"Win32~Chrome~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 9}
+{"iPhone~Chrome~Windows--iPhone~Chrome Mobile iOS~iOS": 9}
+{"Linux aarch64~Chrome~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Chrome~Android": 9}
+{"Win32~Chrome~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv8l~Chrome~Windows--Linux aarch64~Chrome~Android": 9}
+{"Win32~Chrome~Windows--Win32~Other~Other": 9}
+{"Linux armv81~Samsung Internet~Android--Linux armv81~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Windows": 9}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Edge Mobile~Android": 9}
+{"Linux aarch64~Samsung Internet~Android--Linux armv8l~Samsung Internet~Android": 9}
+{"iPhone~Chrome~Other--Win32~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 9}
+{"Win32~Chrome~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 9}
+{"MacIntel~Instagram~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Android": 9}
+{"iPhone~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 9}
+{"Linux armv8l~Chrome~Android--Linux armv81~Chrome Mobile~Android": 9}
+{"Linux aarch64~Chrome Mobile WebView~Android--iPhone~Chrome Mobile WebView~Android": 9}
+{"Linux armv8l~Apple Mail~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Chrome~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 9}
+{"Win32~Chrome~Windows--Win32~Opera~Windows": 9}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Safari~Other": 9}
+{"Linux armv8l~Safari~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Chrome~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 9}
+{"Win32~Samsung Internet~Android--Win32~Mobile Safari UI/WKWebView~iOS": 9}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Safari~Other": 9}
+{"iPhone~Safari~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Other~Other": 9}
+{"Linux armv81~Chrome Mobile~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv7l~Chrome~Linux--Linux armv7l~Chrome Mobile~Android": 9}
+{"MacIntel~Instagram~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Firefox~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 9}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Safari~Other": 9}
+{"MacIntel~Chrome~Windows--Win32~Chrome Mobile WebView~Android": 9}
+{"Linux armv8l~Chrome Mobile WebView~Android--Win32~Chrome~Windows": 9}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Other~Other": 9}
+{"MacIntel~Chrome~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 8}
+{"Win32~Chrome~Windows--MacIntel~Chrome~Android": 8}
+{"iPhone~Edge~Windows--iPhone~Chrome~Other": 8}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Windows": 8}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPad~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 8}
+{"Win32~Chrome~Windows--MacIntel~Chrome~Windows": 8}
+{"Linux armv81~Edge~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 8}
+{"iPhone~Other~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 8}
+{"Win32~Edge~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 8}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Windows": 8}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Other": 8}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Firefox~Windows": 8}
+{"iPhone~Chrome~Windows--Win32~Chrome Mobile WebView~Android": 8}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile~Android": 8}
+{"iPhone~Edge~Windows--iPhone~Safari~Other": 8}
+{"Win32~Chrome~Windows--Win32~Instagram~iOS": 8}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Windows": 8}
+{"iPhone~Chrome Mobile WebView~Android--Win32~Chrome~Windows": 8}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Windows": 8}
+{"MacIntel~Chrome~Mac OS X--MacIntel~Edge~Mac OS X": 8}
+{"MacIntel~Chrome~Other--MacIntel~Chrome Mobile WebView~Android": 8}
+{"Linux aarch64~Edge~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux aarch64~Chrome~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv81~Samsung Internet~Android--Linux armv81~Chrome Mobile WebView~Android": 8}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv7l~DuckDuckGo Mobile~Android": 8}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Other~Other": 8}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Apple Mail~Other": 8}
+{"Linux aarch64~Facebook~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv81~Chrome~Android--Win32~Mobile Safari UI/WKWebView~iOS": 8}
+{"MacIntel~Chrome Mobile WebView~Android--iPhone~Chrome~Windows": 8}
+{"Linux aarch64~Instagram~iOS--Linux armv81~Mobile Safari UI/WKWebView~iOS": 8}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Android": 8}
+{"Linux armv8l~Chrome~Other--Linux armv8l~Chrome Mobile WebView~Android": 8}
+{"Win32~Safari~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Edge~Windows": 8}
+{"iPhone~Chrome Mobile iOS~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 8}
+{"MacIntel~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile WebView~Android": 8}
+{"Win32~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Other": 8}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Firefox~Windows": 8}
+{"MacIntel~CFNetwork~iOS--MacIntel~Safari~Mac OS X": 8}
+{"Linux armv81~Chrome Mobile~Android--Win32~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Android": 8}
+{"Linux x86_64~Chrome~Linux--Linux x86_64~Chrome~Other": 8}
+{"iPhone~Firefox Mobile~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Apple Mail~Other": 8}
+{"Linux armv81~Chrome~Windows--Linux armv8l~Chrome Mobile WebView~Android": 8}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Edge~Windows": 8}
+{"Win32~Chrome Mobile WebView~Android--MacIntel~Chrome~Android": 8}
+{"iPad~Chrome~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 8}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Edge~Windows": 8}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 8}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Chrome~Android": 7}
+{"Linux armv8l~Safari~Other--Linux aarch64~Chrome~Windows": 7}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Edge~Windows": 7}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Other": 7}
+{"Linux aarch64~Chrome~Windows--Linux aarch64~Chrome~Android": 7}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome~Android": 7}
+{"Linux armv8l~Edge~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 7}
+{"Win32~Chrome~Android--MacIntel~Chrome Mobile WebView~Android": 7}
+{"Linux aarch64~Chrome~Android--Linux armv8l~Chrome~Android": 7}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Chrome~Windows": 7}
+{"MacIntel~Apple Mail~Mac OS X--iPhone~Mobile Safari UI/WKWebView~iOS": 7}
+{"Linux armv7l~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 7}
+{"Win32~Safari~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 7}
+{"iPad~Mobile Safari UI/WKWebView~iOS--iPhone~Safari~Other": 7}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Other~Other": 7}
+{"Linux aarch64~Safari~Other--Linux aarch64~Chrome~Windows": 7}
+{"iPhone~Chrome~Other--iPhone~Instagram~iOS": 7}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome~Other": 7}
+{"Linux aarch64~Chrome~Windows--Linux armv8l~Safari~Other": 7}
+{"iPhone~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Firefox iOS~iOS": 7}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome~Windows": 7}
+{"iPhone~Edge~Windows--iPhone~Instagram~iOS": 7}
+{"iPhone~Edge Mobile~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 7}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 7}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux aarch64~Apple Mail~Other": 7}
+{"Linux armv8l~Chrome~Android--Linux armv81~Chrome Mobile WebView~Android": 7}
+{"Linux armv8l~Chrome Mobile iOS~iOS--Linux aarch64~Chrome Mobile WebView~Android": 7}
+{"Win32~Chrome Mobile WebView~Android--Win32~Instagram~iOS": 7}
+{"Linux armv81~Chrome~Android--Linux armv8l~Chrome Mobile WebView~Android": 7}
+{"MacIntel~Chrome~Android--iPhone~Chrome Mobile WebView~Android": 7}
+{"Win32~Chrome Mobile WebView~Android--Win32~Other~Other": 7}
+{"Linux aarch64~Chrome Mobile iOS~iOS--Linux armv8l~Chrome Mobile WebView~Android": 7}
+{"Linux aarch64~Edge Mobile~Android--Linux aarch64~Edge~Linux": 7}
+{"Win32~Chrome Mobile WebView~Android--Linux x86_64~Chrome Mobile WebView~Android": 7}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 7}
+{"Linux armv8l~Safari~Other--Linux armv8l~Chrome~Windows": 7}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Apple Mail~Other": 7}
+{"Linux aarch64~Chrome~Linux--Linux armv81~Chrome~Linux": 7}
+{"Win32~Other~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 7}
+{"Win32~Chrome Mobile iOS~iOS--MacIntel~Mobile Safari UI/WKWebView~iOS": 7}
+{"Win32~Chrome~Other--Win32~Chrome~Android": 7}
+{"iPhone~Safari~Mac OS X--iPhone~Mobile Safari~iOS": 7}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Facebook~Android": 7}
+{"Win32~Edge~Windows--Win32~Firefox~Windows": 7}
+{"iPhone~Chrome~Android--MacIntel~Chrome Mobile WebView~Android": 7}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Safari~Other": 7}
+{"Win32~Edge~Windows--Win32~Chrome~Android": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Instagram~iOS": 7}
+{"iPhone~Other~Other--iPhone~Edge~Windows": 7}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Safari~Other": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari~iOS": 7}
+{"Linux x86_64~Chrome~Other--Linux x86_64~Chrome~Linux": 7}
+{"Linux armv81~Chrome~Windows--Linux armv81~Chrome Mobile~Android": 7}
+{"Linux aarch64~Other~Other--Linux armv8l~Chrome Mobile WebView~Android": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 7}
+{"MacIntel~Chrome Mobile WebView~Android--iPad~Mobile Safari UI/WKWebView~iOS": 7}
+{"Linux aarch64~Instagram~iOS--Linux aarch64~Chrome~Windows": 7}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile iOS~iOS": 7}
+{"Linux aarch64~Chrome Mobile iOS~iOS--Linux aarch64~Chrome Mobile WebView~Android": 7}
+{"Linux armv81~Safari~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 7}
+{"iPhone~Safari~Other--iPhone~Chrome~Android": 7}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv8l~Chrome Mobile iOS~iOS": 7}
+{"Win32~Chrome Mobile WebView~Android--Win32~Chrome Mobile iOS~iOS": 7}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 7}
+{"iPhone~Safari~Other--Win32~Mobile Safari UI/WKWebView~iOS": 7}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 7}
+{"Linux armv8l~Chrome~Other--Linux aarch64~Chrome Mobile WebView~Android": 7}
+{"MacIntel~Chrome~Android--Win32~Chrome Mobile WebView~Android": 7}
+{"iPhone~Firefox~Other--iPhone~Chrome Mobile WebView~Android": 6}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Other": 6}
+{"Linux armv81~Instagram~iOS--Linux armv81~Chrome Mobile WebView~Android": 6}
+{"Linux aarch64~Edge~Windows--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv8l~Chrome~Android--Linux aarch64~Chrome~Windows": 6}
+{"iPhone~Google~iOS--MacIntel~Chrome Mobile WebView~Android": 6}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv7l~Chrome Mobile WebView~Android": 6}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Instagram~iOS": 6}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv81~Edge~Windows": 6}
+{"Linux aarch64~Samsung Internet~Android--Linux armv81~Samsung Internet~Android": 6}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--iPhone~Instagram~iOS": 6}
+{"Linux aarch64~Opera Mobile~Android--Linux armv81~Opera Mobile~Android": 6}
+{"MacIntel~Chrome~Mac OS X--MacIntel~Chrome Mobile WebView~Android": 6}
+{"Win32~Chrome Mobile iOS~iOS--Win32~Chrome Mobile WebView~Android": 6}
+{"iPhone~Chrome~Windows--iPhone~Samsung Internet~Android": 6}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Safari~Other": 6}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Samsung Internet~Linux": 6}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Other": 6}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Edge~Windows": 6}
+{"Linux armv81~Chrome~Other--Linux armv81~Chrome~Windows": 6}
+{"Linux aarch64~Opera Mobile~Android--Linux aarch64~Opera~Linux": 6}
+{"iPhone~Safari~Other--iPhone~Edge~Windows": 6}
+{"Linux armv8l~Chrome Mobile WebView~Android--MacIntel~Chrome Mobile WebView~Android": 6}
+{"MacIntel~Chrome~Windows--iPhone~Chrome~Windows": 6}
+{"iPhone~Chrome~Other--MacIntel~Mobile Safari UI/WKWebView~iOS": 6}
+{"MacIntel~Apple Mail~Mac OS X--MacIntel~Chrome~Windows": 6}
+{"iPhone~Other~Other--iPhone~Chrome~Android": 6}
+{"iPhone~Apple Mail~Other--iPhone~Chrome~Windows": 6}
+{"MacIntel~Safari~Mac OS X--MacIntel~CFNetwork~iOS": 6}
+{"Win32~Chrome~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 6}
+{"Win32~Opera~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux aarch64~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Instagram~iOS": 6}
+{"Win32~Chrome~Windows--Linux x86_64~Chrome Mobile WebView~Android": 6}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Firefox~Linux": 6}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 6}
+{"Linux armv8l~Other~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Samsung Internet~Android": 6}
+{"Linux armv81~Chrome~Windows--Linux aarch64~Chrome Mobile WebView~Android": 6}
+{"Win32~Chrome~Windows--MacIntel~Safari~Other": 6}
+{"MacIntel~Edge~Mac OS X--MacIntel~Chrome~Mac OS X": 6}
+{"iPhone~Chrome~Android--iPhone~Chrome~Other": 6}
+{"Linux armv8l~Chrome~Android--Linux aarch64~Chrome~Android": 6}
+{"Linux x86_64~Firefox~Linux--Linux x86_64~Firefox~Ubuntu": 6}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv8l~Chrome~Windows--Linux armv81~Chrome~Windows": 6}
+{"Linux armv7l~Chrome~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux x86_64~Firefox~Ubuntu--Linux x86_64~Firefox~Linux": 6}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Instagram~iOS": 6}
+{"Linux aarch64~Chrome~Windows--Linux aarch64~Instagram~iOS": 6}
+{"Win32~Instagram~iOS--Win32~Chrome Mobile WebView~Android": 6}
+{"MacIntel~Safari~Mac OS X--MacIntel~Chrome~Windows": 6}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Firefox~Windows": 6}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Edge~Windows": 6}
+{"Linux armv8l~Chrome~Android--Linux armv8l~Chrome~Linux": 6}
+{"Win32~Chrome Mobile WebView~Android--iPhone~Chrome~Windows": 6}
+{"Linux armv8l~Chrome~Android--Linux armv8l~Chrome~Windows": 6}
+{"Win32~Chrome~Windows--iPhone~Chrome Mobile WebView~Android": 6}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile iOS~iOS": 6}
+{"Win32~Chrome Mobile WebView~Android--Linux armv81~Chrome~Windows": 6}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Firefox~Windows": 6}
+{"MacIntel~Samsung Internet~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 6}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--MacIntel~Samsung Internet~Android": 6}
+{"MacIntel~Samsung Internet~Android--Win32~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile WebView~Android": 6}
+{"Win32~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile iOS~iOS": 6}
+{"Win32~Edge~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 6}
+{"iPhone~Instagram~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Samsung Internet~Android": 6}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Other~Other": 6}
+{"iPad~Chrome Mobile WebView~Android--iPhone~Chrome Mobile WebView~Android": 6}
+{"MacIntel~Apple Mail~Mac OS X--Win32~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Chrome~Other": 6}
+{"Win32~Chrome~Windows--Win32~Samsung Internet~Android": 6}
+{"Linux armv7l~Edge~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 6}
+{"Win32~Chrome Mobile WebView~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 6}
+{"Win32~Edge~Windows--Win32~Chrome~Other": 6}
+{"Linux aarch64~Safari~Other--Win32~Mobile Safari UI/WKWebView~iOS": 6}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux armv81~Other~Other": 6}
+{"MacIntel~Instagram~iOS--MacIntel~Chrome Mobile WebView~Android": 6}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Edge~Windows": 6}
+{"Win32~Chrome Mobile WebView~Android--iPhone~Chrome~Android": 6}
+{"iPhone~Safari~Other--iPhone~Chrome~Other": 6}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Chrome Mobile iOS~iOS": 6}
+{"Win32~Chrome~Other--Win32~Chrome~Windows": 5}
+{"Linux armv8l~Chrome~Windows--Win32~Chrome Mobile WebView~Android": 5}
+{"Win32~Chrome~Other--Linux armv81~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 5}
+{"Win32~Safari~Other--Win32~Chrome~Windows": 5}
+{"MacIntel~Firefox~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Safari~Mac OS X--iPhone~Edge Mobile~iOS": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Chrome~Other": 5}
+{"iPad~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Chrome~Windows--Windows~Chrome~Windows": 5}
+{"Linux x86_64~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Firefox~Other": 5}
+{"Linux armv8l~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Firefox~Other--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv81~Chrome~Windows--Linux armv81~Chrome~Android": 5}
+{"Linux aarch64~Chrome~Android--Linux aarch64~Edge~Windows": 5}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Samsung Internet~Android": 5}
+{"Linux armv7l~Chrome~Android--Linux armv7l~Chrome~Linux": 5}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Other~Other": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~Amazon Silk~Android": 5}
+{"iPhone~Chrome~Windows--MacIntel~Chrome~Windows": 5}
+{"Linux armv7l~Chrome Mobile WebView~Android--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Chrome Mobile iOS~iOS--Win32~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux armv81~Instagram~iOS": 5}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Win32~Edge~Windows": 5}
+{"Linux armv81~Chrome Mobile WebView~Android--MacIntel~Chrome Mobile WebView~Android": 5}
+{"Linux aarch64~Chrome~Other--Linux armv8l~Chrome~Windows": 5}
+{"Linux armv8l~Chrome~Windows--Linux aarch64~Safari~Other": 5}
+{"iPhone~Chrome~Android--iPad~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Windows": 5}
+{"Linux armv7l~Samsung Internet~Android--Linux armv7l~Samsung Internet~Linux": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPhone~DuckDuckGo Mobile~Android": 5}
+{"MacIntel~Chrome~Windows--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Firefox~Windows": 5}
+{"iPhone~Samsung Internet~Linux--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Safari~Other--Linux armv81~Chrome Mobile WebView~Android": 5}
+{"Linux armv81~Chrome~Windows--Linux armv81~Instagram~iOS": 5}
+{"Linux aarch64~Firefox~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Chrome~Android": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Apple Mail~Other--Linux aarch64~Chrome Mobile WebView~Android": 5}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Chrome~Other": 5}
+{"Linux armv8l~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPhone~Instagram~iOS--iPhone~Safari~Other": 5}
+{"MacIntel~Apple Mail~Other--MacIntel~Safari~Mac OS X": 5}
+{"MacIntel~Edge~Windows--MacIntel~Chrome~Android": 5}
+{"Linux armv8l~Chrome Mobile WebView~Android--iPhone~Chrome Mobile WebView~Android": 5}
+{"Linux armv8l~Chrome Mobile~Android--Linux armv81~Chrome~Android": 5}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Instagram~iOS": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Win32~Apple Mail~Other": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Win32~Chrome~Android": 5}
+{"Win32~Chrome Mobile WebView~Android--Win32~Firefox~Windows": 5}
+{"Win32~Firefox~Windows--MacIntel~Chrome Mobile WebView~Android": 5}
+{"iPhone~Apple Mail~Other--iPhone~Chrome~Android": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Chrome~Android": 5}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Windows": 5}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv8l~Chrome~Android": 5}
+{"Win32~Edge~Windows--Win32~Instagram~iOS": 5}
+{"MacIntel~Chrome~Mac OS X--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Chrome~Windows--iPhone~Chrome Mobile WebView~Android": 5}
+{"Win32~Firefox~Windows--Win32~Edge~Windows": 5}
+{"MacIntel~Safari~Other--iPhone~Mobile Safari~iOS": 5}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Win32~Chrome Mobile iOS~iOS": 5}
+{"iPad~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile WebView~Android": 5}
+{"iPhone~Firefox~Linux--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Instagram~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Instagram~iOS--MacIntel~Chrome~Windows": 5}
+{"Linux armv8l~Edge~Windows--Linux armv8l~Chrome~Windows": 5}
+{"Linux aarch64~Chrome~Windows--Linux armv81~Chrome Mobile WebView~Android": 5}
+{"Linux aarch64~Facebook~Android--Linux aarch64~Chrome Mobile WebView~Android": 5}
+{"Linux x86_64~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Chrome~Windows--Linux armv81~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPad~Chrome Mobile iOS~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Chrome~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Chrome~Windows--Linux aarch64~Safari~Other": 5}
+{"Linux armv8l~Safari~Other--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv81~Chrome Mobile~Android--Linux aarch64~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPhone~Firefox iOS~iOS--iPhone~Safari~Mac OS X": 5}
+{"iPhone~Mobile Safari~iOS--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Other~Other--Win32~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--iPhone~Chrome~Windows": 5}
+{"MacIntel~Chrome Mobile WebView~Android--MacIntel~Safari~Other": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv7l~Chrome Mobile WebView~Android": 5}
+{"Linux aarch64~Chrome~Other--Win32~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv7l~Mobile Safari UI/WKWebView~iOS--Linux armv8l~Safari~Other": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv8l~Apple Mail~Other": 5}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Apple Mail~Other": 5}
+{"MacIntel~Chrome Mobile WebView~Android--Linux aarch64~Chrome Mobile WebView~Android": 5}
+{"MacIntel~Safari~Mac OS X--iPad~DuckDuckGo Mobile~iOS": 5}
+{"iPad~DuckDuckGo Mobile~iOS--MacIntel~Safari~Mac OS X": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Chrome~Other": 5}
+{"iPhone~Safari~Other--iPad~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPhone~Other~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Win32~Safari~Other": 5}
+{"Linux armv81~Chrome Mobile~Android--Linux armv81~Chrome Mobile iOS~iOS": 5}
+{"Linux aarch64~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Firefox~Windows--Linux aarch64~Chrome Mobile WebView~Android": 5}
+{"iPhone~Facebook~Android--iPhone~Chrome Mobile WebView~Android": 5}
+{"Linux armv8l~Chrome Mobile WebView~Android--Linux aarch64~Firefox~Windows": 5}
+{"Linux aarch64~Chrome Mobile iOS~iOS--Linux aarch64~Chrome~Windows": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Chrome~Android": 5}
+{"Linux armv81~Chrome~Android--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome Mobile iOS~iOS": 5}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Safari~Other": 5}
+{"Linux aarch64~Apple Mail~Other--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Safari~Other": 5}
+{"iPad~Chrome Mobile WebView~Android--MacIntel~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Other~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv8l~Chrome~Other--Linux armv8l~Chrome~Windows": 5}
+{"iPhone~Firefox~Windows--iPhone~Chrome~Windows": 5}
+{"Win32~Firefox~Windows--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"MacIntel~Chrome~Other--MacIntel~Chrome~Windows": 5}
+{"Win32~Chrome Mobile WebView~Android--MacIntel~Edge~Windows": 5}
+{"Linux armv81~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Samsung Internet~Android": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--MacIntel~Samsung Internet~Android": 5}
+{"Linux aarch64~Samsung Internet~Android--Linux aarch64~Chrome~Windows": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--MacIntel~Chrome Mobile iOS~iOS": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Linux armv81~Safari~Other": 5}
+{"Linux armv81~Chrome Mobile~Android--Linux armv8l~Chrome Mobile~Android": 5}
+{"Linux x86_64~Chrome~Windows--Win32~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux aarch64~Edge~Windows": 5}
+{"iPhone~Chrome~Android--iPhone~Apple Mail~Other": 5}
+{"MacIntel~CFNetwork~Other--MacIntel~Safari~Mac OS X": 5}
+{"iPad~Mobile Safari UI/WKWebView~iOS--iPhone~Edge~Windows": 5}
+{"Linux armv81~Chrome~Other--Linux armv81~Chrome Mobile WebView~Android": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux x86_64~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux aarch64~Chrome~Android": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Instagram~iOS": 5}
+{"Linux armv81~Chrome~Android--Win32~Chrome~Windows": 5}
+{"iPhone~Chrome Mobile WebView~Android--iPhone~Firefox~Other": 5}
+{"MacIntel~Chrome~Mac OS X--Linux x86_64~Chrome~Other": 5}
+{"Linux armv8l~Firefox~Windows--Linux armv8l~Chrome Mobile WebView~Android": 5}
+{"Linux armv8l~Mobile Safari UI/WKWebView~iOS--iPhone~Chrome~Android": 5}
+{"iPhone~Chrome~Linux--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux armv81~Chrome~Other--iPhone~Mobile Safari UI/WKWebView~iOS": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--iPad~Chrome~Windows": 5}
+{"Linux armv81~Chrome~Windows--MacIntel~Mobile Safari UI/WKWebView~iOS": 5}
+{"Win32~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Android": 5}
+{"Linux aarch64~Chrome Mobile WebView~Android--Win32~Edge~Windows": 5}
+{"Linux armv81~Chrome Mobile WebView~Android--Linux armv81~Chrome~Other": 5}
+{"iPhone~Mobile Safari UI/WKWebView~iOS--Linux armv81~Chrome~Other": 5}
+{"Linux armv8l~Samsung Internet~Android--Linux armv8l~Mobile Safari UI/WKWebView~iOS": 5}
+{"Linux aarch64~Other~Other--Linux aarch64~Chrome Mobile WebView~Android": 5}

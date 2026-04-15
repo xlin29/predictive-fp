@@ -1,0 +1,47 @@
+{"Chrome--Edge": 18745}
+{"Edge--Chrome": 17553}
+{"Chrome Mobile--Chrome": 6349}
+{"Chrome--Chrome Mobile": 3659}
+{"Mobile Safari--Safari": 2734}
+{"Safari--Mobile Safari": 1762}
+{"Chrome Mobile iOS--Safari": 555}
+{"Safari--Chrome Mobile iOS": 282}
+{"Firefox iOS--Mobile Safari": 192}
+{"Mobile Safari--Firefox iOS": 135}
+{"DuckDuckGo Mobile--Chrome Mobile WebView": 133}
+{"Chrome Mobile--Edge": 129}
+{"Chrome Mobile WebView--DuckDuckGo Mobile": 120}
+{"Firefox--Chrome": 119}
+{"Edge--Chrome Mobile": 116}
+{"Chrome--Firefox": 113}
+{"Firefox Mobile--Firefox": 85}
+{"Firefox--Firefox Mobile": 51}
+{"Mobile Safari UI/WKWebView--Chrome": 47}
+{"Chrome--Mobile Safari UI/WKWebView": 38}
+{"Edge Mobile--Edge": 37}
+{"Mobile Safari--Firefox": 36}
+{"Chrome Mobile WebView--Chrome": 23}
+{"DuckDuckGo Mobile--Safari": 21}
+{"Edge--Edge Mobile": 21}
+{"Chrome--Chrome Mobile WebView": 15}
+{"Other--Mobile Safari UI/WKWebView": 15}
+{"Safari--DuckDuckGo Mobile": 15}
+{"Edge Mobile--Safari": 14}
+{"CFNetwork--Safari": 11}
+{"Safari--Edge Mobile": 10}
+{"Opera Mobile--Opera": 10}
+{"Other--Chrome": 8}
+{"Chrome Mobile--Chrome Mobile WebView": 8}
+{"Edge--Firefox": 8}
+{"Chrome Mobile WebView--Chrome Mobile": 8}
+{"Safari--Chrome": 7}
+{"Safari--CFNetwork": 7}
+{"Chrome--Other": 6}
+{"Firefox--Edge": 6}
+{"Chrome Mobile--Firefox": 6}
+{"Chrome--Safari": 6}
+{"Safari--Firefox": 5}
+{"Safari--Firefox iOS": 5}
+{"Firefox iOS--Safari": 5}
+{"Mobile Safari--Chrome": 5}
+{"Opera--Opera Mobile": 5}

@@ -1,0 +1,229 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>FP Randomizer</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        margin: 12px;
+        width: 320px;
+        background: #f5f5f7;
+        color: #111827;
+      }
+
+      h3 {
+        margin: 0 0 4px;
+        font-size: 16px;
+      }
+
+      .subtitle {
+        margin: 0 0 12px;
+        font-size: 12px;
+        color: #6b7280;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 10px;
+        padding: 12px;
+        box-shadow: 0 1px 4px rgba(15, 23, 42, 0.08);
+        margin-bottom: 10px;
+      }
+
+      .toggle-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+      }
+
+      #toggleButton,
+      #uaToggleButton {
+        border: none;
+        border-radius: 999px;
+        padding: 6px 14px;
+        font-size: 13px;
+        cursor: pointer;
+        font-weight: 500;
+        transition: background 0.15s ease, color 0.15s ease,
+          box-shadow 0.15s ease;
+      }
+
+      #toggleButton.on,
+      #uaToggleButton.on {
+        background: #22c55e;
+        color: #ffffff;
+        box-shadow: 0 0 0 1px rgba(34, 197, 94, 0.6);
+      }
+
+      #toggleButton.off,
+      #uaToggleButton.off {
+        background: #e5e7eb;
+        color: #374151;
+        box-shadow: none;
+      }
+
+      .status-pill {
+        font-size: 11px;
+        padding: 3px 8px;
+        border-radius: 999px;
+        background: #e5e7eb;
+        color: #4b5563;
+      }
+
+      .status-pill.on {
+        background: #dcfce7;
+        color: #166534;
+      }
+
+      .status-pill.off {
+        background: #fee2e2;
+        color: #991b1b;
+      }
+
+      .section-title {
+        font-size: 12px;
+        font-weight: 600;
+        margin: 0 0 6px;
+        color: #374151;
+      }
+
+      .footnote {
+        font-size: 11px;
+        color: #6b7280;
+        margin-top: 4px;
+      }
+
+      #randomizeButton {
+        border: none;
+        border-radius: 999px;
+        padding: 6px 14px;
+        font-size: 13px;
+        cursor: pointer;
+        font-weight: 500;
+        background: #eef2ff;
+        color: #3730a3;
+        transition: background 0.15s ease, color 0.15s ease,
+          box-shadow 0.15s ease;
+      }
+
+      #randomizeButton:hover {
+        background: #e0e7ff;
+      }
+
+      /* input styling for max-age */
+      #maxAgeInput {
+        width: 80px;
+        padding: 4px 8px;
+        border-radius: 6px;
+        border: 1px solid #d1d5db;
+        font-size: 13px;
+        outline: none;
+      }
+
+      #maxAgeInput:focus {
+        border-color: #6366f1;
+        box-shadow: 0 0 0 1px rgba(99, 102, 241, 0.35);
+      }
+
+      .inline-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      /* allowlist textarea */
+      #allowlistInput {
+        width: 100%;
+        min-height: 80px;
+        resize: vertical;
+        padding: 6px 8px;
+        border-radius: 6px;
+        border: 1px solid #d1d5db;
+        font-size: 12px;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+        outline: none;
+        box-sizing: border-box;
+      }
+
+      #allowlistInput:focus {
+        border-color: #6366f1;
+        box-shadow: 0 0 0 1px rgba(99, 102, 241, 0.35);
+      }
+    </style>
+  </head>
+  <body>
+    <h3>FP Randomizer</h3>
+    <p class="subtitle">fingerprint noise control</p>
+
+    <div class="card">
+      <div class="toggle-row">
+        <div>
+          <div class="section-title">Status</div>
+          <div id="statusText" class="status-pill off">Disabled</div>
+        </div>
+        <button id="toggleButton" class="off">Turn on</button>
+      </div>
+      <p class="footnote">
+        When enabled, spoofing is applied on all non allowlisted websites.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="toggle-row">
+        <div>
+          <div class="section-title">User-Agent spoofing</div>
+          <div id="uaStatusText" class="status-pill on">On</div>
+        </div>
+        <button id="uaToggleButton" class="on">Turn off UA</button>
+      </div>
+      <p class="footnote">
+        Controls spoofing of <code>navigator.userAgent</code> and HTTP
+        <code>User-Agent</code> header. Other fingerprint noise stays enabled.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="section-title">One-time randomization</div>
+      <button id="randomizeButton">Randomize now</button>
+      <p class="footnote">
+        Generates a new spoofed browser identity once. Reload pages to use it.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="section-title">Identity lifetime</div>
+      <div class="inline-row">
+        <input
+          id="maxAgeInput"
+          type="number"
+          min="0"
+          max="365"
+          step="1"
+        />
+        <span class="footnote">days before auto-rotation</span>
+      </div>
+      <p class="footnote">
+        After this many days, a new identity is generated automatically.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="section-title">Allowlist websites</div>
+      <textarea
+        id="allowlistInput"
+        placeholder="example.com&#10;.bank.com&#10;internal.service.local"
+      ></textarea>
+      <p class="footnote">
+        One domain per line. Use <code>example.com</code> for a single domain or
+        <code>.example.com</code> to match the domain and all subdomains.
+        Allowlisted sites keep their original fingerprint.
+      </p>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
